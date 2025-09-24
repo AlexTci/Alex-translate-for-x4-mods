@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="993433" title="ship_argon_xl_aircraft_carrier_goliath" descr="ship_argon_xl_aircraft_carrier_goliath" voice="yes">
+			<t id="1">Goliath</t>
+			<t id="2">(Goliath) {993433,4}</t>
+			<t id="3">After the reconnection of the jumpgate, the Argon Federation purchased many useful new technologies from the colonies that had previously lost contact. With the continuous recovery of the federal economy, the Argon Federation began to build a new type of aircraft carrier. Unlike the Colossus class, which had abandoned many functions for mass production during special periods, the Goliath class was initially designed as a flagship. In addition to having a large hangar, There are also 8 catapults built for rapid takeoff and landing. According to tradition, the first aircraft carrier of this type was named Argon One and deployed on patrol in the Argon Prime.</t>
+			<t id="4">Goliath</t>
+			<t id="5">Photon Pulse Engine</t>
+			<t id="6">(Photon Pulse Engine) {993433,8}</t>
+			<t id="7">The photon pulse engine is a product of the Argon Federation's controllable breakthrough in photon pulse technology, jointly developed by TerraCorp. and Argonia Design Institute. It was originally designed to provide more power than the general XL class engine for the planned new aircraft carrier. As a military engine, this engine can work in extremely harsh environments, and all exposed components are covered with additional armor, Make it difficult to destroy.</t>
+			<t id="8">Photon Pulse Engine</t>
+		</page>
+		<page id="993434" title="Jobs" descr="Names and descriptions of ship jobs" voice="yes">
+			<t id="101">Argon One</t>
+		</page>
+	</add>	
+</diff>

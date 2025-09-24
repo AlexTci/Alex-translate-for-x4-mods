@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000901" title="Althea" descr="M" voice="yes">
+     <t id="10001">Althea</t>
+	   <t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It holds tons of people for the missions, is a very good fighter, almost undestructable, kills even Ks without much of a sweat and has the looks of a absolutely beautiful ship in the game, the Kobra. Lean back and enjoy your Easy Life in X4.</t>
+     <t id="10002">(Althea Vanguard){950000901,10001} {950000901,10003}</t>
+  	 <t id="10003">Vanguard</t>
+  	 <t id="10004">Fast Frigate</t>
+  	 <t id="10007">Althea Antimatter Gun</t>
+  	 <t id="10008">This weapon is Xenon Tek, which was created on the road, during my adventures with the Yaki, which are my best friends.</t>
+  	 <t id="10009">Althea Proton Barrage</t>
+  	 <t id="10010">This is a weapon, that was created after my adventures with the Terrans and the Yaki, when the terran secret service asked me to destabilize the argon empire.</t>
+	  </page>
+  </add>
+</diff>

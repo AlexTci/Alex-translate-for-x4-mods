@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="7">
+
+<page id="7171" title="Mysterial's Mod Text" descr="Text for the missions created by Mysterial" voice="no">
+ <t id="3000">Анализировать S-класс</t>
+ <t id="3001">Анализировать M-класс</t>
+ <t id="3002">Анализировать L-класс</t>
+ <t id="3003">Анализировать XL-класс</t>
+ <t id="3008">Анализировать: $SHIPNAME$</t>
+ <t id="3009">Анализ корабля</t>
+ <t id="3010">Анализ корабля завершен</t>
+ <t id="3011">Проанализированные чертежи:\n%BP%</t>
+</page>
+
+</language>

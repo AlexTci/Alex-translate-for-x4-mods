@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="44">
+
+<page id="7171" title="Mysterial's Mod Text" descr="Text for the missions created by Mysterial" voice="no">
+ <t id="3000">S-class Analysis</t>
+ <t id="3001">M-class Analysis</t>
+ <t id="3002">L-class Analysis</t>
+ <t id="3003">XL-class Analysis</t>
+ <t id="3008">Analysis: $SHIPNAME$</t>
+ <t id="3009">Analyze Ship</t>
+ <t id="3010">Ship Analysis complete.</t>
+ <t id="3011">Analyzed Blueprints:\n%BP%</t>
+</page>
+
+</language>

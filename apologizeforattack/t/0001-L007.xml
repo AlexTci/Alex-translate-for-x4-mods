@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--  Перевел Alex5Not   -->
+
+<language id="7">
+	<page id="9757196" title="apologizeforattackt" descr="Text for apologizeforattack" voice="no">
+		<t id="1">Извините за нанесенный урон</t>
+		<t id="2">Спасибо, до свидания!</t>
+	</page>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="93011001" title="Nomad Renegade" descr="Nomad Renegade" voice="no">
+		<t id="11001">Кочевник Ренегат</t>
+		<t id="11002">(Кочевник Ренегат Агрессор){93011001,11001} {20111,1101}</t>
+		<t id="11003">(Кочевник Ренегат Защитник){93011001,11001} {20111,1201}</t>
+	</page>
+</language>

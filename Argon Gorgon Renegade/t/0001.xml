@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="102711001" title="Gorgon Renegade" descr="Gorgon Renegade" voice="no">
+		<t id="11001">Gorgon Renegade</t>
+		<t id="11002">(Gorgon Renegade Vanguard){102711001,11001} {20111,1101}</t>
+		<t id="11003">(Gorgon Renegade Sentinel){102711001,11001} {20111,1201}</t>
+	</page>
+</language>

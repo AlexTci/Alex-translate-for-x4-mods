@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ApologizeForAttack" enabled="true" name="ApologizeForAttack" description="Player can stop unintented fights from escalation" author="iforgotmysocks" version="021" date="2019-12-24" save="false">
+  <text language="7" name="Apologize For Attack" description="Игрок может предотвратить эскалацию непреднамеренных атак, извинившись за случайную атаку дружественного или нейтрального пилота" author="iforgotmysocks" />
+</content>

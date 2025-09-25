@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="92911001" title="Colossus Renegade" descr="Colossus Renegade" voice="no">
+		<t id="11001">Колосс Ренегат</t>
+		<t id="11002">(Колосс Ренегат Агрессор){92911001,11001} {20111,1101}</t>
+		<t id="11003">(Колосс Ренегат Защитник){92911001,11001} {20111,1201}</t>
+	</page>
+</language>

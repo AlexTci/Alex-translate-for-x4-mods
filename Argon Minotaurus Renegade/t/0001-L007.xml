@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="100711001" title="Minotaurus Renegade" descr="Minotaurus Renegade" voice="no">
+		<t id="11001">Минотавр Ренегат</t>
+		<t id="11002">(Минотавр Ренегат Агрессор){100711001,11001} {20111,1101}</t>
+		<t id="11003">(Минотавр Ренегат Защитник){100711001,11001} {20111,1201}</t>
+	</page>
+</language>

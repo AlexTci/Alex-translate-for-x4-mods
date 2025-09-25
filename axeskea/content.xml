@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2583345541" name="Teladi Kea Corvette" description="Adds a corvette to the Teladi lineup, the Kea. Sold at Teladi wharfs. The Teladi and Ministry of Finance will field a few Keas in their fleets also." author="Axeface" version="141" date="2023-04-22" save="0" lastupdate="1682215098">
+  <!-- ws_2583345541 / VRO ws_2583989249 -->
+  <text language="7" name="Teladi Kea" description="Добавляет корвет Попугай в линейку кораблей Телади. Продаётся на причалах Телади. Телади и Министерство финансов также получат несколько кораблей Попугай в свои флоты." author="Axeface"></text>
+</content>

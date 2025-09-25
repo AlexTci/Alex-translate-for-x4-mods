@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="atfusc_shippack_vanilla" name="X3 ATF/USC Ship Pack" description="Коллекция кораблей Землян из X3." author="dtaco" version="161" date="2025-07-28" save="false" sync="false" lastupdate="1753635002">
+  <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>
+</content>

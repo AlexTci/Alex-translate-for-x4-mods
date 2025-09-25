@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<diff>
+	<add sel="/language">
+		<page id="998842" title="Cyclops" descr="Cyclops" voice="yes">
+			<t id="13321">Cyclops</t>
+			<t id="13322">Fondly referred to as the 'Centaur II' by its captains due to a close resemblance to archaic Argon designs, the Cyclops was developed as a response to increasing Xenon fighter swarm activity. Sporting excellent speed for its size and bristling with tightly grouped anti-fighter turret systems it is an effective anti-fighter escort for larger capital ships. It's speed also makes the Cyclops perfect for exploration and reconnaissance activities and it has therefore become the go-to vessel for Argon secret service operations.</t>
+		</page>
+	</add>
+	<add sel="/language">
+		<page id="998843" title="Cyclops Autocannon" descr="Cyclops Autocannon" voice="yes">
+			<t id="13323">ARG Cyclops Autocannon</t>
+			<t id="13324">The "Lacerator" Autocannon utilizes a novel tightly-packed cluster ammunition. While not as effective as other weapons in its class versus capital vessels it excells at quick and efficient removal of smaller threats. When faced with the problem of designing a main battery for the Cyclops the team thought it best to lean into the ships strengths rather than attempt to overcome its weaknesses.</t>
+		</page>
+	</add>
+</diff>

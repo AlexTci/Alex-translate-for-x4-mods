@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999910" title="X3Mercury" descr="X3Mercury" voice="yes">
+			<t id="1">{20101,10701} {20111,5411}</t>
+			<t id="2">({20101,10701} {20111,5411}) {999910,4}</t>
+			<t id="3">Mercury is the latest addition to the Argon Merchant Fleet, and it is a worthy successor to the Argon Lifter. Argon shipwrights that developed this craft were more than proud when the first ship rolled off the production line at Argon Prime.</t>
+			<t id="4">{20101,10701} {20111,5411}</t>
+		</page>
+	</add>	
+	
+	<add sel="/language">
+		<page id="999908" title="X3 Demeter" descr="X3 Demeter" voice="yes">
+			<t id="1">{20101,30501} {20111,5411}</t>
+			<t id="2">({20101,30501} {20111,5411}) {999908,4}</t>
+			<t id="3">The Demeter has been used for some years now, replacing the old Paranid Ganymede model. It has improved on all of its predecessor's systems. This ship was first brought into service to serve only the Paranid Fleet, but later slowly replaced the Ganymede because of its speed to bring the Paranid Economy back to levels of the Argon and Boron.</t>
+			<t id="4">{20101,30501} {20111,5411}</t>
+		</page>
+	</add>
+	
+	<add sel="/language">
+		<page id="999907" title="X3 Vulture" descr="X3 Vulture" voice="yes">
+			<t id="1">{20101,20501} {20111,5411}</t>
+			<t id="2">({20101,20501} {20111,5411}) {999907,4}</t>
+			<t id="3">The Vulture is the trading vessel commonly used by the Teladi in all space sectors and can always be found wherever the largest profit is to be made, no matter in whose sector it happens to be. It is also believed that a number of these transporters have been supplied to the Pirates that operate throughout Teladi sectors in exchange for unknown preferential trading services.</t>
+			<t id="4">{20101,20501} {20111,5411}</t>
+		</page>
+	</add>
+	
+	<add sel="/language">
+		<page id="999919" title="Ostrich" descr="Ostrich" voice="yes">
+			<t id="1">{20101,22901} </t>
+			<t id="2">({20101,22901}) {999918,4}</t>
+			<t id="3">Ever the trusted ship for general trading, the Ostrich was redesigned during the upheaval of the Teladi fleet to balance the shielding, not just around the vital systems but also around the cargo bay. Its domed design meant that it was a smaller target for enemy ships, and also greatly improved its manoeuvrability. Naturally, the improvements made to the cargo loading process and cargo bay of the Albatross were also made to the ostrich, increasing an already impressive cargo capacity.</t>
+			<t id="4">{20101,22901} {20111,1001}</t>
+		</page>
+	</add>		
+	
+</diff>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999923" title="Heavy Osprey" descr="Heavy Osprey" voice="yes">
+			<t id="1">{20111,5211} {20101,20401}</t>
+			<t id="2">{20111,5211} {20101,20401}</t>
+			<t id="3">The Osprey is a muddle of Argon and original Teladi Technology. The ship itself combines Shield and Weapon Compatibility to be one of the most deadly Teladi Craft currently in service. But its speed makes it one of the slowest craft of its class.</t>
+			<t id="4">{20111,5211} {20101,20401}</t>
+			
+			<t id="5">{20111,5211} {20101,30401}</t>
+			<t id="6">{20111,5211} {20101,30401}</t>
+			<t id="7">Gorgon</t>
+			<t id="8">{20111,5211} {20101,30401}</t>
+			
+			<t id="9">{20111,5211} {20101,10601}</t>
+			<t id="10">{20111,5211} {20101,10601}</t>
+			<t id="11">{20101,10601}</t>
+			<t id="12">{20111,5211} {20101,10601}</t>			
+		</page>
+	</add>
+	
+</diff>

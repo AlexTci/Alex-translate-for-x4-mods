@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999830" title="Agamemnon" descr="Agamemnon" voice="yes">
+			<t id="1">Agamemnon</t>
+			<t id="2">(Agamemnon) {999830,4}</t>
+			<t id="3"> </t>
+			<t id="4">Agamemnon</t>
+		</page>
+	</add>
+</diff>

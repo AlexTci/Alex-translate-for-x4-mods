@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999831" title="Tiger" descr="Tiger" voice="yes">
+			<t id="1">Tiger</t>
+			<t id="2">(Tiger) {999831,4}</t>
+			<t id="3">Following its significant success in the Terran Conflict era, the iconic shape and tail of the Split Tiger had gained a fearsome reputation among members of the community of planets. During the great Jump-gate shutdown, Family Zyarth's ship designers were eager to reforge this popular design into an intimidating battleship class vessel, ready to decimate any who opposed them when - or if - the Jump-gates realigned. However, similarly to the discontinued Python, the Tiger was never put into standard issue use, due to excessive costs involved in strengthening the integrity of the tail structure, which had become fragile when constructed at a larger scale, therefore never seeing mass production. Some finished models of the Tiger were still built, and can still occasionally be seen patrolling Zyarth / Curb territory - mostly to flex Zyarth's military might and the Tiger's glorious history, rather than to see combat action.  </t>
+			<t id="4">Tiger</t>
+		</page>
+	</add>
+</diff>

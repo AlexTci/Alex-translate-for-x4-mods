@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="Aurum's Gunboats" description="This mod contains two gunboats:&#13;&#10;- Heavy Osprey. Available at MIN wharf, requires military license. 3 shields, 2 M turrets, 1 L turret, 2 weapons.&#13;&#10;- Heavy Gorogon. available at HOP wharf, requires military license. 2 shields, 0 M turrets, 1 L turret, 2 weapons, increased speed." author="AurumGallente" version="101" save="1" date="2025-06-07" id="ws_2990503885" lastupdate="1749298003">
+  <text language="7" name="Aurum Gunboats" description="
+  Этот мод содержит три канонерки лодки:&#13;&#10;
+  - Тяжелый Коршун.  Доступен в порту МИН, требуется военная лицензия. 3 щита, 2 турели M, 1 турель L, 2 орудия.&#13;&#10;
+  - Тяжелая Горгона. Доступен в  порту HOP, требуется военная лицензия. 2 щита, 1 турель L, 2 орудия, увеличенная скорость.&#13;&#10;
+  -Тяжелый Цербер
+  " author="AurumGallente"></text>
+</content>

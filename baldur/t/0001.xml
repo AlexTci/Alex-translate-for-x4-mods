@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999332" title="Baldur" descr="Baldur" voice="yes">
+			<t id="1">Baldur</t>
+			<t id="2">(Baldur) {999332,4}</t>
+			<t id="3">"After the reconnection of the Avarice jump gates the Riptide Rakers salvagers found themselves in a predicament, relying on their small fleet of scrap-part Raleigh couriers and a handful of old Teladi and Argon transport vessels no longer was enough, with fierce competition from traders from other factions who could trade in much larger, and much better protected cargo vessels.
+A couple of the Raker's top engineers were called together with the goal of designing a new transport ship, one that could keep up in terms of cargo with their Argon and Teladi competitor designs, But with enhanced protection for a now even more dangerous galaxy than they faced before the jump gate shutdown. 
+The result was the Baldur, based upon the popular Manticore scrap tug, welded together with old Terraformer equipment. This cargo transport Has a pretty average speed and shield strength, a fairly sized cargo bay, but sports decent armor for its kind.
+But most importantly, it comes with three turrets, giving it more firepower than any other transporter out there, making it especially survivable against drone incursions and pirate harassers. 
+This increased armament, along with its other reliable properties, made it popular not only with the Riptide faction itself, but also with groups transporting valuable, sometimes "less than legal" goods, with the Hatikvah League taking an especial interest in the vessel." </t>
+			<t id="4">Baldur</t>
+		</page>
+	</add>
+</diff>

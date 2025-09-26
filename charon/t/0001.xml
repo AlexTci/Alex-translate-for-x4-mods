@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999341" title="Charon" descr="Charon" voice="yes">
+			<t id="1">Charon</t>
+			<t id="2">(Charon) {999341,4}</t>
+			<t id="3">The Charon-class super freighter is the latest heavy logistics platform developed by The argon federation, designed to replace the aging Sonra and Shuyaku models that had long outlived their intended service lifespans. As the gate network began to reawaken, the rush to reconnect with isolated systems exposed just how obsolete many of the old freighters had become. Though once the backbone of Federation-aligned commerce, large cargo vessels like the Shuyaku or Sonra were no longer up to the task of maintaining stable supply lines across fragmented space.
+			Capable of transporting massive volumes of cargo - including dry goods, bulk raw materials and liquids - the Charon is tailored for large-scale distribution and emergency relief across great distances. Its modular architecture allows for rapid adaptation to various freight roles, giving it significant logistical flexibility. In terms of reach, throughput, and endurance, it matches the renowned Teladi Ostrich, long considered the gold standard of interstellar logistics..</t>
+			<!-- AI Voice -->
+			<t id="4">Charon</t>
+		</page>	
+	</add>
+</diff>

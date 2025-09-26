@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2465761155" name="Bismark Dreadnaught" description="Adds a Dreadnaught to the Argon shipyard" author="Keeshah" version="302" date="2025-03-06" save="0" enabled="1" sync="false" lastupdate="1741273897">
+  <text language="7" name="Bismark" description="Добавляет Линкор Бисмарк на верфь Аргона, переделани с Асгарда + Тяжелый истребитель Тарани." author="Keeshah"/>
+</content>

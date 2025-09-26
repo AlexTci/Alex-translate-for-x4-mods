@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="9907001" title="Bismarck" descr="S" voice="yes">
+     <t id="17001">Bismarck</t>
+	   <t id="17005">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent storage area, holds tons of people for the missions, is a very good dreadnaught, almost undestructable, kills even Is without much of a sweat and has the looks of a really beautiful ship in the game, the Asgard. Lean back and enjoy your Easy Life in X4. I always loved the Terrans and their ships.</t>
+     <t id="17002">(Bismarck Vanguard){9907001,17001} {9907001,17003}</t>
+  	 <t id="17003">Vanguard</t>
+  	 <t id="17004">Heavy Battleship</t>
+  	 <t id="27001">Bismarck Maingun</t>
+  	 <t id="27002">This Cannon was designed to burn the whole universe a second time.</t>
+  	 <t id="37001">Bismarck Antimatter Engine</t>
+  	 <t id="37002">An Engine to catch all those kinky rabbits.</t>
+     <t id="47001">Tarani</t>
+	   <t id="47005">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent Storage area, holds tons of people for the missions, is a very good fighter, almost undestructable, kills even Frigates without much of a sweat and has the looks of a really beautiful ship in the game, the Gladius. Lean back and enjoy your Easy Life in X4. Oh, and it is bigger on the inside.</t>
+     <t id="47002">(Tarani Sentinel){9907001,47001} {9907001,47003}</t>
+  	 <t id="47003">Sentinel</t>
+  	 <t id="47004">Ultra Heavy Fighter</t>
+  	 <t id="57001">Tarani Ultraheavy Railgun</t>
+  	 <t id="57002">This cannon was designed to allow to counter the Xenon hull regen.</t>
+  	 <t id="67001">Tarani Ultraheavy Iongun</t>
+  	 <t id="67002">This cannon was designed to allow to counter the Xenon shield regen.</t>
+	  </page>
+  </add>
+</diff>

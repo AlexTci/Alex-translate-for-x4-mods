@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3536998995" name="Charon" description="Adds the Charon to the  Argon wharf" author="eva" version="100" date="2025-07-29" save="0" enabled="1" sync="false" lastupdate="1753750310">
+  <text language="7" name="Charon class super freighter" description="Добавляет корабль Харон на Аргонскую верфь" author="eva"/>
+</content>

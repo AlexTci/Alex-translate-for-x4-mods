@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3235332844" name="Buy And Sell Stations" description="Player can sell stations to other factions and buy stations from other factions." author="GeneralVash" version="02" date="2024-05-08" save="false" lastupdate="1715125673">
+  <text language="7" name="Buy And Sell Stations" description="Игрок может продавать станции другим фракциям и покупать их у НПС." author="GeneralVash"></text>
+</content>

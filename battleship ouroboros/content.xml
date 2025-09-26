@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2834193120" name="Split Battleship Ouroboros" description="Этот мод добавляет новый боевой корабль Ороборос для Сплита." author="BZDBQG" version="110" date="2023-08-01" save="0" lastupdate="1690885931">
+  <text language="7" name="Split Battleship Ouroboros" description="Этот мод добавляет новый боевой корабль Ороборос для Сплита." author="BZDBQG"></text>
+  <dependency id="ego_dlc_split" optional="false" name="Split Vendetta"></dependency>
+</content>

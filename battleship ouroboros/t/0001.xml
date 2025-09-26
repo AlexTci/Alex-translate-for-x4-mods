@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="993423" title="ship_split_xl_battleship_2" descr="ship_split_xl_battleship_2" voice="yes">
+			<t id="1">Ouroboros</t>
+			<t id="2">(Ouroboros) {993423,4}</t>
+			<t id="3">The super battleship built by the family Rhnca for operation "Final Fury" is used to deal with kha'ah's powerful worm nest mothership. The Ouroboros class once became the most powerful main force of "Final Fury" and the symbol of family Rhonca named by "the Clans Glory". After the Stargate was closed, the family rhonca gradually declined, and the blueprint of the battleship was also sold to the Family Zyarth, although the configuration of this battleship is slightly outdated from the current perspective, However, through modernization, its performance is still powerful.</t>
+			<t id="4">Ouroboros</t>
+		</page>
+		<page id="993424" title="weapon_spl_l_battleship_02_mk2" descr="weapon_spl_l_battleship_02_mk2" voice="yes">
+			<t id="1">Split main gun MK2</t>
+			<t id="2">(Split main gun MK2) {993424,4}</t>
+			<t id="3"> A redesigned rattlesnake class main gun was specially developed for the Ouroboros class. Thanks to the higher power generator and heat dissipation space of the Ouroboros class, split removed the power limiting device of the gun and added heat dissipation equipment. Compared with MK1, the bullet flight speed and duration of MK2 shells are increased, and the range is increased to 9 kilometers, but this gun still cannot be installed on the rattlesnake.</t>
+			<t id="4">Split main gun MK2</t>
+		</page>
+		<page id="993425" title="maingun_split_xl_ouroboros_01" descr="maingun_split_xl_ouroboros_01" voice="yes">
+			<t id="1">Split main gun xl</t>
+			<t id="2">(Split main gun xl) {993425,4}</t>
+			<t id="3"> Unfortunately, due to technical reasons, the main gun of the Ouroboros class, which was designed at the same time as the Ouroboros class, was not fully developed until the end of the "Final Fury" operation. The excessive heat of the main gun caused several explosion accidents during the test of the weapon. After the breakthrough of superfluid cooling technology, Application of new technology has gradually stabilized the performance of the gun. Although the power of this main gun is far less than ATF's main gun at the same level,but it also has the continuous firepower output capability than ATF's main gun.</t>
+			<t id="4">Split main gun xl</t>
+		</page>
+	</add>	
+</diff>

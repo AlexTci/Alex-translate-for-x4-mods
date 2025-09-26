@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diff>
+  <add sel="/language">
+    <page id="40302" title="boron_weapons" descr="boron_weapons" voice="yes">
+	  <t id="105">BOR Ray Ion Cannon</t>
+	  <t id="106">Ion Cannon</t>
+	  <t id="107">BOR S Ion Shotgun</t>
+	  <t id="108">Ion Shotgun</t>
+	  <t id="109">BOR S Disruptor</t>
+	  <t id="110">Disruptor</t>
+	  <t id="111">BOR S Phase Blaster</t>
+	  <t id="112">Phase Blaster</t>
+	  <t id="113">BOR M Ionic Inhibitor</t>
+	  <t id="114">Ionic Inhibitor</t>
+	  <t id="115">BOR M Arc Gatling</t>
+	  <t id="116">Arc Gatling</t>
+	  <t id="117">BOR Ray Bio-Phaser</t>
+	  <t id="118">Bio-Phaser</t>
+	  
+	  <t id="1001">Heavy Ship Disruption</t>
+	  <t id="1002">Disrupts all ship systems of S and M-sized targets by greatly reducing maximum ship speed and disabling weapons, Travel Drive, boost and shield regeneration.\nHit capital ships only have their weapons, Travel drive and boost disabled for a much shorter duration.</t>
+	  <t id="1003">Engine Inhibition</t>
+	  <t id="1004">Inhibits engines and thrusters of hit ships by reducing acceleration and deceleration rates across the board.\nAffects capital ships to a lesser extent and S ships to a greater extent.</t>
+	  
+	  <t id="2001">The Ion Cannon is a weapon designed as an alternative weapon to the Ray. Instead of disrupting engines, the Ion Cannon focuses more on damaging the targeted capital ship by firing powerful ionized metallic balls towards the target. This method of delivery might not inflict any ship-disrupting effects, but it will heavily damage the shields and hull of the ship who provoked it.\n\nPerhaps the most horrifying aspect of this weapon is just how deadly it is towards the hull of ships by Boron standards. Unlike other Boron weapons, which rely on pure energy to create their projectiles, the Ion Cannon uses physical materials alongside electricity to create its own projectile, thus making it much more effective against hull that one would expect.</t>
+	  <t id="2002">The Ion Shotgun is a weapon that deals its damage via a spread of multiple projectiles. This configuration makes it much stronger than both the Ion Gatling and Arc Gun, but also much more inaccurate and inconsistent than them, considering that the projectiles spread out a lot more when fired, which in turn means the pilot wielding them has to be much closer to it's target to effectively use the weapon. Still, it is an excellect choice for those who would rather risk getting closer to the enemy in order to more effectively destroy them.</t>
+	  <t id="2003">The Disruptor is a very unique support weapon which heavily disrupts all essential ship systems, rendering it's target much more vulnerable by greatly reducing ship speed and disabling weapons and shield regeneration for a short time. This weapon is essential in any Boron fleet because of its devastating effects, thus having the capability to trivialise smaller battles and making larger battles easier to deal with.</t>
+	  <t id="2004">This is a rapid-fire version of the Phase Gun, created to be used in tandem with the Ion Gatling. This weapon halves the Phase Gun's projectile speed and spreads out its damage by firing weaker projectiles at a faster fire rate. This gives it higher damage, although it also specialises much more into becoming an anti-hull weapon, as it deals even less shield damage than it's counterpart, but in turn outputs higher hull damage than it.</t>
+	  <t id="2005">The Ionic Inhibitor was created to disrupt the rate at which engines operate at, effectively making them work slower than intended. This makes the hit target accelerate and decelerate reasonably slower and makes it harder for them to fix their heading, making it easier to hit them. This, alongside the respectable damage the Inhibitor provides, creates a deadly weapon which the enemy should be fearful of.</t>
+	  <t id="2006">The Arc Gatling is a weapon specifically made for dogfighting and engaging smaller ships. This is thanks to its high speed and engine disrupting effects, making ships hit by it have trouble escaping and surviving. It's very high rate of fire and accuracy make it a near must-have for anyone wishing to engage small targets in a medium sized vessel. However, such pilots should also be aware of this weapon's relatively high heat generation, as the energy required to propel the projectiles to such high speeds is very high.</t>
+	  <t id="2007">The Bio-Phaser is a capital-grade weapon specifically made to disarm other capital ships by using organic shield-bypassing technology to directly inflict damage to the hull of the main ship or to it's surface elements. Additionally, the projectile fires after bypassing the shields, thus spreading out it's damage in a small radius and more effectively destroying surface elements of capital ships. This weapon is perfect for situations where preserving the ship is vital, like for boarding operations.</t>
+	</page>
+  </add>
+</diff>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3021893251" name="Boron Weapon Additions" description="A mod that puts a bit more boron weapons into the game." author="Someone" version="100" date="2023-08-18" save="0" enabled="0" sync="false" lastupdate="1692369169">
+
+	<text language="7" name="Boron Weapon Additions" description="Этот мод добавляет в игру новые орудия Боронов" author="Someone"/>
+	
+		  <dependency version="600"/>
+		  <dependency id="ego_dlc_boron" optional="false" name="Kingdom End"/>
+</content>

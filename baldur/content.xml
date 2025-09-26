@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3529946093" name="Baldur" description="Adds the Baldur to the vigor syndicate wharf" author="eva" version="100" date="2025-07-20" save="0" enabled="1" sync="false" lastupdate="1752975534">
+  <text language="7" name="Baldur Class Transporter" description="Добавляет корабль Балдур на причал Синдиката Силы и Волновых Стервятников" author="eva"/>
+</content>

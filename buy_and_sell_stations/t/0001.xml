@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+  <page id="72734373" title="md buyandsellstation" descr="Names and descriptions" voice="no">
+    <t id="3009">Previous page</t>
+    <t id="3010">Next page</t>
+    <t id="3011">Back</t>
+    <t id="3012">Appraise station's value</t>
+    <t id="3027">(conversation menu title)Buy And Sell Stations</t>
+    <t id="3028">Confirming</t>
+    <t id="3029">Buy Station</t>
+    <t id="3030">\033#FFFF0000#Station bought from (faction)%s\033X</t>
+    <t id="3032">Sell station to a faction</t>
+    <t id="3034">\033GStation sold to (faction)%s\033X</t>
+    <t id="3035">(station) in (sector)</t>
+    <t id="3036"> was sold to (faction)</t>
+    <t id="3037"> for a total amount of:\n</t>
+    <t id="3038"> Credits.</t>
+    <t id="3039"> was bought from (faction)</t>
+    <t id="3040">Player cannot afford </t>
+  </page>
+</language>

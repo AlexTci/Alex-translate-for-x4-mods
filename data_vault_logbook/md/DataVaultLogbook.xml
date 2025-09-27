@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<mdscript name="DataVaultLogbook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+  <cues>
+    <cue name="initDataVaultLogbook">
+      <conditions>
+        <check_any>
+          <event_game_loaded />
+          <event_game_started />
+          <event_cue_signalled cue="md.Setup.GameStart" />
+          <event_player_created />
+          <event_cue_signalled />
+        </check_any>
+      </conditions>
+      <delay min="9s" max="10s" />
+      <actions>
+        <find_object name="$dataVaults" exact="" space="player.galaxy" multiple="true">
+          <match_any>
+            <match macro="macro.landmarks_vault_01_macro"/>
+            <match macro="macro.landmarks_vault_02_macro"/>
+            <match macro="macro.landmarks_vault_03_macro"/>
+            <match macro="macro.landmarks_vault_04_macro"/>
+	    		</match_any>
+        </find_object>
+        <do_all exact="$dataVaults.count" counter="$i">
+          <set_value name="$vault" exact="$dataVaults.{$i}"/>
+          <set_value name="$posData" exact="[$vault.sector, $vault.zone, $vault.position]"/>
+          <create_object name="$navBeacon" zone="$posData.{2}" macro="macro.env_deco_nav_beacon_t1_macro" owner="faction.player" sector="$posData.{1}">
+              <safepos object="$vault"/>
+          </create_object>
+          <set_object_name object="$navBeacon" name="{97512205,1}"/>
+        </do_all>
+        <find_object name="$dataVaults" exact="" space="player.galaxy" multiple="true">
+          <match_any>
+            <match macro="macro.landmarks_erlking_vault_01_macro"/>
+            <match macro="macro.landmarks_erlking_vault_02_macro"/>
+            <match macro="macro.landmarks_erlking_vault_03_macro"/>
+            <match macro="macro.landmarks_erlking_vault_04_macro"/>
+            <match macro="macro.landmarks_erlking_vault_05_macro"/>
+            <match macro="macro.landmarks_research_vault_01_macro"/>
+			    </match_any>
+        </find_object>
+        <do_all exact="$dataVaults.count" counter="$i">
+          <set_value name="$vault" exact="$dataVaults.{$i}"/>
+          <set_value name="$posData" exact="[$vault.sector, $vault.zone, $vault.position]"/>
+          <create_object name="$navBeacon" zone="$posData.{2}" macro="macro.env_deco_nav_beacon_t1_macro" owner="faction.player" sector="$posData.{1}">
+              <safepos object="$vault"/>
+          </create_object>
+          <set_object_name object="$navBeacon" name="'Data Vault Pirate'"/>
+        </do_all>
+      </actions>
+    </cue>
+  </cues>
+</mdscript>

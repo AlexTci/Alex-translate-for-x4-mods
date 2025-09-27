@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--  Перевел Alex5Not   -->
+
+<language id="7">
+	<page id="97512205" title="data_vault_logbook" descr="Text for data_vault_logbook" voice="no">
+		<t id="1">Data Vault</t>
+	</page>
+</language>

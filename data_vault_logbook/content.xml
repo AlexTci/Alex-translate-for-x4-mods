@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content 
+enabled="1" 
+save="0" 
+date="2023-04-14" 
+version="600" 
+author="Jamesdehunter/DN3" 
+description="Simple Mod that when enabled will create a Nav Beacon named: Data Vault at all Data vault locations. Also shows the Pirate ones. Original Creator Jamesdhunter. Fixed and modified by DN3." 
+name="Data Vault Logbook" 
+id="DataVaultLogbook">
+<text language="7" 
+author="Jamesdehunter/DN3" 
+description="Простой мод, который при включении создаёт навигационный маяк с названием «Data Vault» во всех местах расположения хранилищ данных. Также отображаются пиратские. Автор оригинала — Jamesdhunter. Исправлено и изменено DN3." 
+name="Data Vault Logbook"/>
+</content>

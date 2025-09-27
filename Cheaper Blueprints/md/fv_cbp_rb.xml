@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdscript name="FV_CheaperBlueprints" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+	<cues>
+		<cue name="Load_Lua_Files" instantiate="true">
+			<conditions>
+				<event_ui_triggered screen="'Lua_Loader'" control="'Ready'" />
+			</conditions>
+			<actions>
+				<raise_lua_event name="'Lua_Loader.Load'" param="'extensions.fv_cbp_rb.lua.ui_addons.menu_trader_blueprintsorlicences'" />
+			</actions>
+		</cue>
+		<cue name="Config" namespace="this" version="2">
+			<conditions>
+				<check_any>
+					<event_cue_signalled cue="md.Setup.GameStart" />
+					<event_game_loaded />
+				</check_any>
+			</conditions>
+			<cues>
+				<cue name="Init">
+					<conditions>
+						<check_any>
+							<event_cue_signalled />
+							<event_game_loaded />
+						</check_any>
+					</conditions>
+					<actions>
+						<do_if value="not player.entity.$fv_cbp_rb?">
+							<set_value name="player.entity.$fv_cbp_rb" exact="table[]" />
+						</do_if>
+						<do_if value="not player.entity.$fv_cbp_rb.$isConfigured?">
+							<set_value name="player.entity.$fv_cbp_rb.$price_scaling_factor" exact="10" />
+							<set_value name="player.entity.$fv_cbp_rb.$min_price" exact="1000" />
+							<set_value name="player.entity.$fv_cbp_rb.$isConfigured" exact="true" />
+							<set_value name="player.entity.$fv_cbp_rb.$version" exact="2" />
+						</do_if>
+						<do_if value="player.entity.$fv_cbp_rb.$version == 1">
+							<set_value name="player.entity.$fv_cbp_rb.$min_price" exact="1000" />
+							<set_value name="player.entity.$fv_cbp_rb.$version" exact="2" />
+						</do_if>
+					</actions>
+				</cue>
+				<cue name="OnInstall">
+					<actions>
+						<signal_cue cue="Init" />
+					</actions>
+				</cue>
+			</cues>
+		</cue>
+		<cue name="Register_Menu" instantiate="true">
+			<conditions>
+				<event_cue_signalled cue="md.Simple_Menu_API.Reloaded" />
+			</conditions>
+			<actions>
+				<signal_cue_instantly
+					cue="md.Simple_Menu_API.Register_Options_Menu"
+					param = "table[
+						$id = 'fv_cbp_rb_options_menu',
+						$columns = 2,
+						$title = {975112238,1},
+						$onOpen = Build_Menu
+					]" />
+				<cancel_cue cue="this" />
+			</actions>
+		</cue>
+		<cue name="Build_Menu" instantiate="true">
+			<conditions>
+				<event_cue_signalled />
+			</conditions>
+			<actions>
+				<signal_cue_instantly cue="md.Simple_Menu_API.Add_Row" />
+				<signal_cue_instantly
+					cue="md.Simple_Menu_API.Make_Text"
+					param="table[
+						$col = 1,
+						$text = {975112238,2}
+					]" />
+				<signal_cue_instantly
+					cue = "md.Simple_Menu_API.Make_Slider"
+					param = "table[
+						$id = 'price_scaling_factor',
+						$start = player.entity.$fv_cbp_rb.$price_scaling_factor,
+						$col = 2,
+						$text = table[$text=''],
+						$min = 0, $max = 250, $step = 5, $suffix='%',
+						$default = 10,
+						$mouseOverText = {975112238,3},
+						$onSliderCellChanged = OnSliderChange
+					]" />
+				<signal_cue_instantly cue="md.Simple_Menu_API.Add_Row" />
+				<signal_cue_instantly
+					cue="md.Simple_Menu_API.Make_Text"
+					param="table[
+						$col = 1,
+						$text = {975112238,4}
+					]" />
+				<signal_cue_instantly
+					cue = "md.Simple_Menu_API.Make_Slider"
+					param = "table[
+						$id = 'min_price',
+						$start = player.entity.$fv_cbp_rb.$min_price,
+						$col = 2,
+						$text = table[$text=''],
+						$min = 1, $max = 1000, $step = 1, $suffix=' Cr',
+						$default = 1000,
+						$mouseOverText = {975112238,5},
+						$onSliderCellChanged = OnSliderChange
+					]" />
+			</actions>
+		</cue>
+		<cue name="OnSliderChange" instantiate="true">
+			<conditions>
+				<event_cue_signalled />
+			</conditions>
+			<actions>
+				<set_value name="player.entity.$fv_cbp_rb.{'$' + event.param.$id}" exact="event.param.$value" />
+				<cancel_cue cue="this" />
+			</actions>
+		</cue>
+	</cues>
+</mdscript>

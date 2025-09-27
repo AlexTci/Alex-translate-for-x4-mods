@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  translated into english by Alex5Not   -->
+<language id="44">
+		<page id="975112238" title="Cheaper_Blueprints" descr="Text for Cheaper Blueprints" voice="no">
+			<t id="1">Cheaper Blueprints: Options</t>
+			<t id="2">Price Scaling Factor</t>
+			<t id="3">Percentage by which to scale base blueprint prices. 100% is full price, 50% is half price, and so on. Default is 10%</t>			
+			<t id="4">Minimum Blueprint Price</t>
+			<t id="5">Minimum price for all blueprints. Default is 1,000 Cr</t>			
+		</page>	
+</language>

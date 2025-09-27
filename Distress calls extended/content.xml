@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+        id="tbb_distress_extended"
+        name="Position defence distress extended"
+        author="TrueBlueBanana"
+        version="001"
+        date="2025-08-28"
+        save="false"
+        sync="false"
+        enabled="true"
+        description="Реакция на сигналы бедствия со станции распространяется на все корабли"
+/>

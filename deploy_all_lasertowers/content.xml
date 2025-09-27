@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2459571337" name="Deploy All Laser Towers" author="Shawdown" version="1" date="2024-09-13" save="false" enabled="1" description="Позволяет развернуть все лазерные башни mk1/mk2 для выбранных кораблей на их текущих позициях." sync="false" lastupdate="1621699639">
+	<dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"/>
+</content>

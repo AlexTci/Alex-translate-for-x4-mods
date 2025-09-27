@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000601" title="Death Adder" descr="Death Adder" voice="yes">
+     <t id="10001">Death Adder</t>
+     <t id="10002">(Death Adder){950000601,10001}</t>
+	<t id="10003">A new development and seldom seen outside of Split space, the Death Adder is a heavy corvette built in a bout of cooperation among the Split Free Families as a more specifically tailored version of the Split Dragon. However, observers have noted that the Death Adder's unique capabilities are oddly well-suited to ambush raids carried out by Fallen Families raiders, and the ship is just as commonly seen wearing Fallen Families colors as it is in Free Families livery, leading to a widely-accepted theory that the ship was, in fact, built to the specifications of an influential Fallen Families warband. \n\nRegardless of the truth of its origins, the Death Adder itself is an extremely agile and capable corvette - boasting 5 M-class turret hardpoints, heavy armour, increased missle storage, and upgraded electronics that boosts its radar range. However it is much less capable than its peers when it comes under direct threat due its lack of maneuverability and slow speeds.</t>  
+  	 <t id="10004">Death Adder</t>
+	  </page>
+  </add>
+</diff>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+    <replace sel="/language/page[@id=&quot;1001&quot;]/t[@id=&quot;11142&quot;]/text()[1]">Реагировать на сигналы бедствия</replace>
+    <replace sel="/language/page[@id=&quot;1026&quot;]/t[@id=&quot;7867&quot;]/text()[1]">Корабли этой группы будут отвечать на сигналы бедствия, поступающие от их фракции в назначенном им секторе.</replace>
+</diff>

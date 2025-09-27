@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content id="death_adder" name="Death Adder" description="Сплитский тяжелый корвет Смертельная Гадюка" author="Sigrid" version="160" date="2022-11-20" save="0" lastupdate="1717426670">
+  <dependency id="ego_dlc_split" optional="false" name="Split Vendetta"></dependency>
+</content>

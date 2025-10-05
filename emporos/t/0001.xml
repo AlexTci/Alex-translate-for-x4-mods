@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999441" title="Emporos" descr="Emporos" voice="yes">
+			<t id="1">Emporos</t>
+			<t id="2">(Emporos) {999441,4}</t>
+			<t id="3">Regarded as a pre-shutdown relic, the Emporos class freighter is one of those designs that remains too useful to be scrapped. Modular, reliable and tough as nails this ship remains the commercial backbone of the Federation and its many corporations.
+
+			As the gates reconnected, a broad upgrade package was released for the old Emporos class, including an additional shield generator and a set of auxilliary engines. These upgrades ensure the ship is more than capable of meeting the new challenges brought by a new, fast paced, volatile economy.			
+			</t>
+			<!-- AI Voice -->
+			<t id="4">Emporos</t>
+		</page>	
+	</add>
+</diff>

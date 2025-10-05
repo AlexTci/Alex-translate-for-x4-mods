@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="44">
+<page id="22122" title="FAS" descr="FAS mod" voice="no">
+ <t id="19">FAS Federal Light Cruiser</t>
+ <t id="20">The FAS Federal Light Cruiser, also known as the Fast Attack Ship in the Earth Federal Fleet, specializes in rapid deployment, reconnaissance, and rescue missions. With relatively light armor (resistant to minor weapon impacts on the front but vulnerable on the sides), it is ill-suited for frontline combat. Equipped with sublight engines for high-speed maneuvers, its primary armament includes dual energy cannons, and some variants may feature close-defense systems.</t>
+ <t id="21">Federal Light Cruiser Sublight Engine</t>
+ <t id="34">The Federal Light Cruiser is powered by three triangularly arranged sublight engines. These engines provide exceptional speed and agility, enabling rapid assaults and flanking maneuvers. While less powerful than those on heavy cruisers, they prioritize flexibility and acceleration for hit-and-run tactics.</t>
+ <t id="22">Federal Light Cruiser Dual Energy Cannon</t>
+ <t id="23">Mounted on the cruiser's upper hull, the dual energy cannons are the primary offensive weapons. They fire concentrated energy beams with high rate of fire and moderate destructive power, effective against medium-range targets such as enemy vessels or fortified positions.</t>
+ <t id="24">Federal Light Cruiser MW-5050 Dual Fifty Automatic Turret</t>
+ <t id="25">The MW-5050 Dual Fifty is a standard defensive weapon in the Federal arsenal, though its installation on the FAS is not explicitly confirmed in "Starship Troopers: Invasion." This turret features auto-targeting and high cyclic rate, ideal for repelling swarms of insects or small aircraft. If deployed, it would enhance the cruiser's close-range defense capabilities.</t>
+ <t id="26">Federal Light Cruiser Kinetic Barrier Generator</t>
+ <t id="27">Official sources do not confirm whether the FAS Light Cruiser is equipped with kinetic barrier technology. In the Starship Troopers universe, such systems project energy shields to absorb enemy fire, significantly improving survivability. If installed, the generator would likely be less powerful than those on heavier vessels.</t>
+</page>
+</language>
+

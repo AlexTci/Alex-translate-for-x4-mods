@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="emporos" name="Emporos" description="Adds the Emporos to the  Argon shipyard" author="eva" version="100" date="2025-08-18" save="0" enabled="1" sync="false" lastupdate="1755474320">
+  <text language="7" name="Emporos class freighter" description="Добавляет корабль Купец на верфь Аргона" author="eva"/>
+</content>

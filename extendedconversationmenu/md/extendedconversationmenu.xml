@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ExtendedConversationMenu v0.1 -->
+<!-- This 'conversation manager' can be used and is urged to be used by anyone to funnel all conversation options by mods into 1 browsable dialog section, 
+     so players can install as many mods using the conversation menu for any kind of npc conversation, as they like, whichout running out of free conversation spaces.-->
+
+<!-- To setup ur mod please check out the extendedconversationmenu_testmod.xml, which has detailed descriptions how to register your mods. Thank you! -->
+<!-- If you detect any flaws, please let me know. You can find me on Nexusmods, the Egosoft forums or the unofficial Egosoft Discord by the name iforgotmysocks. Cya there, thanks! -->
+
+<!-- DONT EDIT OR RENAME STUFF PLEASE -->
+<!-- Don't edit or rename the mod or cues, it's important to only run one instance. -->
+<mdscript name="ExtendedConversationMenu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+  <cues>
+    <cue name="Main">
+      <actions>
+        <!-- the reason for using a table here is that users can add their mods with a string key, meaning if the conversation gets opened more often, their to be called cue is written to the same key, which automatially avoids duplicate entries. -->
+        <set_value name="$convOptions" exact="table[]"/>
+      </actions>
+      <cues>
+        <cue name="ExtendedConversationMenu_Handler" instantiate="true">
+          <conditions>
+            <check_any>
+              <event_conversation_started conversation="default"/>
+              <event_conversation_returned_to_section section="default"/>
+            </check_any>
+          </conditions>
+          <!-- small delay to give other mods time to add their entries -->
+          <delay exact="5ms"/>
+          <actions>
+            <!-- here we check if any mods registered any interest in the current conversation, if so, display their options, if none are registered, we don't display anything. -->
+            <do_if value="$convOptions.keys.count">
+              <!-- if there is only 1 mod adding a section, there is no need to queue it behind the ECM section, so we call it directly to make things less annoying for the user -->
+              <do_if value="$convOptions.keys.count == 1">
+                <signal_cue_instantly cue="$convOptions.{$convOptions.keys.{1}}.$signalCue" param="@$convOptions.{$convOptions.keys.{1}}.$params"/>
+              </do_if>
+              <do_else>
+                <add_player_choice_sub text="{97512207,1}" section="extendedConversationMenu_loadSections"/>
+              </do_else>
+            </do_if>
+          </actions>
+        </cue>
+
+        <cue name="ExtendedConversationMenu_LoadSections_Handler" instantiate="true">
+          <conditions>
+            <check_any>
+              <event_conversation_next_section section="extendedConversationMenu_loadSections"/>
+              <event_conversation_returned_to_section section="extendedConversationMenu_loadSections"/>
+            </check_any>
+          </conditions>
+          <actions>
+            <do_if value="event.param2 == 'previous'">
+              <set_value name="$page" operation="subtract"/>
+            </do_if>
+            <do_elseif value="event.param2 == 'next'">
+              <set_value name="$page" operation="add"/>
+            </do_elseif>
+            <do_else>
+              <set_value name="$page" exact="0"/>
+            </do_else>
+
+            <do_all exact="4" counter="$i">
+              <set_value name="$actuallSiteItemId" exact="$i + (4 * $page)"/>
+              <do_if value="$convOptions.keys.count lt $actuallSiteItemId">
+                <break/>
+              </do_if>
+              <set_value name="$key" exact="$convOptions.keys.{$actuallSiteItemId}"/>
+              <set_value name="$entry" exact="$convOptions.{$key}"/>
+              <signal_cue_instantly cue="$entry.$signalCue" param="@$entry.$params"/>
+            </do_all>
+
+            <do_if value="$page == 0">
+              <add_player_choice_return position="bottom_right" text="{97512207,2}"/>
+            </do_if>
+            <do_else>
+              <add_player_choice text="{97512207,3}" choiceparam="'previous'" position="bottom_right" section="extendedConversationMenu_loadSections"/>
+            </do_else>
+            <do_if value="$convOptions.keys.count gt 4">
+              <add_player_choice text="{97512207,4}" choiceparam="'next'" position="right" section="extendedConversationMenu_loadSections"/>
+            </do_if>
+            <remove_value name="$key"/>
+            <remove_value name="$entry"/>
+            <remove_value name="$actuallSiteItemId"/>
+          </actions>
+        </cue>
+
+        <cue name="ExtendedConversationMenu_ResetConversations" instantiate="true">
+          <conditions>
+            <check_any>
+              <event_conversation_finished/>
+            </check_any>
+          </conditions>
+          <actions>
+            <!-- and when a conversation is done, we reset $convOptions, so when a new conversation is started we only add mod sections that want to be registered to the new conversation -->
+            <set_value name="$convOptions" exact="table[]"/>
+          </actions>
+        </cue>
+
+      </cues>
+    </cue>
+  </cues>
+</mdscript>

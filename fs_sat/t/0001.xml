@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <page id="314156" voice="no">
+    <t id="1">..: Satellite Service :..</t>
+    <t id="2">\033C%1\033X has started service \033C%2\033X</t>
+    <t id="3">\033C%1\033X has finished service \033C%2\033X</t>
+    <t id="4">Satellite Service</t>
+    <t id="5">Continue to next sector</t>
+    <t id="6">Use Advanced Satellites</t>
+    <t id="7">Deploy to Stations</t>
+    <t id="8">Deploy to Jump Gates</t>
+    <t id="9">Deploy to Data Vaults</t>
+    <t id="10">\033C%1\033X requires at least \033C%2\033X credits to manufacture probes.</t>
+    <t id="11">\033C%1\033X has installed satellite in \033C%2\033X at \033C%3\033X for \033C%4\033X credits.</t>
+    <t id="12">Salvage Satellites</t>
+    <t id="13">\033C%1\033X has salvaged satellite in \033C%2\033X. Earned \033C%3\033X credits from salvage.</t>
+    <t id="14">Full sector coverage</t>
+    <t id="15">Deploy Satellites</t>
+    <t id="16">Vertical offset</t>
+    <t id="17">Salvage Resource Probes</t>
+    <t id="18">Deploy Resource Probes</t>
+    <t id="19">\033C%1\033X has salvaged resource probe in \033C%2\033X. Earned \033C%3\033X credits from salvage.</t>
+    <t id="20">Private blacklist</t>
+    <t id="21">Center around sector core</t>
+    <t id="22">Negative offset</t>
+  </page>
+</language>

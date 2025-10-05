@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="cc ship_fas_federal_light_cruiser" name="fas_federal_light_cruiser" description="fas_federal_light_cruiser" author="cc" version="100" date="2025-07-02" save="false" enabled="1">
+	<text language="7" name="Federal Light Cruiser FAS" description="Легкий крейсер Федерации (Звездный десант): маневренный военный корабль средней дальности, отлично подходит для стычек/сопровождения с быстрым захватом целей и является ядром флота Федерации средней дальности." author="cc" />
+</content>

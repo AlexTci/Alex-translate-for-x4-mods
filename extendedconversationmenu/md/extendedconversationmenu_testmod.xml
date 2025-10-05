@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdscript name="ExtendedConversationMenu_TestMod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+  <cues>
+    <!-- Example for all 3 cues needed in your mod to utilize the ECM manager -->
+
+    <!-- The first cue has all the conditions needed for ur conversation to be triggered, but instead of adding a player conversation choise as an action, we add the path to our second cue to the ECM's $convOptions table.-->
+
+    <cue name="Test_AddMenu" instantiate="true">
+      <conditions>
+        <check_any>
+          <event_conversation_started conversation="default"/>
+          <event_conversation_returned_to_section section="default"/>
+        </check_any>
+        <check_value value="event.object.controlpost == controlpost.manager"/>
+      </conditions>
+      <actions>
+        <!-- check if ECM is installed, if not the mod conversation section is being added regularly. -->
+        <do_if value="@md.ExtendedConversationMenu.Main.exists">
+          <!-- The here called $testmod value needs to be unique for your mod, you can choose ur modname or whever else works for a table key.                        $params are optional and the array can be left empty: $params = [] -->
+          <!-- comment this in - only commented out as it's an example -->
+          <!--<set_value name="md.ExtendedConversationMenu.Main.$convOptions.$testmod" exact="table[$signalCue = md.ExtendedConversationMenu_TestMod.Test_ConversationExtentionManagerSupport, $params = [event.object]]" />-->
+        </do_if>
+        <do_else>
+          <signal_cue_instantly cue="Test_ConversationExtentionManagerSupport"/>
+        </do_else>
+      </actions>
+    </cue>
+
+    <!-- Our second cue here is then called by the manager, if a conversation fits the above set conditions the ECM calls this cue to add ur section to the ECM conversation. 
+     Note that we now pass the section leading to ur third cue, which is the entry point to your mod, that the ECM calls when the user selects the conversation option.
+     If you need to adjust the Text or called section depending on a value you could have gotten from the actor, you can pass the actor (or other values) in the params (example above) and read the params here, 
+     which are forwarded as signal_cue_instantly params -->
+
+    <cue name="Test_ConversationExtentionManagerSupport" instantiate="true">
+      <conditions>
+        <event_cue_signalled/>
+      </conditions>
+      <actions>
+        <!-- Make sure to only add 1 player choice here, that's important. You can add more conversation options in the next cue below. -->
+        <add_player_choice_sub text="'Testmod'" section="Test_menu"/>
+      </actions>
+    </cue>
+
+    <!-- The third cue where our "Test_mod" section is being called by the ECM, when a user clicks the option and from here you can continue ur mod as usuall. 
+     Also note that you can add a return option and the conversation can be followed back to other conversation options of the ECM.-->
+
+    <cue name="Test_Handler" instantiate="true">
+      <conditions>
+        <check_any>
+          <event_conversation_next_section section="Test_menu"/>
+          <event_conversation_returned_to_section section="Test_menu"/>
+        </check_any>
+      </conditions>
+      <actions>
+        <add_player_choice_sub text="'Conversation Choise 1'" section="Proceed_To_Conversation_Choise_1"/>
+        <add_player_choice_sub text="'Conversation Choise 2'" section=""/>
+        <add_player_choice_sub text="'Conversation Choise 3'" section=""/>
+        <add_player_choice_return text="'Back'"/>
+      </actions>
+    </cue>
+
+  </cues>
+</mdscript>

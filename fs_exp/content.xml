@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="Sector Explorer" id="ws_2074838459" author="Assailer" version="148" date="2025-04-08" save="0" description="This mod adds a new default job option for your pilots. Use a fast ship for this job.&#13;&#10;&#13;&#10;
+Pilots assigned to sector explorer duty will travel around the sector to visit unknown stations, gates, highways, then when all are discovered, they will fly an accurate 300-900km radius hexagon shape.&#13;&#10;&#13;&#10;
+Under 'Individual Instructions' tab adjust 'Sector Travel/Sector Activities' as necessary. For example:&#13;&#10;
+- create activities blacklist where you select 'Sectors owned by enemies' and/or,&#13;&#10;
+- create travel blacklist where you select both 'Sectors owned by enemies' and 'Sectors containing dangerous regions'.&#13;&#10;
+Make sure you tick off the 'default' and point to your newly created blacklists under individual instructions tab.&#13;&#10;&#13;&#10;
+To start the mod, open ship information behavior panel and select 'Sector Explorer' from navigation jobs.&#13;&#10;&#13;&#10;
+Captains earn piloting experience after completing each hexagon round cycle that are further than 150km from center.&#13;&#10;&#13;&#10;
+Sector Core is set by the developers individual to each sector and is almost never at [0,0,0], but there is checkbox option to force using [0,0,0] in case you wish to. Default is to use Core parameter.&#13;&#10;&#13;&#10;
+The Log is updated on start/stop events, and there will also be a popup message for stop events if the 'Notifications' option is set.&#13;&#10;&#13;&#10;" lastupdate="1744109887">
+  <text language="7" name="Sector Explorer" description="Этот мод добавляет новую стандартную профессию для ваших пилотов. Используйте для этой работы быстрый корабль.&#13;&#10;&#13;&#10;
+Пилоты, назначенные на должность исследователя сектора, будут путешествовать по сектору, чтобы посетить неизвестные станции, ворота, шоссе, а затем, когда все они будут обнаружены, они будут летать по точному шестиугольнику радиусом 300–900 км.&#13;&#10;&#13;&#10;
+На вкладке «Индивидуальные инструкции» при необходимости отрегулируйте «Поездки по секторам/Деятельность по секторам». Например:&#13;&#10;
+- создать черный список действий, в котором вы выбираете «Вражеские Сектора» и/или,&#13;&#10;
+- создать черный список путешествий, в котором вы выбираете как «Сектора, принадлежащие врагам», так и «Сектора, содержащие опасные регионы».&#13;&#10;
+Убедитесь что вы отключили пункт «по умолчанию» и укажите свои новые созданные черные списки на вкладке с индивидуальными инструкциями.&#13;&#10;&#13;&#10;
+Чтобы запустить мод, откройте панель поведения информации о корабле и выберите «Sector Explorer» в заданиях навигации.&#13;&#10;&#13;&#10;
+Капитаны получают опыт пилотирования после завершения каждого цикла шестиугольника на расстоянии более 150 км от центра.&#13;&#10;&#13;&#10;
+Ядро сектора задаётся разработчиками индивидуально для каждого сектора и почти никогда не равно [0,0,0], но есть флажок, позволяющий принудительно использовать [0,0,0] при необходимости. По умолчанию используется параметр «Ядро».&#13;&#10;&#13;&#10;
+Журнал обновляется при событиях запуска/остановки, а также будет появляться всплывающее сообщение при событиях остановки, если включена опция «Уведомления»."></text>
+  <text language="44" name="Sector Explorer" description="Sector Explorer"></text>
+</content>

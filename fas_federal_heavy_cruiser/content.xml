@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="cc ship_fas_federal_heavy_cruiser" name="fas_federal_heavy_cruiser" description="fas_federal_heavy_cruiser" author="cc" version="100" date="2025-07-02" save="false" enabled="1">
+	<text language="7" name="Federal heavy cruiser FAS" description="Федеральный тяжелый крейсер (Звездный десант): Тяжелый штурмовой корабль с мощной обороной, выполняет роль якорной стоянки в ожесточенных боях, обеспечивает основную поддержку флота, олицетворяя мощь тяжелых кораблей Федеративной Республики." author="cc" />
+</content>

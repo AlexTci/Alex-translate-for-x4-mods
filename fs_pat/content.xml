@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="Sector Patrol" id="ws_2458720435" author="Assailer" version="112" date="2024-07-12" save="0" description="This mod adds a new default job option for your pilots to monitor sector activity and jump on nearest threats.&#13;&#10;&#13;&#10;You need to set home sector in case pilot chases after an escaping enemy it knows where to return.&#13;&#10;&#13;&#10;Option to toggle attacking different class of ships (XL/L/M/S).&#13;&#10;&#13;&#10;Option to toggle for searching and revealing concealed ship. Log entry added for each successful reveal.&#13;&#10;&#13;&#10;Option to toggle pursue on/off. When it is ON, your ship will attempt to follow the escaping ships through the galaxy.&#13;&#10;&#13;&#10;Option to toggle parking around the sector core in case there is nothing else to do.&#13;&#10;&#13;&#10;Option to toggle afterburner (boost) while approaching targets to keep the shield levels high before combat.&#13;&#10;&#13;&#10;Option to shoot to disable (trying to keep enemy hull above 20%) in hope they would bail.&#13;&#10;&#13;&#10;There will be more enhancements implemented in near future; like rewards by friendly factions, raising alerts on detecting invading fleets etc. I found the vanilla 'Patrol' order very simple and way too slow to react on threat." lastupdate="1720790428">
+  <text language="7" name="Sector Patrol" description="Этот мод добавляет новую опцию задания по умолчанию для ваших пилотов, позволяющую отслеживать активность в секторе и реагировать на ближайшие угрозы.&#13;&#10;
+Вам необходимо установить домашний сектор на случай, если пилот будет преследовать убегающего противника, он будет знать, куда вернуться.&#13;&#10;
+Возможность переключения атаки на разные классы кораблей (XL/L/M/S).&#13;&#10;
+Возможность включения/выключения поиска и обнаружения скрытого корабля. В журнал добавляется запись о каждом успешном обнаружении.&#13;&#10;
+Возможность включения/выключения преследования. При включении ваш корабль будет преследовать убегающие корабли по всей галактике.&#13;&#10;
+Возможность переключения на парковку вокруг ядра сектора в случае, если больше нечего делать.&#13;&#10;
+Возможность выключения форсажа (ускорения) при приближении к целям для поддержания высокого уровня щита перед боем.&#13;&#10;
+Возможность стрелять, чтобы вывести противника из строя (стараясь сохранить корпус противника выше 20%) в надежде, что он сбежит."></text>
+  <text language="44" name="Sector Patrol" description="Sector Patrol"></text>
+</content>

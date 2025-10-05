@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="Satellite Service" id="ws_2936819179" author="Assailer" version="132" date="2025-05-13" save="0" description="This mod adds a new default job option to deploy satellites in the current sector.&#13;&#10;&#13;&#10;Under 'Individual Instructions' tab adjust 'Sector Travel/Sector Activities' as necessary. For example:&#13;&#10;- create activities blacklist where you select 'Sectors owned by enemies' and/or,&#13;&#10;- create travel blacklist where you select both 'Sectors owned by enemies' and 'Sectors containing dangerous regions'.&#13;&#10;Make sure you tick off the 'default' and point to your newly created blacklists under individual instructions tab.&#13;&#10;&#13;&#10;You will be able to select 3 operation modes:&#13;&#10;(1) Salvage satellites or resource probes.&#13;&#10;(2) Deploy satellites or resource probes in hexagon style.&#13;&#10;(3) Deploy satellites around objects such as stations, gates, vaults.&#13;&#10;&#13;&#10;Deploying satellites will cost you 60k credits each, while resource probes will only cost 10k.&#13;&#10;You do not need to purchase satellites/probes, these ships will use on-board manufacturing system.&#13;&#10;&#13;&#10;Operation mode: (1)&#13;&#10;- select any of the salvage options.&#13;&#10;- this mode has highest priority and it will ignore any other satellite/resource deployments.&#13;&#10;- salvage recovers 80% of the original credit cost.&#13;&#10;&#13;&#10;Operation mode (2):&#13;&#10;- first select the &quot;Deploy Satellites&quot; or &quot;Deploy Resource Probes&quot; or both&#13;&#10;- then, decide to use sector core or (0,0,0) as center position for the satellite network&#13;&#10;- then, adjust &quot;Full Sector Coverage&quot; slider to the desired amount of hexagon rings:&#13;&#10;   0 - disable hexagon satellite placement&#13;&#10;   1 - place single satellite in the middle of the sector&#13;&#10;   2 - first hexagon ring&#13;&#10;   ...&#13;&#10;   6 - last ring (the 5th ring - ~450km coverage)&#13;&#10;- then, adjust &quot;Vertical Offset&quot; how high above the sector plane the network is located.&#13;&#10;- finally, select &quot;Negative Offset&quot; if you wish to place satellites under the sector plane.&#13;&#10;&#13;&#10;Operation mode (3):&#13;&#10;- select either of the &quot;Deploy to ...&quot; parameters. &#13;&#10;- select &quot;use advanced satellites&quot; to deploy more expensive satellites (this is the default). NOTE: This setting only affects operation mode (3).&#13;&#10;- if you have &quot;Deploy Satellites&quot; also turned on, then operation mode (3) only runs when operation (2) finished.&#13;&#10;&#13;&#10;If you assign (and leave) a dedicated ship to this service, it will keep fixing destroyed satellites as necessary.&#13;&#10;&#13;&#10;Pilots will directly access and use player account to avoid micromanaging their work.&#13;&#10;&#13;&#10;You may uninstall this mod anytime, it won't mess up your save files." lastupdate="1747117484">
+  <text language="7" name="Satellite Service" description="Этот мод добавляет новую опцию задания по умолчанию для развертывания спутников в текущем секторе.&#13;&#10;&#13;&#10;
+На вкладке «Индивидуальные инструкции» при необходимости отрегулируйте «Поездки по секторам/Деятельность по секторам». Например:&#13;&#10;
+- создать черный список действий, в котором вы выбираете «Вражеские сектора» и/или,&#13;&#10;
+- создать черный список путешествий, в котором вы выбираете как «Сектора, принадлежащие врагам», так и «Сектора, содержащие опасные регионы».&#13;&#10;
+Убедитесь что вы отключили пункт «по умолчанию» и укажите свои новые созданные черные списки на вкладке с индивидуальными инструкциями.&#13;&#10;&#13;&#10;
+Вы сможете выбрать 3 режима работы:&#13;&#10;
+(1) Собрать спутники или ресурсные зонды.&#13;&#10;
+(2) Размещение спутников или зондов ресурсов в шестиугольном стиле.&#13;&#10;
+(3) Размещение спутников вокруг таких объектов, как станции, ворота, хранилища.&#13;&#10;&#13;&#10;
+Развертывание спутников обойдется вам в 60 тыс. кредитов за штуку, тогда как ресурсные зонды будут стоить всего 10 тыс. кредитов.&#13;&#10;
+Вам не нужно приобретать спутники/зонды, эти корабли будут использовать бортовую производственную систему.&#13;&#10;&#13;&#10;
+Режим работы: (1)&#13;&#10;
+- выберите любой из вариантов сбора.&#13;&#10;
+- этот режим имеет наивысший приоритет и будет игнорировать любые развертывания спутников/ресурсов.&#13;&#10;
+- Сбор покрывает 80% первоначальной стоимости.&#13;&#10;&#13;&#10;
+Режим работы: (2):&#13;&#10;
+- сначала выберите «Развернуть спутники» или «Развернуть ресурсные зонды» или оба&#13;&#10;
+- затем решите использовать ядро сектора или (0,0,0) в качестве центральной позиции для спутниковой сети&#13;&#10;
+- затем отрегулируйте ползунок «Полное покрытие сектора» до нужного количества шестиугольных колец:&#13;&#10;
+   0 - отключить размещение спутников в шестиугольнике&#13;&#10;
+   1 - разместить один спутник в середине сектора&#13;&#10;
+   2 - первое шестиугольное кольцо&#13;&#10;
+   ...&#13;&#10;   
+   6 - последнее кольцо (5-е кольцо - покрытие ~450 км)&#13;&#10;
+- затем отрегулируйте «Вертикальное смещение», указав, насколько высоко над плоскостью сектора расположена сеть.&#13;&#10;
+- наконец, выберите «Отрицательное смещение», если вы хотите разместить спутники под плоскостью сектора.&#13;&#10;&#13;&#10;
+Режим работы: (3):&#13;&#10;
+- выберите один из параметров «Развернуть в ...». &#13;&#10;
+- выберите «Использовать расширенные спутники», чтобы развернуть более дорогие спутники (это значение по умолчанию). ПРИМЕЧАНИЕ: Этот параметр влияет только на режим работы (3).&#13;&#10;
+- если у вас также включена опция «Развертывание спутников», то режим работы (3) запустится только после завершения режима работы (2).&#13;&#10;&#13;&#10;
+Если вы выделите (и оставите) для этой службы специальный корабль, он будет продолжать ремонтировать выведенные из строя спутники по мере необходимости.&#13;&#10;&#13;&#10;
+Пилоты будут иметь прямой доступ к счету игрока и использовать его, чтобы избежать необходимости вручную контролировать свою работу.&#13;&#10;&#13;&#10;
+Вы можете удалить этот мод в любое время, он не испортит ваши файлы сохранения."/>
+  <text language="44" name="Satellite Service" description="Satellite Service"/>
+</content>

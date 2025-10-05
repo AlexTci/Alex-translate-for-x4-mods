@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ExtendedConversationMenu" enabled="true" name="Extended Conversation Menu" description="A menu extention that allows modusers to funnel their mod conversation entry points into one conversation section for any kind of npc conversations, to allow infinite additions of mods using the conversation system." author="iforgotmysocks" version="020" date="2019-12-29" save="false">
+  <text language="7" name="Extended Conversation Menu" description="Расширение меню, позволяющее модераам объединять точки входа в разговорных модах в один раздел разговора для любого типа разговоров с NPC, что позволяет добавлять бесконечное количество модов с помощью системы разговоров." author="iforgotmysocks" />
+</content>

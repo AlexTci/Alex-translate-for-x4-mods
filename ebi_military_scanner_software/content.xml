@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3329004564" name="Mk4 Military-Grade Scout Scanner" description="
+Добавляет военный сканер, который можно установить на все разведчики в vanilla, на все разведывательные самолеты, которые появляются в DLC, и на некоторые специальные корабли.
+&#13;&#10;&#13;&#10;
+Он даже дороже, чем полицейский сканер. Чтобы получить его, приобретите его на станции снабжения каждой фракции.
+&#13;&#10;&#13;&#10;
+Его производительность эквивалентна сканеру скафандра (уровень сканирования 3), поэтому вы можете приобретать заброшенные корабли, не переодеваясь в скафандр, а также можете генерировать более редкие бонусы, сканируя утечки данных.
+&#13;&#10;&#13;&#10;
+Риск конфликта невелик, но учтите, что военный сканер этого мода нельзя установить на разведывательные самолеты, добавленные другими модами." 
+version="133" date="2024-12-06" save="0" author="ebi" lastupdate="1733465037">
+  <dependency id="reemergence" name="X4:Reemergence" optional="true"></dependency>
+  <dependency id="ws_1696862840" name="Variety and Rebalance Overhaul" optional="true"></dependency>
+  <dependency id="ego_dlc_pirate" name="Tides of Avarice" optional="true"></dependency>
+  <dependency id="ego_dlc_split" name="Split Vendetta" optional="true"></dependency>
+  <dependency id="ego_dlc_terran" name="Cradle of Humanity" optional="true"></dependency>
+  <dependency id="ego_dlc_boron" name="Kingdom End" optional="true"></dependency>
+  <dependency id="ego_dlc_timelines" name="Timelines" optional="true"></dependency>
+</content>

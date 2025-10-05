@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <page id="314155" voice="no">
+    <t id="1">..: Sector Patrol :..</t>
+    <t id="2">Sector Patrol</t>
+    <t id="3">\033C%1\033X has started patrolling \033C%2\033X</t>
+    <t id="4">\033C%1\033X will be working in \033Y%2\033X</t>
+    <t id="5">\033C%1\033X is going home to \033Y%2\033X</t>
+    <t id="6">Home sector</t>
+    <t id="7">Conserve shield energy</t>
+    <t id="8">Reveal ship identity</t>
+    <t id="9">Pursue fleeing targets</t>
+    <t id="10">Attack XL ships</t>
+    <t id="11">Attack L ships</t>
+    <t id="12">Attack M ships</t>
+    <t id="13">Attack S ships</t>
+    <t id="14">Park at sector core</t>
+    <t id="15">Shoot to disable</t>
+    <t id="16">Attack stations</t>
+    <t id="17">\033C%1\033X has revealed the true identity of \033Y%2\033X [%3]</t>
+  </page>
+</language>

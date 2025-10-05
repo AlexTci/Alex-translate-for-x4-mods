@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Перевел на русский язык Alex5Not   -->
+
+<language id="7">
+	<page id="97512207" title="extendedconversationmenu" descr="Text for extendedconversationmenu" voice="no">
+		<t id="1">...тут моды</t>
+		<t id="2">назад</t>
+		<t id="3">предыдущая</t>
+		<t id="4">следующая</t>		
+	</page>
+</language>

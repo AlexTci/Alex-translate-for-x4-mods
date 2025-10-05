@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<content id="ET Teladi Upgrades" name="ET Teladi Upgrades" author="Evil Tactician" version="100" date="2025-02-04" save="0" description="Добавляет дополнительный уровень (щит Mk3) щитов для всех размеров кораблей на верфях Телади и Министерства. Включает версии, которые защищают группы турелей на больших кораблях и станциях." enabled="true">
-    <dependency version="710"/>
-</content>

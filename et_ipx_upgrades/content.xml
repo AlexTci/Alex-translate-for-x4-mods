@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<content id="ET IPX Upgrades" name="ET IPX Upgrades" author="Evil Tactician" version="100" date="2025-02-06" save="0" description="Добавляет дополнительный уровень (щит Mk4) поверх щитов, добавленных моим другим модом, ET Teladi Shield Upgrades. Для всех размеров кораблей на верфях Телади и Министерства. Включает версии, которые защищают группы турелей на больших кораблях и станциях." enabled="true">
-    <dependency version="710"/>
-</content>

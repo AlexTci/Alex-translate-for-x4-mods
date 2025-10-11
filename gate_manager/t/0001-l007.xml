@@ -3,7 +3,7 @@
 <diff>
   <add sel="/language">
     <page id="1972092407" voice="no" title="Gate Manager" descr="Text for Gate Manager">
-      <t id="1">Диспетчер Ворот</t>
+      <t id="1">Диспетчер Врат</t>
       <t id="1011">Выберите %s для подключения</t>
       <t id="1012">Отменить выбор %s</t>
       <t id="1021">Подключить %s к %s</t>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+	<!-- "kuertee NPC reactions" = "npcr" = "14 16 3 18 " in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1416318" voice="no">
+		<!-- mycu_verbose_transaction_log mod -->
+		<t id="101">Bank loan</t>
+		<t id="102">Bank loan payment</t>
+		<t id="103">Construction ship hire</t>
+		<t id="104">Taxi hire</t>
+		<!-- rumours -->
+		<t id="688845">Chat about the galaxy.</t>
+		<t id="688846">Chat about lockboxes.</t>
+		<t id="688847">Chat about anomalies.</t>
+		<t id="688848">Chat about data vaults.</t>
+		<t id="688849">Chat about politics.</t>
+		<t id="688850">Chat about the wars.</t>
+		<t id="688851">Chat about life in space.</t>
+		<t id="688852">Chat about science.</t>
+		<t id="688853">Chat about target: %s(knownname) %s(idcode).</t>
+		<!-- start: config -->
+		<t id="688900">kuertee: NPC reactions</t>
+		<t id="688901">No direct conversation penalty</t>
+		<t id="688902">The base chance for a meaningful rumour (your conversation skill) degrades every hour you don't have at least one face-to-face conversation.</t>
+		<t id="688903">Same race bonus</t>
+		<t id="688905">Friendly faction bonus</t>
+		<t id="688907">Friendly faction in enemy sector bonus</t>
+		<t id="688909">Conversation count</t>
+		<t id="688910">The chance a conversation produces a meaningful rumour increases by 1% at every new conversation. DO NOT CHANGE THIS except when necessary.</t>
+		<t id="688911">Base chance for a rumour</t>
+		<t id="688912">When a conversation produces a meaningful rumour, a base chance is increased by 1%. This can be considered to be a 'conversation skill'. DO NOT CHANGE THIS except when necessary.</t>
+		<t id="688913">Debug log</t>
+		<t id="688914">Max base chance for a rumour</t>
+		<t id="688915">This is the limit of the base chance for a meaningful rumour. DO NOT CHANGE THIS except when necessary.</t>
+		<t id="688916">In bar bonus</t>
+		<t id="688917">kuertee: NPC Taxis</t>
+		<t id="688918">Additional cost per gate as multiplier</t>
+		<t id="688919">Do debug function</t>
+		<!-- bar patrons -->
+		<t id="688920">Secondary skills</t>
+		<!-- taxis -->
+		<t id="688921">(unused)Destroy taxis</t>
+		<!-- crew alerts -->
+		<t id="688922">Bridge crew</t>
+		<t id="688923">Radar contact frequency</t>
+		<t id="688924">Greater than or equal to ship size</t>
+		<t id="688925">Comm with cutscene</t>
+		<!-- start: enable/disable features -->
+		<t id="688926">Rumours</t>
+		<t id="688927">Bank loans from station managers</t>
+		<t id="688928">Bar patrons</t>
+		<t id="688929">Bridge crew</t>
+		<t id="688930">Construction ships request your jobs</t>
+		<t id="688931">NPCs request back-up via comms</t>
+		<t id="688932">Taxis</t>
+		<!-- end: enable/disable features -->
+		<t id="688933">Video comms with generic background</t>
+		<t id="688934">Limit race to station workforce races</t>
+		<!-- bridge crew -->
+		<t id="688935">AI pilot auto-leaves controls</t>
+		<t id="688936">Small ships</t>
+		<t id="688937">Medium ships</t>
+		<t id="688938">Larger ships</t>
+		<t id="688939">Add Hold Position to last controlled ship</t>
+		<t id="688940">Report enemies</t>
+		<t id="688941">S-class and M-class contacts</t>
+		<t id="688942">Log book</t>
+		<t id="688943">Notification</t>
+		<t id="688944">Voice message</t>
+		<t id="688945">Player's fleet follows the player</t>
+		<t id="688946">L-class and XL-class contacts</t>
+		<t id="688947">Enemy report frequency per sector</t>
+		<!-- end: config -->
+		<!-- npc constructors -->
+		<t id="689000">Need a constructor?</t>
+		<t id="689001">No, thank you.</t>
+		<t id="689002">Nearest</t>
+		<t id="689003">Nearest to me</t>
+		<t id="689004">Your employee</t>
+		<t id="689005">Constructor assignment failed.</t>
+		<!-- npc taxis -->
+		<t id="689100">Taxi service(mission name)</t>
+		<t id="689101">Taxi service(faction name)</t>
+		<t id="689102">Do you still need a ride?</t>
+		<t id="689103">Suit yourself, you Spacefly!</t>
+		<t id="689104">Dock at ...</t>
+		<t id="689105">I need a ride to ...</t>
+		<t id="689106">Sorry, this ship can't dock on that ship.</t>
+		<t id="689107">Sorry, this ship can't dock at that station.</t>
+		<t id="689108">Destination</t>
+		<t id="689109">Cost</t>
+		<t id="689110">Are you sure?</t>
+		<t id="689111">Get on board</t>
+		<t id="689112">Disembark at</t>
+		<t id="689113">Call for Transport</t>
+		<t id="689114">There are no available transports at the moment.</t>
+		<t id="689115">Where to?</t>
+		<t id="689116">Ok, I'll be there soon.</t>
+		<t id="689117">I don't need a transport anymore.</t>
+		<t id="689118">Ok, I'm here. Come aboard.</t>
+		<t id="689119">I don't need this transport anymore.</t>
+		<t id="689120">E.T.A.</t>
+		<t id="689121">I'm looking for transport.</t>
+		<t id="689122">Let me contact the pilot.</t>
+		<t id="689123">Wait for</t>
+		<t id="689124">Disembark</t>
+		<t id="689125">I included the distance to the cost.</t>
+		<t id="689126">TAXI</t>
+		<t id="689127">Re-hire</t>
+		<t id="689128">I lost contact with our destination.</t>
+		<t id="689129">I need a ride to the nearest shipyard.</t>
+		<t id="689130">I need a ride to the nearest wharf.</t>
+		<t id="689131">Dock at the nearest shipyard.</t>
+		<t id="689132">Dock at the nearest wharf.</t>
+		<t id="689133">Sorry, you can't afford that.</t>
+		<!-- npc bank loans convo -->
+		<t id="689200">I'd like a bank loan \(%1(Cr)\).</t>
+		<t id="689201">Here you go.</t>
+		<t id="689202">Remember that the interest rate is 1% calculated per hour.</t>
+		<t id="689203">I'd like to pay my bank loan \(%1(Cr)\).</t>
+		<t id="689204">(chc crime name)Unpaid Loans</t>
+		<!-- npc bank loans ui -->
+		<t id="689300">Bank Loans</t>
+		<t id="689301">Station</t>
+		<t id="689302">Lender</t>
+		<t id="689303">Loan</t>
+		<t id="689304">Interest rate</t>
+		<t id="689305">Pay loan</t>
+		<t id="689306">%1(number)%% per hour</t>
+		<t id="689307">Show %s($STATION_NAME$) on Map</t>
+		<t id="689308">Set Guidance to %s($LENDER_NAME$)</t>
+		<!-- npc bridge crew -->
+		<t id="689401">Helm</t>
+		<t id="689402">Tactical</t>
+		<t id="689403">Engineering</t>
+		<t id="689404">Target %1(enemy)?</t>
+		<t id="689405">Give order.</t>
+		<t id="689406">Enemy Report</t>
+		<t id="689407">Enemy: %s(enemy).\nSector: %s(sector).\nReported by: %s(name) \(%s(ship name)\).</t>
+		<t id="689408">Return to your post.</t>
+		<!-- orders: patrol -->
+		<t id="690001">Report Enemy Fighters, Corvettes And Frigates</t>
+		<t id="690002">Report Enemy Destroyers And Capital Ships</t>
+		<t id="690003">Do Not Engage Enemies</t>
+	</page>
+</language>

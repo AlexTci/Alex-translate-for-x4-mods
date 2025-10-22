@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xmllib/diff.xsd">
+  <add sel="/language">
+	<page id="996015" voice="yes">
+		<t id="1">Boann</t>
+		<t id="2">(Boann Mineral){996015,1} {20111,3101}</t>
+		<t id="3">(Boann Gas){996015,1} {20111,3201}</t>
+		<t id="4">The Boann is a ship, which was initially designed by TerraCorp and is now in service by the Argons.\n\nThis massive mining vessel is a huge invest as it is one of the single most expensive civilian ships that can be obtained. But this ship is worth it´s money as it provides a huge storage and an increased drone capacity to fill it´s cargo bay.\n\nAs if that wasn´t already enough, the ship also provides superior protection by having cruiser level shielding and an impressive amount of point defense turrets to protect it´s valuable cargo.\n\nAll those features make the Boann the perfect choice for deepspace or high risk mining operations.</t>
+		<t id="5">(ARG L Mining Turret Mk1){20202,103} {20111,5031} {20105,5201} {20111,201}</t>
+		<t id="6">(Mining Mk1){20105,5203} {20111,201}</t>
+	</page>
+  </add>
+</diff> 

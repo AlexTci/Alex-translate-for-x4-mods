@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="SectorList"
+         name="Sector list by Mycu"
+         author="Mycu"
+         version="140"
+         date="2025-05-15"
+         save="false"
+         enabled="1"
+         description="Добавляет на карту список известных секторов с текущими ресурсами и списком предложений купли/продажи.">
+    <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD"/>
+</content>

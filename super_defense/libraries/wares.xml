@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wares>
+    <!-- Argon -->
+    <ware id="module_uber_def_disc_01" name="{873568,1}" description="{873568,1}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,101}">
+            <primary>
+                <ware ware="claytronics" amount="98" />
+                <ware ware="energycells" amount="196" />
+                <ware ware="hullparts" amount="359" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_disc_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+    <ware id="module_uber_def_tube_01" name="{873568,2}" description="{873568,2}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,101}">
+            <primary>
+                <ware ware="claytronics" amount="85" />
+                <ware ware="energycells" amount="170" />
+                <ware ware="hullparts" amount="312" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_tube_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+
+    <!-- Terran -->
+
+    <ware id="module_uber_ter_def_disc_01" name="{873568,3}" description="{873568,3}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,901}">
+            <primary>
+                <ware ware="computronicsubstrate" amount="57" />
+                <ware ware="energycells" amount="419" />
+                <ware ware="siliconcarbide" amount="117" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_ter_disc_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+    <ware id="module_uber_ter_def_tube_01" name="{873568,4}" description="{873568,4}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,901}">
+            <primary>
+                <ware ware="computronicsubstrate" amount="40" />
+                <ware ware="energycells" amount="296" />
+                <ware ware="siliconcarbide" amount="83" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_ter_tube_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+
+    <!-- Split -->
+
+    <ware id="module_uber_spl_def_disc_01" name="{873568,5}" description="{873568,5}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,101}">
+            <primary>
+                <ware ware="claytronics" amount="105" />
+                <ware ware="energycells" amount="210" />
+                <ware ware="hullparts" amount="384" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_spl_disc_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+    <ware id="module_uber_spl_def_tube_01" name="{873568,6}" description="{873568,6}" transport="container" volume="1" tags="module">
+        <price min="100" average="200" max="300" />
+        <production time="60" amount="1" method="default" name="{20206,101}">
+            <primary>
+                <ware ware="claytronics" amount="105" />
+                <ware ware="energycells" amount="210" />
+                <ware ware="hullparts" amount="384" />
+            </primary>
+        </production>
+        <research time="10">
+            <research>
+                <ware ware="research_module_defence" />
+            </research>
+        </research>
+        <component ref="defence_uber_spl_tube_01_macro" />
+        <restriction licence="station_gen_intermediate" />
+        <owner faction="player" />
+    </ware>
+</wares>

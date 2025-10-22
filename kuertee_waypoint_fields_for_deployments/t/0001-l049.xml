@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- german from EagleFour on nexusmods -->
+<diff><add sel="/language">
+	<!-- "kuertee: Waypoint fields for deployments" = "kWFFD" = "11 23 6 6 4" = "23664" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="23664" voice="no">
+		<t id="1">kuertee: Wegpunktfelder für die Ausbringung von Aufstellbares</t>
+		<!-- config -->
+		<t id="2">Debug log</t>
+		<t id="3">Do debug function</t>
+		<t id="4">Größe / Radius-Multiplikator</t>
+		<t id="5">Automatisches Wiedereinsetzen von Deployables</t>
+		<!-- map ui text -->
+		<t id="1000">Wegpunktfeld</t>
+		<t id="1001">Form</t>
+		<t id="1002">Würfel</t>
+		<t id="1003">Kugel</t>
+		<t id="1004">Wand</t>
+		<t id="1005">Größe / Radius</t>
+		<t id="1006">Aktionen</t>
+		<t id="1007">Vorschau anzeigen</t>
+		<t id="1008">Flügelmänner das Aufstellen erlauben</t>
+		<t id="1009">Pause Flügelmänner</t>
+		<t id="1010">Vorschau verbergen</t>
+		<t id="1011">Erstelle Wegpunktfeld</t>
+		<t id="1012">Dichte (basiert auf Radar/Waffen Reichweite)</t>
+		<t id="1013">Flächen-Vervielfacher</t>
+		<t id="1014">Abbrechen und zurückholen</t>
+		<t id="1015">Mission abschließen: %1(original Missionsname)</t>
+		<t id="1016">Original Mission anzeigen</t>
+		<t id="1017">Zeige Wegpunktfeld Mission</t>
+		<t id="1018">Erstellen eines Wegpunktfeldes auf der Karte</t>
+		<t id="1019">Aufstellen: %1(Aufstellbares)</t>
+		<t id="1020">Aktivieren und dann ein Wegpunktfeld auf der Karte erstellen</t>
+		<t id="1021">(Dichte)Optimal \(Reichweite x1\)</t>
+		<t id="1022">(Dichte)Leicht \(Reichweite x2\)</t>
+		<t id="1023">(Dichte)Spärlich \(Reichweite x3\)</t>
+		<t id="1024">(Dichte)Schwach \(Reichweite x4\)</t>
+		<t id="1025">Rechteck</t>
+		<t id="1026">Scheibe</t>
+		<t id="1027">(set_objective text)%1(Aufstellen Name), %2(aufgestellt) / %3(Anzahl Wegpunkte)</t>
+		<t id="1028">(mission panel action)Setze neuen Flottenführer</t>
+		<t id="1029">(mission panel action)Zeige Staffelführer \(%s\)</t>
+		<t id="1030">(Dichte)Ungünstig \(Reichweite x5\)</t>
+		<t id="1031">(Density)Mangelhaft \(Reichweite x10\)</t>
+		<t id="1032">Aktivieren und dann ein Wegpunktfeld erstellen</t>
+		<t id="1033">Wegpunktfeld ersetzen</t>
+		<t id="1034">(Dichte)Gepackt \(Reichweite x2, keine Lücken\)</t>
+		<!-- orders -->
+		<t id="2000">Einsatzmittel in Reichweite sammeln</t>
+		<t id="2001">Einsatzmittel für den Kommandanten sammeln</t>
+		<!-- notification/log book -->
+		<t id="3000">Einsatzmittel wieder auffüllen</t>
+		<t id="3001">Ihr Schiff, %1(ship), hat %2(count) x %3(deployable) bei der %4(station) für %5(credits) eingesammelt.</t>
+	</page>
+</add></diff>

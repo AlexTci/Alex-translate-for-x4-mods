@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Drifter Battleship" name="Drifter Battleship" description="Adds the Drifter Battleship to the Argon wharf" author="GoobleSnorf" version="103" date="2023-06-26" save="0" enabled="1">
+	<text language="7" name="Drifter Battleship" description="Добавляет боевой корабль Бродяга на верфь Аргона" author="GoobleSnorf" />
+</content>

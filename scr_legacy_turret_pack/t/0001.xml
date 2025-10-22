@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+  <page id="90105" title="DrWhoKnows Mod" descr="Text for my mods." voice="no">
+    <t id="2000">(*==Station Combat Rebalance==assets*)</t>
+    <!-- ARG turrets -->
+    <t id="2005">{20202,103} {20111,5021} {90105,20051}</t>
+    <t id="20051">Flak Point Defense</t>
+    <t id="2006">SCR point defense turret.</t>
+    <t id="2009">{20202,103} {20111,5031} {90105,20091}</t>
+    <t id="20091">Long Range Flak Turret</t>
+    <t id="2010">SCR anti fighter turret.</t>
+    <t id="2011">{20202,103} {20111,5031} {90105,20111}</t>
+    <t id="20111">Destroyer Destroyer</t>
+    <t id="2012">SCR anti capital turret.</t>
+    <!-- PAR turrets -->
+    <t id="2013">{20202,403} {20111,5021} {90105,20131}</t>
+    <t id="20131">Beam Point Defense</t>
+    <t id="2014">SCR point defense turret.</t>
+    <t id="2015">{20202,403} {20111,5031} {90105,20151}</t>
+    <t id="20151">Enlightenment Turret</t>
+    <t id="2016">SCR anti fighter turret.</t>
+    <t id="2017">{20202,403} {20111,5031} {90105,20171}</t>
+    <t id="20171">Last Judgment</t>
+    <t id="2018">SCR anti capital turret.</t>
+    <!-- BOR turrets -->
+    <t id="2019">{20202,203} {20111,5021} {90105,20191}</t>
+    <!-- <t id="20191">Plasma Net Thrower</t> -->
+    <t id="20191">Ion Point Defense</t>
+    <t id="2020">SCR point defense turret.</t>
+    <t id="2021">{20202,203} {20111,5031} {90105,20211}</t>
+    <t id="20211">Ion Storm Turret</t>
+    <t id="2022">SCR anti fighter turret.</t>
+    <t id="2023">{20202,203} {20111,5031} {90105,20231}</t>
+    <t id="20231">Peace Keeper</t>
+    <t id="2024">SCR anti capital turret.</t>
+    <!-- SPL turrets -->
+    <t id="2025">{20202,303} {20111,5021} {90105,20251}</t>
+    <t id="20251">{90105,20051}</t>
+    <t id="2026">SCR point defense turret.</t>
+    <t id="2027">{20202,303} {20111,5031} {90105,20271}</t>
+    <t id="20271">Metal Storm Turret</t>
+    <t id="2028">SCR anti fighter turret.</t>
+    <t id="2029">{20202,303} {20111,5031} {90105,20291}</t>
+    <t id="20291">War Monger</t>
+    <t id="2030">SCR anti capital turret.</t>
+    <!-- TER turrets -->
+    <t id="2031">{20202,703} {20111,5021} {90105,20311}</t>
+    <!-- <t id="20311">Field Distortion Generator</t> -->
+     <t id="20311">Meson Point Defense</t>
+    <t id="2032">SCR point defense turret.</t>
+    <t id="2033">{20202,703} {20111,5031} {90105,20331}</t>
+    <t id="20331">Star Burst Turret</t>
+    <t id="2034">SCR anti fighter turret.</t>
+    <t id="2035">{20202,703} {20111,5031} {90105,20351}</t>
+    <t id="20351">Singularity Accelerator</t>
+    <t id="2036">SCR anti capital turret.</t>
+    <!-- TEL turrets -->
+    <t id="2043">{20202,503} {20111,5021} {90105,20431}</t>
+    <t id="20431">{90105,20131}</t>
+    <t id="2044">SCR point defense turret.</t>
+    <t id="2045">{20202,503} {20111,5031} {90105,20451}</t>
+    <t id="20451">{90105,20151} {90105,2053}</t>
+    <t id="2046">{90105,2016}\n\n{90105,2054}</t>
+    <t id="2047">{20202,503} {20111,5031} {90105,20471}</t>
+    <t id="20471">{90105,20111} {90105,2053}</t>
+    <t id="2048">{90105,2012}\n\n{90105,2054}</t>
+    <t id="2053">\(Commercial\)</t>
+    <t id="2054">A performance reduced version for sale.</t>
+
+
+    <t id="2328">Slight Spacetime Distortion</t>
+    <t id="2329">Any space ship designed with gate transverse in mind can shield such small spacetime distortion with ease. It is, however, disastrous to the xs engines of missiles and torpedos.</t>
+    <t id="2330">Starburst EMP</t>
+    <t id="2331">EMP from the mini supernova explosion will temperately distrupt engine functionality of S/M ships, and disabling boost and travel mode for a short period.</t>
+
+  </page>
+</language> 

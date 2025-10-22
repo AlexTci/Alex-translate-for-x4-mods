@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_pirate_witherborn" name="Pirate Witherborn" description="Adds the Witherborn fighter to the scavenger wharfs" author="Lc4Hunter" version="310" date="2025-01-21" save="0" enabled="1">
+	<text language="7" name="Pirate Witherborn" description="Добавляет истребитель Уизерборн на верфь Волновых стервятников" author="Lc4Hunter" />
+</content>

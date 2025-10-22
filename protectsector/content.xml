@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+  id="ws_3379427822"
+  name="Protect Sector"
+  author="Chem O`Dun"
+  version="110"
+  date="2025-08-07"
+  lastupdate="1754514976"
+  save="false"
+  description="This extension allows you to protect a sector from being harassed by hostile ships.">
+  <text language="7" name="Protect Sector" description="Позволяет вам защитить сектор от нападения вражеских кораблей."></text>
+  <dependency version="710"></dependency>
+</content>

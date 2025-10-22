@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="8624113" title="Extra Terran Discs" descr="LMD Extra Terran Discs" voice="no">
+			<t id="21">(Terran Cross Connection Structure 03){20202,701} {20104,51301} {20111,5103}</t>
+			<t id="22">{20006,102}(No information available)</t>
+			<t id="23">(Cross 03){20104,51303} {20111,5103}</t>
+			<t id="24">(Terran Cross Connection Structure 04){20202,701} {20104,51301} {20111,5104}</t>
+			<t id="25">(Cross 04){20104,51303} {20111,5104}</t>
+		</page>
+	</add>
+</diff>

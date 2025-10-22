@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996003" title="Tsurugi Title" descr="Tsurugi Description" voice="yes">
+			<t id="1">Tsurugi</t>
+			<t id="2">Dieser superschwere Jäger ist ein neues Design im Bestand des Terranischen Protektorats und setzt neue Maßstäbe in den Bereichen Feuerkraft und Schildstärke.\n\nDie Tsurugi basiert im Kern auf dem Kukri, allerdings wurden Waffenzuladung und Schildkapazität drastisch erhöht. Nicht verbessert wurde hingegen der Antrieb, was zur Folge hat dass die Tsurugi der langsamste Jäger im Arsenal des Protektorats ist.</t>
+		</page>
+	</add>
+</diff>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000201" title="PointOf" descr="M" voice="no">
+     <t id="10001">PointOf</t>
+	   <t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent Storage area, holds tons of people for the missions, is a very good fighter, almost undestructable, kills even Ks without much of a sweat and has the looks of a very beautiful ship in the game, the OsPrey. I recommend to load it with two Bolts, two Torpedo Launcher and two disruptors. After that, lean back and enjoy your Easy Life in X4.</t>
+     <t id="10002">(PointOf Vanguard){950000201,10001} {950000201,10003}</t>
+  	 <t id="10003">Vanguard</t>
+  	 <t id="10004">Heavy Frigate</t>
+	  <t id="100005">Antimatter Engine M-Class Mk1</t>
+	  <t id="100006">Antimatter Thruster M-Class Mk1</t>
+	  <t id="100010">PointOf Khaak Laser Mk2</t>
+	  <t id="100011">This Laser was found functional, on a Khaak destroyer's wreck. So we stole it and shamlessness did copy the technology. Sorry, Khaak.</t>
+	  </page>
+  </add>
+</diff>

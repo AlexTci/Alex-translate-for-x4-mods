@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000701" title="Serenity" descr="XL" voice="yes">
+     <t id="10001">Serenity</t>
+	   <t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It has a huge Storage area, holds tons of people for the missions, is a very good dreadnaught, almost undestructable, kills even Is without much of a sweat and has the looks of a really beautiful ship in the game, the Raptor. Lean back and enjoy your Easy Life in X4. I always loved the Split and their ships.</t>
+     <t id="10002">(Serenity Vanguard){950000701,10001} {950000701,10003}</t>
+  	 <t id="10003">Vanguard</t>
+  	 <t id="10004">Heavy Carrier</t>
+     <t id="20001">Tornado</t>
+	   <t id="20005">This Ship is an addition to Easy Life, it is more or less cheating. It has some Storage area, holds some people for the missions, is a very good fighter, almost undestructable, kills even Ps without much of a sweat and has the looks of a really beautiful ship in the game, the Chimera. Lean back and enjoy your Easy Life in X4. I always loved the Split and their ships.</t>
+     <t id="20002">(Tornado Vanguard){950000701,20001} {950000701,20003}</t>
+  	 <t id="20003">Vanguard</t>
+  	 <t id="20004">Ultraheavy Fighter</t>
+	  </page>
+  </add>
+</diff>

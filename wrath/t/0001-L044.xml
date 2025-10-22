@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999851" title="Wrath" descr="Wrath" voice="yes">
+			<t id="1">Wrath</t>
+			<t id="2">(Wrath) {999851,4}</t>
+			<t id="3">Wrath is Dreadnought L plus class.</t>
+			<t id="4">Wrath Dreadnought</t>
+
+			<t id="5">(Main cannon turret){999851, 6}</t>
+			<t id="6">XL Main cannon turret</t>
+			<t id="7">Capital Cruiser High power main cannon turret</t>
+			<t id="8">(Plasma laser){999851, 9}</t>
+			<t id="9">Plasma laser cannon</t>
+			<t id="10">Capital Cruiser High power XL plasma laser cannon</t>
+			<t id="11">(Main flak turret){999851, 12}</t>
+			<t id="12">XL Main flak turret</t>
+			<t id="13">Capital Cruiser High power main flak turret</t>
+			<t id="14">(AM Cannon){999851, 15}</t>
+			<t id="15">Anti-Matter cannon</t>
+			<t id="16">Wrath equipped experimental powerful Anti-Matter cannon.</t>
+		</page>
+	</add>
+</diff>

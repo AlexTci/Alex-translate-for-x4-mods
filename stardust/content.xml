@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content  id="ws_1808897861" name="Stardust" description="EasyLife Carrier" author="Keeshah" version="401"  date="2024-12-21" save="0" enabled="1" sync="false" lastupdate="1681768798"> 
+  <!--  <dependency id="ws_1905655811" optional="true" name="XR ShipPack"/>  -->
+  <text language="7" name="Stardust" description="Новый корабль подкласса Колосс в представлении о легкой жизни." author="Keeshah"/>
+</content>

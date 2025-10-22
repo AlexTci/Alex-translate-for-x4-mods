@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="654614" title="lint_atf_carrier" descr="lint_atf_carrier" voice="no">
+			<!-- Ship -->
+			<t id="1">Designed to be the successor to the Odin and Woden-class of carriers, Freyr-class was to be the next generation of ATF flagship. The Terran government paused the development process after the gates shut down. After the creation of Terran Protectorate and the merging of ATF and USC assets, development of Freyr-class resumed with a heavier emphasis on being able to partake in expeditions with minimal escort.</t>
+		</page>
+	</add>
+</diff>

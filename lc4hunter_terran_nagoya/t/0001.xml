@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996002" title="Nagoya Title" descr="Nagoya Description" voice="yes">
+			<t id="1">Nagoya</t>
+			<t id="2">The Nagoya-class battleship is based on a remnant from the time before the gate shutdown. Its history dates back to the period of the Terran Conflict when her direct predecessor, the USC's Osaka, saw intensive use.\n\nWhen the war began to come to an end, the Osaka-class battleships were taken off from active service due to operating costs and pressure from the Terran government. The sovereignty for the operation of battleships was awarded to the ATF.\n\nWith the emergence of new threats to the Protectorate and the low availability of Asgard-class battleships, which were too costly for regular use, the Protectorate decided to build a new class of battleships.\n\nBased on the Osaka, the Nagoya-class was developed and shares many design features as its predecessor, although many simplifications were made to reduce procurement- and operating costs.\n\nThe Nagoya-class ships are not as powerful as their predecessors, but they are still among the most powerful warships in the known universe.</t>
+		</page>
+	</add>
+</diff>

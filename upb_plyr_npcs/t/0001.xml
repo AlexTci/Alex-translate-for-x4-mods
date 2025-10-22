@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="44">
+
+<page id="1134040" title="netUpb's Player NPC's Mod Text" descr="Text for the missions created by netUpb" voice="no">
+
+
+   <t id="100">Player NPCs</t>
+   <t id="110">Options</t>
+   <t id="111">This category shows options.</t>
+   <t id="120">Back</t>
+   
+   <t id="200">Female</t>
+   <t id="201">Female</t>
+   <t id="210">Male</t>
+   <t id="211">Male</t>
+   <t id="220">Both</t>
+   <t id="221">Both</t>
+
+   <t id="300">Pilot</t>
+   <t id="301">Ships Pilot Personnels</t>
+   <t id="310">Service</t>
+   <t id="311">Ships Service Personnels</t>
+   <t id="320">Marine</t>
+   <t id="321">Ships Marine Personnels</t>
+   <t id="330">Station Staff</t>
+   <t id="331">Player Stations Staffs</t>
+   <t id="340">Item Trader</t>
+   <t id="341">Player Stations Item Traders</t>
+
+   <t id="1000">Restore Default Settings</t>
+   <t id="1010">---</t>
+   <t id="1020">Race and Factions</t>
+   <t id="1030">Personel Type</t>
+   <t id="1031"></t>
+   <t id="1040">Gender Type</t>
+   <t id="1041"></t>
+   <t id="1050">Player Stations</t>
+   <t id="1060">Instantiate Stafs</t>
+   <t id="1061">Turn on/off station staff on player stations</t>
+   <t id="1070">Item Traders</t>
+   <t id="1071">Turn on/off for Item Traders on player stations</t>
+   <t id="1080">Shipyards</t>
+   <t id="1090">Apply For NPC Shipyards</t>
+   <t id="1091">Toggle including player ship crew produced or updated in NPC shipyards.</t>
+
+   <t id="2000">Extension</t>
+   <t id="2010">Disable</t>
+   <t id="2011">Turns off/on the extension</t>
+
+   <t id="2100">Debug</t>
+   <t id="2110">Debug Chance</t>
+   <t id="2111">Debug Mod. It is only effective when running the game with debug mod support.</t>
+   <t id="2120">Deep Debug</t>
+   <t id="2121">Deep Debug Mod. It is only effective when running the game with debug mod support.</t>
+
+
+
+</page>
+
+</language>

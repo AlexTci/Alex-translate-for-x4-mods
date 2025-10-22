@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="2025071312" title="ccunsc" descr="ccunsc mod" voice="no">
+<t id="1">UNSC Punic-class</t>
+<t id="2">This class of supercarriers was built to directly counter the Covenant's capital ships, and it is one of the very few UNSC vessels capable of undertaking this role. The weaponry and armor of the Punic-class supercarriers make other active UNSC Navy aircraft carriers pale in comparison. The sub-vessel hangar in the belly of the Punic-class supercarrier can accommodate frigates and destroyers.</t>
+<t id="3">Nuclear Fusion Engine</t>
+<t id="4">UNSC Punic-class Engine Information</t>
+<t id="5">UNSC Punic-class Shield</t>
+<t id="6">UNSC Punic-class Shield Information</t>
+<t id="7">CR-01D Series 6 Magnetic Accelerator Cannon</t>
+<t id="8">UNSC Punic-class Main Gun Information</t>
+<t id="9">Mark 15 Breakwater Naval Coilgun</t>
+<t id="10">UNSC Punic-class Heavy Cannon Information</t>
+<t id="11">M965 "Bastion" 70mm Caliber Point-Defense Gun</t>
+<t id="12">It is the most commonly used shipborne defense system in the UNSC Navy, all operated automatically by computers or AIs, as human reaction speeds are insufficient to fully handle its operation. Its turret consists of dual or quadruple 50mm rapid-fire coilguns and a target scanner. This defense system is used to counter close-range threats, including enemy aircraft and plasma torpedoes. Each turret automatically analyzes the current threat level to switch between sub-caliber armor-piercing rounds and proximity-fused fragmentation rounds, maximizing its operational efficiency.</t>
+<t id="13">M85 Sickle Anti-Air Turret</t>
+<t id="14">UNSC Punic-class Point Defense 2 Information</t>
+<t id="15">M96 Roar Missile Pod</t>
+<t id="16">UNSC Punic-class Missile Launcher 1 Information</t>
+<t id="17">UNSC Punic-class Missile Launcher 2</t>
+<t id="18">UNSC Punic-class Missile Launcher 2 Information</t>
+<t id="19">UNSC Punic-class Missile Launcher 3</t>
+<t id="20">UNSC Punic-class Missile Launcher 3 Information</t>
+<t id="21">UNSC Punic-class Missile Launcher 4</t>
+<t id="22">UNSC Punic-class Missile Launcher 4 Information</t>
+<t id="23">UNSC Punic-class Missile Launcher 5</t>
+<t id="24">UNSC Punic-class Missile Launcher 5 Information</t>
+<t id="25">UNSC Punic-class Missile 1</t>
+<t id="26">UNSC Punic-class Missile 1 Information</t>
+<t id="27">UNSC Punic-class Missile 2</t>
+<t id="28">UNSC Punic-class Missile 2 Information</t>
+<t id="29">UNSC Punic-class Missile 3</t>
+<t id="30">UNSC Punic-class Missile 3 Information</t>
+<t id="31">UNSC Punic-class Missile 4</t>
+<t id="32">UNSC Punic-class Missile 4 Information</t>
+<t id="33">UNSC Punic-class Missile 5</t>
+<t id="34">UNSC Punic-class Missile 5 Information</t>
+</page>
+	</add>
+</diff>

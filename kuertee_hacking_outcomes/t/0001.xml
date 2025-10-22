@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+	<!-- "kuertee hacking outcomes" = "kho" = "11 8 15" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11815" voice="no">
+		<t id="688845">Browse files</t>
+		<t id="688846">Log out</t>
+		<t id="688847">Release impounded ships</t>
+	</page>
+</language>

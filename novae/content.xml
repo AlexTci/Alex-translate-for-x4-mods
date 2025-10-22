@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3404629275" name="Nova E fighter" description="Adds the Nova E fighter to the Argon wharf" author="eva" version="100" date="2025-01-10" save="0" enabled="1" sync="false" lastupdate="1736528417">
+  <text language="7" name="Nova E fighter" description="Добавляет истребитель Nova E в Аргонский порт" author="eva"/>
+</content>

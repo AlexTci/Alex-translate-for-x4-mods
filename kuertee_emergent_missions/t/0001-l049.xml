@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- german -->
+<diff><add sel="/language">
+	<!-- "kuertee emergent missions" = "kem" = "11 5 13" = in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11513" voice="no">
+		<t id="1">kuertee: Dringliche Missionen</t>
+		<!-- config -->
+		<t id="2">Debug-Protokoll</t>
+		<t id="3">Debug-Funktion ausführen</t>
+		<!-- Anforderungen -->
+		<t id="11">Beziehungsvoraussetzung</t>
+		<t id="12">Keine</t>
+		<t id="13">Neutral</t>
+		<t id="14">Freund</t>
+		<t id="15">Jedes Handels- oder Kriegsabonnement</t>
+		<t id="16">Reputationsanforderung</t>
+		<t id="17">Verteidiger</t>
+		<t id="18">Verteidiger oder Söldner</t>
+		<t id="19">Verteidiger oder Selbstschutz</t>
+		<t id="20">Verteidiger, Söldner oder Selbstschutz</t>
+		<!-- andere Konfigurationen -->
+		<t id="31">Belohnungsmultiplikator</t>
+		<t id="32">Angebot von Torentfernungspatrouillen/ Überfallmissionen</t>
+		<t id="33">Erzeuge Missions-NPC-Händler immer an Stationen</t>
+		<t id="34">Aufhebung von 3rd-Party-Mods auferlegter Einschränkungen</t>
+		<!-- Missionsgruppen -->
+		<t id="101">Hilfe! Hilfe!(Missionen)</t>
+		<t id="102">Eskorte(Missionen)</t>
+		<t id="103">Sektorpatrouille(Missionen)</t>
+		<t id="104">Sektorüberfall(Missionen)</t>
+		<t id="105">Pirat begleiten(Missionen)</t>
+		<t id="106">Suchen und Zerstören(Missionen)</t>
+		<!-- Sektorklassifikationen -->
+		<t id="111">Heimat</t>
+		<t id="112">Gebiet</t>
+		<t id="113">Grenzgebiet</t>
+		<t id="114">Fremd \(Heimat\)</t>
+		<t id="115">Fremd \(Gebiet\)</t>
+		<t id="116">Feind \(Heimat\)</t>
+		<t id="117">Feind \(Gebiet\)</t>
+		<t id="118">Unbesetzt</t>
+		<!-- Mission Maydays -->
+		<t id="201">(Titel)Hilfe! Hilfe! \(%s(ship)\)</t>
+		<t id="202">(Beschreibung)Verteidigen Sie %s(Schiff) gegen alle Angreifer.</t>
+		<t id="211">Wir weisen Ihnen Ziele zu, sobald Ihr Zielcomputer ohne Zielfokus ist. Aktionen gegen Fraktionen, die außerhalb unserer Mission liegen, werden ignoriert.</t>
+		<t id="212">Um die Mission abzuschließen, stellen Sie sicher, dass %s(Schiff) andockt, den Sektor verlässt oder keine Feinde in Radarreichweite findet.</t>
+		<t id="213">Aktionen gegen Fraktionen, die außerhalb unserer Mission liegen, werden ignoriert.</t>
+		<t id="221">Das Missionsziel %s(Schiff) muss überleben. Die Belohnung hängt von der Anzahl der Feinde ab, die gegen das Missionsziel oder Ihre Schiffe vorgehen.</t>
+		<t id="222">Misserfolgsbedingungen: %1(Schiff) bleibt länger als 5 Minuten ohne Begleitung oder wird zerstört.</t>
+		<!-- mission maydays: Kurztitel für RAP -->
+		<t id="229">Hilfe! Hilfe!</t>
+		<!-- mission maydays: mission log -->
+		<t id="231">%s entkam ihren Angreifern, bevor Sie die Möglichkeit hatten, sie anzugreifen.</t>
+		<!-- Schadens- und Tötungsliste -->
+		<t id="242">Ihre Begegnungen: %s(Feindliste).</t>
+		<t id="243">%1(Anzahl) x %2(Klassenname) \(Tötungen: %3(Kills)\)</t>
+		<t id="244">%1(Anzahl) x %2(Klassenname) \(Tötungen: %3(Kills), Schaden: %4 / %5(Schaden)\)</t>
+		<t id="245">%1(Anzahl) x %2(Klassenname) \(Schaden: %3 / %4(Schaden)\)</t>
+		<t id="246">%1(Anzahl) x %2(Klassenname)</t>
+		<!-- Klassennamen -->
+		<t id="251">Station</t>
+		<t id="252">XL-Schiff</t>
+		<t id="253">L-Schiff</t>
+		<t id="254">M-Schiff</t>
+		<t id="255">S-Schiff</t>
+		<t id="256">XS-Schiff</t>
+		<!-- Klassennamen (Plural) -->
+		<t id="261">Stationen</t>
+		<t id="262">XL-Schiffe</t>
+		<t id="263">L-Schiffe</t>
+		<t id="264">M-Schiffe</t>
+		<t id="265">S-Schiffe</t>
+		<t id="266">XS-Schiffe</t>
+		<!-- Mission Maydays: Fehlschlag -->
+		<t id="271">%s(ship) wurde zerstört.</t>
+		<t id="272">%s(ship) hatte für mehr als 5 Minuten keine Eskorte.</t>
+		<!-- mission ui buttons -->
+		<t id="273">Ein Schiff zuweisen</t>
+		<t id="274">Zugewiesene Schiffe anzeigen</t>
+		<t id="275">Alle zugewiesenen Schiffe entfernen</t>
+		<!-- Einsatzeskorten -->
+		<t id="301">(Titel)Eskorte für %s(Schiff)</t>
+		<t id="302">(Beschreibung)Eskortieren Sie %s(ship) bis zur Beendigung seiner Aufgaben.</t>
+		<t id="303">(Titel)Verteidigt Plünderer \(%s(ship)\)</t>
+		<t id="304">(Beschreibung)Verteidigen Sie %1(Schiff), während es %2(Sektor) überfällt und plündert.</t>
+		<t id="311">Wir weisen Ihnen Ziele zu, wenn Ihr Zielcomputer ohne Zielfokus ist. Aktionen gegen Fraktionen, die außerhalb unserer Mission liegen, werden ignoriert.</t>
+		<t id="312">Stellen Sie zum Abschließen der Mission sicher, dass %s(Schiff) alle seine Handelsaufträge ausführen kann. Neue Handelsaufträge, die das Schiff während der Mission erhält, können die Missionsdauer verlängern.</t>
+		<t id="313">Die Mission endet vorzeitig, wenn %s(Schiff) länger als 5 Minuten ohne Eskorte bleibt.</t>
+		<t id="321">Sie werden für jeden abgeschlossenen Handel bezahlt, angepasst an die Sektoren, die Sie durchquert haben, die Zeit, die Ihre Schiffe in Eskorte verbrachten \(während sie sich innerhalb von 100 km befanden\) und für Feinde, die Ihre Schiffe in Eskorte angriffen.</t>
+		<t id="322">Misserfolgsbedingung: %s(Schiff) konnte keinen Handel abschließen.</t>
+		<!-- Einsatzbegleiter: Kurztitel für RAP -->
+		<t id="327">Pirat unterstützen</t>
+		<t id="328">Bergbauschiff begleiten</t>
+		<t id="329">Händler begleiten</t>
+		<!-- Missionsbegleiter: Missionsaktualisierungen -->
+		<t id="331">Aktuelle Handelsmission: Verkaufe %1(Waren) an %2(Handelspartner).</t>
+		<t id="332">Aktuelle Handelsmission: Kaufe %1(Waren) von %2(Handelspartner).</t>
+		<t id="333">Aktuelle Bergbaumission: Liefere %1(Waren) an %2(Handelspartner).</t>
+		<t id="334">\(%1(Waren) an %2(Handelspartner)\)</t>
+		<t id="335">\(%1(Waren) von %2(Handelspartner)\)</t>
+		<t id="336">\(%1(Waren) an %2(Handelspartner)\)</t>
+		<t id="337">(Auftragstext)Eskortiert %s(Schiff).</t>
+		<t id="338">(Auftragstext)Warten Sie auf %s(Schiff).</t>
+		<!-- Missionsbegleiter: Missionsprotokoll -->
+		<t id="341">%1(mission name): Handel abgeschlossen: %2(Anzahl), Sektoren durchquert: %3(Anzahl), Zeit in Eskorte: %4 / %5 \(%6%%(Zeit in Eskorte in Prozent)\).</t>
+		<!-- Missionsbegleiter: convo -->
+		<t id="351">Ich beende meine Begleiteraufgaben.</t>
+		<!-- Einsatzeskorten: Fehlschlag -->
+		<t id="371">%s(ship) konnte keinen Handel abschliessen.</t>
+		<!-- Kurzinformationen -->
+		<t id="391">\(Beachten Sie, dass %s(ship) bis zu %s(speed) m/s reisen kann.\)</t>
+		<!-- Überfälle auf Missionssektoren -->
+		<t id="401">(Titel)Sektorüberfall: \(%s(faction), %s(sector)\)</t>
+		<t id="402">(Beschreibung)Unterstützen Sie %1(Schiff) bei seinem Überfall auf feindliche Ziele in %2(Sektorname) für mindestens 20 Minuten.</t>
+		<t id="403">(Titel)Sektorpatrouille: \(%s(faction), %s(sector)\)</t>
+		<t id="404">(Beschreibung)Unterstützen Sie %1(Schiff) auf seiner Patrouille in %2(Sektorname) für mindestens 20 Minuten.</t>
+		<!-- Missionssektorüberfälle: Missionsaktualisierungen -->
+		<t id="405">Update: Neue Aufgabe: %s(ship)</t>
+		<t id="406">Update: Neuer Sektor: %s(Sektorname)</t>
+		<t id="407">Update: Neuer Kontakt: %s(Gegenspielername)</t>
+		<t id="408">Update: Neues feindliches Ziel: %s(Fraktionsname)</t>
+		<t id="409">Eskortenzeit(Minuten)</t>
+		<t id="410">Patrouillenzeit(Minuten)</t>
+		<!-- Missionssektorüberfälle: Ziele -->
+		<t id="411">Wir weisen Ihnen Ziele zu, wenn Ihr Zielcomputer ohne Zielfokus ist. Diese sind optional und Sie können diese ignorieren oder eigenständig andere Ziele angreifen. Abgesehen von Angriffen auf Kriminelle werden jedoch Aktionen gegen Fraktionen, die wir nicht ins Visier genommen haben, ignoriert.</t>
+		<t id="412">Die Mission ist abgeschlossen, wenn %s(Schiff) seine Befehle ausgeführt hat oder wenn nach 20 Minuten keine feindlichen Ziele gefunden wurden. Neue Kampfaufträge, die das Schiff während der Mission erhält, können die Mission verlängern. Eskorten- und Tötungsbelohnungen summieren sich weiterhin bis zum letzten 20 Minuten-Intervall. Sie können eine vorzeitige Entlassung aus der Mission beantragen.</t>
+		<!-- Mission Pirat verteidigen: Ziele -->
+		<t id="413">Die Mission ist abgeschlossen, wenn %s(Schiff) den Sektor verlässt.</t>
+		<!-- Missionssektorüberfälle: Briefing -->
+		<t id="414">Die Mission endet vorzeitig, wenn %s(Schiff) seine Mission abgeschlossen hat.</t>
+		<t id="421">Sie werden für jeden Feind belohnt, den Ihre Schiffe angreifen, plus einen Bonus, wenn %s(Schiff) überlebt.</t>
+		<t id="422">Die Mission schlägt fehl, wenn Sie länger als 5 Minuten keine Schiffe im Missionssektor haben.</t>
+		<t id="423">Ihre Priorität ist es, den Sektor zu patrouillieren - ob mithilfe der Missionsführung oder auf eigene Faust.</t>
+		<!-- Missionssektorüberfälle: Kurztitel für RAP -->
+		<t id="427">Patrouillenunterstützung</t>
+		<t id="428">Überfallunterstützung</t>
+		<!-- Missionssektorüberfälle: Missionslogbuch -->
+		<t id="441">Es wurden keine zugewiesenen Feinde angegriffen.</t>
+		<t id="442">%s hat seine Mission vorzeitig abgeschlossen \(bevor Sie die Missionseinweisung erhalten und die Mission begonnen haben\).</t>
+		<!-- Missionssektorüberfälle: convo -->
+		<t id="451">Einweisung zum Sektorüberfall.</t>
+		<t id="452">Bitten Sie um Rückzug von der Überfallmission.</t>
+		<t id="453">Nachbesprechung zum Sektorüberfall.</t>
+		<t id="454">Einweisung zur Sektorpatrouille.</t>
+		<t id="455">Bitten Sie um Rückzug von der Patrouillenmission.</t>
+		<t id="456">Nachbesprechung zur Sektorpatrouille.</t>
+		<!-- Missionssektorüberfälle: Briefing -->
+		<t id="461">%s(Sektorname) ist unsere Heimat.</t>
+		<t id="462">%s(Sektorname) ist unser Gebiet.</t>
+		<t id="463">Wir besetzen %1(Sektor) mit %2(Fraktionen).</t>
+		<t id="464">%1(Sektorname) ist die Heimat von %2(andere Fraktion).</t>
+		<t id="465">%1(Sektorname) gehört zum Gebiet von %2(andere Fraktion).</t>
+		<t id="466">%1(Sektorname) ist freier Raum.</t>
+		<t id="471">(Patrouille)Wir haben %1(number) Stützpunkt\(e\) im Sektor: %2(Stationen).</t>
+		<t id="472">Unser Ziel: %s(andere Fraktion).</t>
+		<t id="473">Unsere Ziele: %s(andere Fraktionen).</t>
+		<t id="474">Unsere Ziele haben %1(number) Stützpunkt\(e\): %2(Stationen).</t>
+		<t id="481">(unterwegs)Wir befinden uns derzeit in %1(aktueller Sektor) und sind unterwegs nach %2(Zielsektor).</t>
+		<t id="482">Wir sind in einer Flotte mit: %s(L- oder XL-Schiffsliste) und ihre Unterstützungsschiffe.</t>
+		<t id="483">Der Geheimdienst meldet folgende feindlichen Schiffe in unserem Sektor: %s (L- oder XL-Schiffsliste) und ihre Unterstützungsschiffe.</t>
+		<t id="484">(Einsatzbenachrichtigung)Setzen Sie die Patrouille fort oder bitten Sie um Entlassung.</t>
+		<t id="485">(Missionsbeschreibung)Update: Ihre Unterstützungsaufgaben sind abgeschlossen, aber es gibt noch weitere feindliche Ziele im Sektor. Sie können die Patrouille fortsetzen und feindliche Ziele angreifen oder den Piloten kontaktieren, um eine Entlassung aus der Mission zu beantragen.</t>
+		<t id="486">(Missionsbeschreibung)Update: %s(Schiff) wurde zerstört.</t>
+		<t id="487">(Missionsbenachrichtigung)Update: Ihre Unterstützungsaufgaben sind abgeschlossen.</t>
+		<t id="488">(Missionsbenachrichtigung)Update: %s(Schiff) wurde zerstört.</t>
+		<!-- Missionssektorüberfälle: Nachbesprechung -->
+		<t id="491">Operationsergebnisse:</t>
+		<t id="492">%1(Anzahl) getötet / %2(gesamt) x %3(feindliches Makro).</t>
+		<t id="493">%1(Anzahl) getötet / %2(gesamt) x %3(feindliches Makro): \033#FF00FF00#Ihre Abschüsse: %4(Anzahl)\033X: %5(Belohnung). </t>
+		<t id="494">%1(Anzahl) getötet / %2(gesamt) x %3(feindliches Makro): \033#FF00FF00#Ihr Schaden: %4(Anzahl)\033X / %5(Gesamthülle) : %6(Belohnung).</t>
+		<t id="495">%1(Anzahl) getötet / %2(gesamt) x %3(feindliches Makro): \033#FF00FF00#Ihre Abschüsse: %4(Anzahl), Ihr Schaden: %5(Anzahl) \033X / %6(Gesamthülle): %7(Belohnung).</t>
+		<t id="496">Gesamtprämie: %s.</t>
+		<t id="497">Eskortenprämie: %s.</t>
+		<t id="498">Angriffsprämie: %s.</t>
+		<t id="499">Patrouillenprämie: %s.</t>
+		<!-- Missionsjagden -->
+		<t id="501">(title)Suchen und zerstören: %s(ship)</t>
+		<t id="502">(Beschreibung)Suchen Sie nach %s(Schiff) und zerstören Sie das Ziel.</t>
+		<t id="503">(Belohnungstext) %s(Basis) + bis zu %s(Bonus)</t>
+		<t id="511">Um die Mission abzuschließen, stellen Sie sicher, dass %s(ship) zerstört wurde.</t>
+		<t id="521">Sie werden mit %s(Belohnung für das Töten des Ziels) belohnt und basierend auf der Schadenshöhe, die Sie %s(Schiff) zufügen, ungefähr %s(Belohnung für das Ziel).</t >
+		<t id="531">%s(ship) wurde zuletzt vor %s(time) bei %s(position) in %s(sector) gesichtet. Wir werden Sie über neue Berichte informieren.</t>
+		<t id="532">Die Abschüsse von %s(Schiff) sind: %s(Killliste)</t>
+		<t id="533">\(Bericht von %s(idcode), vor %s(time)\)</t>
+		<t id="534">mehreren Minuten</t>
+		<!-- Missionsjagden: Missionsaktualisierungen -->
+		<t id="541">Update: Neue Position: %s(Position) in %s(Sektor) vor %s(Zeit).</t>
+		<t id="542">(Missionsbenachrichtigung)Update: Neue Position in %s(Sektor) vor %s(Zeit).</t>
+		<t id="543">(Inakzeptabler Missionsgrund 1)Sie dürfen nur noch %s(counter) Missionen pro Stunde ausführen: %s(time) verbleibend.</t>
+		<t id="544">(Inakzeptabler Missionsgrund 2)Sie haben bereits eine Mission zu diesem Ziel.</t>
+		<!-- Missionsjagden: Kurztitel für RAP -->
+		<t id="529">Suchen und zerstören</t>
+		<t id="531">%s(ship) wurde zuletzt vor %s(time) an %s(position) in %s(sector) gemeldet. Wir werden Sie über neue Berichte informieren.</t>
+		<t id="532">%s(Schiff) hat folgende Abschüsse: %s(Killliste)</t>
+		<t id="533">\(Bericht von %s(idcode), vor %s(time)\)</t>
+		<t id="534">mehrere Minuten</t>
+		<!-- Missionsjagden: Missionsaktualisierungen -->
+		<t id="541">(Missionsbeschreibung)Update: Neue Position: %s(Position) in %s(Sektor) vor %s(Zeit).</t>
+		<t id="542">(Missionsbenachrichtigung)Update: Neue Position in %s(Sektor) vor %s(Zeit).</t>
+		<t id="543">(Inakzeptabler Missionsgrund 1)Sie dürfen nur %s(Anzahl) Missionen pro Stunde absolvieren: %s(time) min verbleibend.</t>
+		<t id="544">(Inakzeptabler Missionsgrund 2)Sie haben bereits eine Mission zu diesem Ziel akzeptiert.</t>
+		<t id="545">(Inakzeptabler Missionsgrund 3)Sie dürfen nur %s(Anzahl) Missionen pro Stunde absolvieren.</t>
+		<t id="546">Laden Sie die Berichte dieser Mission herunter.</t>
+		<!-- Missionsjagden: Nachbesprechung -->
+		<t id="571">Sie haben keinen Schaden zur Zerstörung von %s(Schiff) beigetragen.</t>
+		<t id="572">%s(ship) ist noch in Betrieb.</t>
+		<t id="573">Prämie für %s(Schiff) Abschüsse: %s(Belohnung).</t>
+		<t id="574">Prämie für die Zerstörung von %s(Schiff): %s(Belohnung).</t>
+		<t id="575">Sie konnten %s(Schiff) nicht finden.</t>
+		<t id="576">Sie konnten die Identität von %s(Schiff) nicht bestätigen.</t>
+		<t id="577">Sie konnten %s(Schiff) nicht beschädigen.</t>
+		<!-- mission hunts: bounty hunter convo for missions -->
+		<t id="601">Missionen?</t>
+		<t id="602">%1(Fraktion): %2(Anzahl) Missionen.</t>
+		<t id="603">Kleine und mittlere Ziele: %1(Anzahl) Missionen.</t>
+		<t id="604">Große und extragroße Ziele: %1(Anzahl) Missionen.</t>
+	</page>
+</add></diff>

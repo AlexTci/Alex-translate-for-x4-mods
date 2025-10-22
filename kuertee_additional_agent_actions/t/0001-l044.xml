@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<diff><add sel="/language">
+	<!-- "kuertee: Additional agent actions" = "kaagenta" = "kaddaa" = 11 1 4 4 1 1" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1114411" voice="no">
+		<t id="1">kuertee: Additional agent actions</t>
+		<t id="1001">Repeat at station</t>
+	</page>
+</add></diff>

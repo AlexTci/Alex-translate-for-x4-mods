@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="kuerteeWaypointFieldsForDeployments"
+name="kuertee: Waypoint fields for deployments"
+author="kuertee"
+version="801"
+date="2025-09-28"
+save="false"
+enabled="1">
+
+<text language=""
+description="Waypoint fields for deployments&#13;&#10;
+https://www.nexusmods.com/x4foundations/mods/585&#13;&#10;
+by kuertee&#13;&#10;
+&#13;&#10;
+Mod effects&#13;&#10;
+===========&#13;&#10;
+-Creates waypoints that you and your wingmen can follow to deployment equipment and weapons.&#13;&#10;
+-AI order: Collect Deployables in Range&#13;&#10;"
+/>
+</content>

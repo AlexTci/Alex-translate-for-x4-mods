@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="2025071307" title="ccunsc" descr="ccunsc mod" voice="no">
+<t id="1">UNSC Вечность</t>
+<t id="2">Вечность является флагманским кораблем UNSC (United Nations Space Command). По состоянию на 2559 год Вечность является крупнейшим и наиболее совершенным военным кораблем в UNSC. По заказу Управления военно-морской разведки (Office of Naval Intelligence - ONI) и тайно созданный в Облаке Оорта, он включает в себя технологии, на разработку которых ушло несколько лет.</t>
+<t id="3">XR2 Borealis Field S81/X-DFR Nuclear Fusion Propulsor</t>
+<t id="4">Узел, состоящий из основного термоядерного двигателя под термоядерным реактором и двух вспомогательных двигательных установок. На проектирование, изготовление и испытания двигательного модуля размером с город ушло пятнадцать лет. Движок slipspace - это Mark X Macedon/Z-ПРОТОТИП #78720HDS версии 2.1, установленный на пульте дистанционного управления, который основан на восстановленном ядре предшественника slipspace engine и способен выходить из slipspace со значительной точностью. Двигатель работает сам по себе, непосредственно поглощая энергию из вакуумного пузыря, причем энергия вакуума не зависит от источника питания собственного термоядерного двигателя корабля. Из-за несовместимости приводов Forerunner slipspace с традиционными системами электропитания UNSC и связанной с ними обратной связью по данным, на Infinity был установлен модуль межсоединений двигателя, основанный на модулях ограничения управления двигателем Covenant.</t>
+<t id="5">Misriah MG-44N Heavy Energy Shield Generator</t>
+<t id="6">A flagship-class shield generator produced by Misriah Armory</t>
+<t id="7">CR-03B Series-8 Magnetic Accelerator Cannon</t>
+<t id="8">Capable of launching various artillery shells, cargo packages, and suicide vehicles with dedicated payloads.</t>
+<t id="9">M2551 "Ballista" Magnetic Accelerator Cannon Array</t>
+<t id="10">The Mark 2511 Ballista-type MAC cannon can fire 15-centimeter projectiles with a kinetic energy of up to 1.1 gigajoules. It features five linearly arranged magnetic coils, each requiring separate charging before firing. It also needs to cool down after each shot, achieved by opening radial vents on the upper part of the barrel. Weapon operation is conducted from an operations station to the left of the MAC cannon.</t>
+<t id="11">M85 Sickle Anti-Air Turret</t>
+<t id="12">The M85 Sickle is a low-profile, belt-fed, dual-barreled, anti-air/anti-craft weapon. It is designed to be mounted on orbital or suborbital military bases as well as the external hull of warships. Unlike the M71 Sickle, it is not limited to ground defense, as the fully sealed casing of the M85 allows it to be used in a vacuum.</t>
+<t id="13">M965 "Bastion" 70mm Caliber Point-Defense Gun</t>
+<t id="14">It is the most commonly used shipborne defense system in the UNSC Navy, all operated automatically by computers or AIs, as human reaction speeds are insufficient to fully handle its operation. Its turret consists of dual or quadruple 50mm rapid-fire coilguns and a target scanner. This defense system is used to counter close-range threats, including enemy aircraft and plasma torpedoes. Each turret automatically analyzes the current threat level to switch between sub-caliber armor-piercing rounds and proximity-fused fragmentation rounds, maximizing its operational efficiency.</t>
+<t id="15">M42 "Archer" Missile Launch Pod</t>
+<t id="16">UNSC Вечность Missile Launcher 1 Information</t>
+<t id="17">M75 "Longsword" Missile Launch Pod</t>
+<t id="18">UNSC Вечность Missile Launcher 2 Information</t>
+<t id="19">M96 "Roar" Missile Launch Pod</t>
+<t id="20">UNSC Вечность Missile Launcher 3 Information</t>
+<t id="21">M97 "Javelin" Guided Missile Launch System</t>
+<t id="22">UNSC Вечность Missile Launcher 4 Information</t>
+<t id="23">Tactical Nuclear Missile Launcher</t>
+<t id="24">UNSC Вечность Missile Launcher 5 Information</t>
+<t id="25">M42 "Archer" Missile</t>
+<t id="26">UNSC Вечность Missile 1 Information</t>
+<t id="27">M75 "Longsword" Missile</t>
+<t id="28">UNSC Вечность Missile 2 Information</t>
+<t id="29">M96 "Roar" Missile</t>
+<t id="30">UNSC Вечность Missile 3 Information</t>
+<t id="31">M97 "Javelin" Guided Missile</t>
+<t id="32">UNSC Вечность Missile 4 Information</t>
+<t id="33">Shiva Tactical Nuclear Missile</t>
+<t id="34">UNSC Вечность Missile 5 Information</t>
+</page>
+	</add>
+</diff>

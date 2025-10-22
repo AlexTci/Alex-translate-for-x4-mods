@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+	<!-- "kuertee mgm" = "kmgm" = "11 13 7 13" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1113713" voice="no">
+		<!-- config -->
+		<t id="1">kuertee: More generic missions</t>
+		<t id="2">Debug log</t>
+		<t id="3">Regenerate when ...</t>
+		<t id="4">a mission is accepted</t>
+		<t id="5">a mission offer expires</t>
+		<t id="6">Number of mission at 0 hour</t>
+		<t id="7">Number of mission at 10 hours</t>
+		<t id="8">Missions in current sector</t>
+		<t id="9">Stations multiplier for max missions per sector</t>
+		<t id="10">Overriding the number of preferred missions to generate is the number of stations in the sector multiplied by this number. In the base game, this factor is 0.5. With this mod, the default is 2.</t>
+</page>
+</language>

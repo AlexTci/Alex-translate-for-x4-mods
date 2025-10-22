@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="kuerteeShipScanner"
+name="Ship scanner by kuertee"
+author="kuertee"
+version="800"
+date="2025-09-11"
+save="false"
+enabled="1">
+
+<text language=""
+description="Сканер кораблей&#13;&#10;
+&#13;&#10;
+Mod effects&#13;&#10;
+===========&#13;&#10;
+Сканер кораблей - это искусственный интеллект-целеуказатель, который постоянно нацеливается на необнаруженные корабли после завершения сканирования корабля, пока не будут просканированы все корабли поблизости от вас.
+"/>
+
+<dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"></dependency>
+<dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD"></dependency>
+</content>

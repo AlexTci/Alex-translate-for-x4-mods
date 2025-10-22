@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--  Перевел Alex5Not   -->
+<language id="7">
+    <page id="20226" title="Digital Seminars" descr="Names and descriptions of digital seminars used for training crew" voice="no">
+        <t id="1">Семинар 0 уровня</t>
+        <t id="2">Семинар 1 уровня</t>
+        <t id="3">Семинар 2 уровня</t>
+        <t id="4">Семинар 3 уровня</t>
+        <t id="5">Семинар 4 уровня</t>
+    </page>
+</language>

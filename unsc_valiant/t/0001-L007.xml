@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="2025071301" title="ccunsc" descr="ccunsc mod" voice="no">
+<t id="1">UNSC Отважный</t>
+<t id="2">Отважный изначально задумывался как компромиссный проект между тяжелыми крейсерами и линкорами. Прежде чем головной корабль был введен в эксплуатацию на верфях Марса в 2493 году, конструкция этого военного корабля подверглась многолетним исследованиям надежности и переделкам. Несмотря на то, что Отважный продемонстрировал потенциал в ходе первоначальных испытаний и оценок, высокая стоимость и проблемы с адаптируемостью термоядерных двигателей нового поколения, казалось, обрекали его на прекращение дальнейшего производства. Но именно в то время флот столкнулся с нехваткой судов для командования и координации, поскольку корабли, которым были поручены такие миссии, вскоре оказались втянутыми в длительные операции по борьбе с противниками. Отважному, обладавшему достаточным тоннажем и огневой мощью для усиления боевых групп, состоящих из небольших патрульных судов, была доверена роль флагмана, ведущего экспедиционные флоты в глубины звездного моря. Он также был оснащен мостиком флагманского уровня, с которого могли командовать адмиралы флота.</t>
+<t id="3">Двигатель ядерного синтеза</t>
+<t id="4">Информация о двигателе Отважного</t>
+<t id="5">Щит Отважного</t>
+<t id="6">Информация о щите Отважного</t>
+<t id="7">50GE1A Magnetic Accelerator Cannon</t>
+<t id="8">UNSC Отважный Main Gun Information</t>
+<t id="9">M66 Sentry Autocannon</t>
+<t id="10">A heavy shipborne cannon equipped on New Era-class Heavy Aircraft Carriers and Late Autumn-class Heavy Cruisers; it is also fitted on the UNSC Pillar of Autumn, which was modified for Operation Red Flag.</t>
+<t id="11">M910 Bulwark Point-Defense Gun</t>
+<t id="12">It is the most commonly used shipborne defense system in the UNSC Navy, all operated automatically by computers or AIs, as human reaction speeds are insufficient to fully handle its operation. Its turret consists of dual or quadruple 50mm rapid-fire coilguns and a target scanner. This defense system is used to counter close-range threats, including enemy aircraft and plasma torpedoes. Each turret automatically analyzes the current threat level to switch between sub-caliber armor-piercing rounds and proximity-fused fragmentation rounds, maximizing its operational efficiency.</t>
+<t id="13">M910 Bulwark Point-Defense Gun</t>
+<t id="14">Это наиболее часто используемая корабельная оборонительная система флота, которая управляется автоматически компьютерами или АИС, поскольку скорость реакции человека недостаточна для полноценного управления ею. Башня состоит из двух или четырех скорострельных 50-мм пулеметов и сканера целей. Эта система защиты используется для противодействия угрозам ближнего радиуса действия, включая вражеские самолеты и плазменные торпеды. Каждая турель автоматически анализирует текущий уровень угрозы, чтобы переключаться между подкалиберными бронебойными снарядами и осколочными снарядами с неконтактным зажиганием, повышая эффективность своей работы.</t>
+<t id="15">Shiva-class Nuclear Missile</t>
+<t id="16">UNSC Отважный Missile Launcher 1 Information</t>
+<t id="17">M58 Archer Missile Pod</t>
+<t id="18">UNSC Отважный Missile Launcher 2 Information</t>
+<t id="19">UNSC Отважный Missile Launcher 3</t>
+<t id="20">UNSC Отважный Missile Launcher 3 Information</t>
+<t id="21">UNSC Отважный Missile Launcher 4</t>
+<t id="22">UNSC Отважный Missile Launcher 4 Information</t>
+<t id="23">UNSC Отважный Missile Launcher 5</t>
+<t id="24">UNSC Отважный Missile Launcher 5 Information</t>
+<t id="25">UNSC Отважный Missile 1</t>
+<t id="26">UNSC Отважный Missile 1 Information</t>
+<t id="27">UNSC Отважный Missile 2</t>
+<t id="28">UNSC Отважный Missile 2 Information</t>
+<t id="29">UNSC Отважный Missile 3</t>
+<t id="30">UNSC Отважный Missile 3 Information</t>
+<t id="31">UNSC Отважный Missile 4</t>
+<t id="32">UNSC Отважный Missile 4 Information</t>
+<t id="33">UNSC Отважный Missile 5</t>
+<t id="34">UNSC Отважный Missile 5 Information</t>
+</page>
+	</add>
+</diff>

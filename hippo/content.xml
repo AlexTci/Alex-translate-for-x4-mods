@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Split Hippopotamus" name="Split Hippopotamus" description="Adds the Split Hippopotamus Superfreighter to the game" author="BrummBear" version="100" date="2019-01-21" save="0" enabled="1">
+	<text language="7" name="Split Hippopotamus Superfreighter" description="Добавляет в игру сплитский грузовой паром Гиппопотам" author="BrummBear" />
+</content>

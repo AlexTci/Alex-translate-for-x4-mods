@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999337" title="Rackham" descr="Rackham" voice="yes">
+			<t id="1">Rackham</t>
+			<t id="2">(Rackham) {999337,4}</t>
+			<t id="3">After the Vigor Syndicate designed the Jager their engineers continued to revise and Experiment on the Baldur class hull, While the Jager was great for defending the Syndicate's most important assets and large vessels, it lacked the capabilities to be used in any meaningful offensive capacity, or even for its pirate raids into foreign space.
+
+The syndicate wanted a corvette that truly embodied the syndicate's style of combat, maneuverable, fast, light, and armed to the teeth, and as such, the Rackham was born.
+
+This vessel was an almost complete rebuild of the Baldur and Jager hulls, expanding the size of its central section, adding two VTOL engine pods to the outer ends of the ship's hull, and removing much of the turret hardpoints that were added before. Instead, a new, domestically designed missile launcher was mounted underneath the the hull, and advanced targeting sensors were integrated into the ship, along with an additional shield generator.
+
+The armament of the Rackham consists out of two defensive turrets, mounted on the top of the ship, and the advanced "Boucan" missile launcher, a rapid fire, VLS missile system capable of firing at targets within a large forward facing arc.
+
+These upgrades made the Rackham significantly more expensive than planned, but it also made it one of the strongest corvettes in the known galaxy, with significantly increased speed, excellent maneuverability, and powerful armament, a real force to be reckoned with, especially by larger destroyers and capital ships.
+  
+The Rackham quickly gained the attention from other pirates and outlaws, with the Scaleplate Pact especially eager to get their hands on a number of these corvettes for their own nefarious purposes.  </t>
+			<t id="4">Rackham</t>
+		</page>
+		<page id="999338" title="Boucan Launcher" descr="Boucan Launcher" voice="no">
+			<t id="1">Boucan Launcher</t>
+			<t id="2">(Boucan Launcher) {999338,4}</t>
+			<t id="3">to be filled.</t>
+			<t id="4">Boucan Launcher</t>
+		</page>
+		<page id="999339" title="Boucan Missile" descr="Boucan Missile" voice="no">
+			<t id="1">Boucan Missile</t>
+			<t id="2">(Boucan Missile) {999339,4}</t>
+			<t id="3">to be filled.</t>
+			<t id="4">Boucan Missile</t>
+		</page>		
+	</add>
+</diff>

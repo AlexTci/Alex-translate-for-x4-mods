@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ShipNames_Midsave" xsi:noNamespaceSchemaLocation="http://localhost/x4mod/libraries/md.xsd">
+	<cues>
+		<cue name="NameAllShips">
+			<conditions>
+				<check_any>
+					<event_game_started />
+					<event_game_loaded />
+				</check_any>
+			</conditions>
+			<actions>
+				<find_ship groupname="$allships" multiple="true" space="player.galaxy" />
+				<set_value name="$tidstart" exact="1" />
+				<set_value name="$tidend" exact="20000" />
+				<do_for_each name="$ship" in="$allships" counter="$i">
+
+					<!-- Argon and Antigone Names -->
+						<do_if value="($ship.trueowner == faction.argon) or ($ship.trueowner == faction.antigone)">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490101" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490101" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490102" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490103" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490104" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490105" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490106" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490106" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490106" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490107" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490107" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490110" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>					
+					</do_if>
+
+					<!-- Teladi Names -->
+					<do_if value="($ship.trueowner == faction.teladi) or ($ship.trueowner == faction.ministry)">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490111" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490111" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490112" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490113" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490114" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490115" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490116" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490116" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490116" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490117" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490117" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490120" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+					<!-- Paranid Names -->
+					<do_if value="($ship.trueowner == faction.paranid) or ($ship.trueowner == faction.holyorder) or ($ship.trueowner == @faction.trinity) or ($ship.trueowner == @faction.holyorderfanatic)">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490121" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490121" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490122" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490123" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490124" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490125" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490126" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490126" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490126" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490127" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490127" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490130" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Split Names -->
+					<do_if value="($ship.trueowner == faction.split) or ($ship.trueowner == faction.freesplit) or ($ship.trueowner == @faction.court)">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490131" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490131" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490132" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490133" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490134" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490135" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490136" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490136" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490136" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490137" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490137" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490140" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Terran Names -->
+					<do_if value="$ship.trueowner == faction.terran">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490141" />
+						</do_if>
+						<do_elseif value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490141" />
+						</do_elseif>
+						<!-- Carriers -->
+						<do_elseif value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490142" />
+						</do_elseif>
+						<!-- XL Resupply Ships -->
+						<do_elseif value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490143" />
+						</do_elseif>
+						<!-- S and M Combat Ships -->
+						<do_elseif value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490144" />
+						</do_elseif>
+						<!-- Scout Ships -->
+						<do_elseif value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490145" />
+						</do_elseif>
+						<!-- Traders -->
+						<do_elseif value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490146" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490146" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490146" />
+						</do_elseif>
+						<!-- Miners -->
+						<do_elseif value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490147" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490147" />
+						</do_elseif>
+						<!-- Tugs and Compactors -->
+						<do_elseif value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_elseif>
+						<do_elseif value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490141" />
+						</do_elseif>
+						<!-- Construction XL Ships -->
+						<do_elseif value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490150" />
+						</do_elseif>
+						<!-- Envoy Ships -->
+						<do_elseif value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_elseif>							
+					</do_if>
+
+					<!-- Pioneers Names -->
+					<do_if value="$ship.trueowner == faction.pioneers">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490151" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490151" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490152" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490153" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490154" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490155" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490156" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490156" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490156" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490157" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490157" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490160" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Hatikvah Names -->
+					<do_if value="$ship.trueowner == faction.hatikvah">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490161" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490161" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490162" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490163" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490164" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490165" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490166" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490166" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490166" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490167" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490167" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490170" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Xenon Names -->
+					<do_if value="$ship.trueowner == faction.xenon">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490171" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490171" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490172" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490172" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490174" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490176" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490176" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490176" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490177" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490177" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490180" />
+						</do_if>
+					</do_if>
+
+					<!-- Alliance of the Word Names -->
+					<do_if value="$ship.trueowner == faction.alliance">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490181" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490181" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490182" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490183" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490184" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490185" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490186" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490186" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490186" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490187" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490187" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490190" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Pirate Names -->
+					<do_if value="($ship.trueowner == faction.loanshark) or ($ship.trueowner == faction.yaki) or ($ship.trueowner == faction.buccaneers) or ($ship.trueowner == faction.scaleplate) or ($ship.trueowner == faction.smuggler)">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490191" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490191" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490192" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490193" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490194" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490195" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490196" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490196" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490196" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490197" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490197" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490200" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Boron Names -->
+					<do_if value="$ship.trueowner == faction.boron">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490201" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490201" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490202" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490203" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490204" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490205" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490206" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490206" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490206" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490207" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490207" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490210" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Riptide Rakers Names -->
+					<do_if value="$ship.trueowner == faction.scavenger">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490211" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490211" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490212" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490213" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490214" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490216" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490216" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490216" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490217" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490217" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490220" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Quettanaut Names -->
+					<do_if value="$ship.trueowner == faction.kaori">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490221" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490221" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490222" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490223" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490224" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490225" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490226" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490226" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490226" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490227" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490227" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490230" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- OTAS Reemergence Names -->
+					<do_if value="$ship.trueowner == faction.otas">
+						<!-- L and XL Combat Ships minus Carriers and Resupply -->
+						<do_if value="$ship.type == shiptype.destroyer">
+							<set_value name="$pageid" exact="45490231" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.battleship">
+							<set_value name="$pageid" exact="45490231" />
+						</do_if>
+						<!-- Carriers -->
+						<do_if value="$ship.type == shiptype.carrier">
+							<set_value name="$pageid" exact="45490232" />
+						</do_if>
+						<!-- XL Resupply Ships -->
+						<do_if value="$ship.type == shiptype.resupplier">
+							<set_value name="$pageid" exact="45490233" />
+						</do_if>
+						<!-- S and M Combat Ships -->
+						<do_if value="$ship.type == shiptype.fighter">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.bomber">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.corvette">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.frigate">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.gunboat">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.heavyfighter">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.interceptor">
+							<set_value name="$pageid" exact="45490234" />
+						</do_if>
+						<!-- Scout Ships -->
+						<do_if value="$ship.type == shiptype.scout">
+							<set_value name="$pageid" exact="45490235" />
+						</do_if>
+						<!-- Traders -->
+						<do_if value="$ship.type == shiptype.courier">
+							<set_value name="$pageid" exact="45490236" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.freighter">
+							<set_value name="$pageid" exact="45490236" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.transporter">
+							<set_value name="$pageid" exact="45490236" />
+						</do_if>
+						<!-- Miners -->
+						<do_if value="$ship.type == shiptype.miner">
+							<set_value name="$pageid" exact="45490237" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.largeminer">
+							<set_value name="$pageid" exact="45490237" />
+						</do_if>
+						<!-- Tugs and Compactors -->
+						<do_if value="$ship.type == shiptype.tug">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.compactor">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<do_if value="$ship.type == shiptype.scavenger">
+							<set_value name="$pageid" exact="45490215" />
+						</do_if>
+						<!-- Construction XL Ships -->
+						<do_if value="$ship.type == shiptype.builder">
+							<set_value name="$pageid" exact="45490240" />
+						</do_if>
+						<!-- Envoy Ships -->
+						<do_if value="$ship.type == shiptype.envoy">
+							<set_value name="$pageid" exact="45490300" />
+						</do_if>							
+					</do_if>
+
+					<!-- Don't Touch -->
+
+					<do_if value="$pageid?">
+						<get_text_ids_in_range result="$namelist" page="$pageid" start="$tidstart" end="$tidend" />
+						<set_value name="$newname" exact="$ship.owner.shortname + ' ' + $ship.macro.name + ' &quot;' + readtext.{$pageid}.{$namelist.random} + '&quot;'" />
+						<set_object_name object="$ship" name="$newname" />
+						<set_value name="$ship.pilot.$namegiven" exact="true" />
+					</do_if>
+					<remove_value name="$pageid" />
+				</do_for_each>
+			</actions>
+		</cue>
+	</cues>
+</mdscript>

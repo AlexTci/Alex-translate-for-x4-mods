@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+  <page id="72724373" title="ai recycleshipsell" descr="Names and descriptions" voice="no">
+    <t id="3000">Sell To Disassemble</t>
+    <t id="3001">No shipyard able to buy %s was found.</t>
+  </page>
+
+  <page id="72724373" title="md recycleship" descr="Names and descriptions" voice="no">
+    <t id="3002">Recycle ships and stations update to v%s successful</t>
+    <t id="3003">Recycle ships and stations installed</t>
+    <t id="3004">%s sold to %s.\nPrice: %s Cr. Ship will be disassembled.</t>
+    <t id="3005">Ship disassembly / research information</t>
+    <t id="3006">Ships being disassembled</t>
+    <t id="3007">Print disassembling ships to logbook \(%s\)</t>
+    <t id="3008">Print blueprints in research to logbook \(%s\)</t>
+    <t id="3009">Previous page</t>
+    <t id="3010">Next page</t>
+    <t id="3011">Back</t>
+    <t id="3012">No free slots for %s</t>
+    <t id="3013">(shipyard)%s is disassembling %s\nDuration: %s hours %s</t>
+    <t id="3014">\033UThe following blueprints were obtained:\033X</t>
+    <t id="3015">Recycling of Ship %s completed.\nDetails in logbook.</t>
+    <t id="3016">(shipyard)%s disassembled %s successfully in (duration)%s hours</t>
+    <t id="3017">The following resources were added to the station cargo:</t>
+    <t id="3018">               \033Y\(Money already paid out upon ship sale\)\033X</t>
+    <t id="3019">\n- %s </t>
+    <t id="3020">Following blueprints are being researched:\n\nBlueprint - \033U\(Current Chance\)\033X \033Z\(Chance increase per disassembled component\)\033X</t>
+    <t id="3021">\033UBlueprint research overview \(Part: %s\)\033X</t>
+    <t id="3022">\033UBlueprint research overview\033X</t>
+    <t id="3023">Following ships are being disassembled, sorted by stations:</t>
+    <t id="3024">(shipyard)%s in (sector)%s disassembling %s ships:</t>
+    <t id="3025">\033UShip disassembly overview\033X</t>
+    <t id="3026">(class) ships</t>
+    <t id="3070">Disassemble ship at %s</t>
+    <t id="3071">Disassemble ship at own Station (No station found)</t>
+    <t id="3072">\nPaid: </t>
+  </page>
+
+  <page id="72724373" title="md recyclestation" descr="Names and descriptions" voice="no">
+    <t id="3027">(conversation menu title)Recycle Ships And Stations</t>
+    <t id="3028">Confirming</t>
+    <t id="3029">Recycle ship</t>
+    <t id="3030">Commit suicide</t>
+    <t id="3031">Recycle Station</t>
+    <t id="3032">Sell station to a faction</t>
+    <t id="3033">Sell ship for disassembly</t>
+    <t id="3034">\033GStation sold to (faction)%s\033X</t>
+    <t id="3035">(station) in (sector)</t>
+    <t id="3036"> was sold to (faction)</t>
+    <t id="3037"> for a total amount of:\n</t>
+    <t id="3038"> Credits.</t>
+    <t id="3039">\033GStation recycled succesfully\033X</t>
+    <t id="3040"> was recycled for a total amount of:\n</t>
+  </page>
+
+  <page id="72724373" title="modules" descr="Names and descriptions" voice="no">
+    <t id="3100">Recycle Module</t>
+    <t id="3101">Allows stations to recycle ships and gain blueprints without ship production modules</t>
+    <t id="3102">Recycle Module</t>
+  </page>
+</language>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="9999999" name="Brynhildr" description="Brynhildr description" author="Gurenn" version="1031" date="2025-05-31" save="0" lastupdate="1751805625">
+  <text language="7" name="Brynhildr" description="Добавляет крейсер Брунгильда на верфи Землян. Это быстроходный крейсер, чья огневая мощь основана на башенной мощи. Благодаря трём установленным по три электромагнитным башням, Брунгильда может эффективно подавлять вражеские эсминцы и крупные корабли." author="Gurenn"></text>
+  <text language="44" name="Brynhildr" description="Adds the Brynhildr to the Terran shipyards" author="Gurenn"></text>
+</content>

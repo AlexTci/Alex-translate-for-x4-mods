@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="cc ship_uss_enterprise_a_klv" name="USS Enterprise" description="Добовляет корабль USS Энтерпрайз" author="cc" version="100" date="2025-06-30" save="false" enabled="1">
+	<text language="7" name="USS Enterprise" description="Добовляет корабль USS Энтерпрайз" author="cc" />
+</content>

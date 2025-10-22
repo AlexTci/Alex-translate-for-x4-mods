@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="super_defense" version="101" name="Super Defense" description="Простая аргонская, сплитская и терранская оборонительная платформа, но без ограничений по оружию. Имеет тот же запас здоровья, но строится за минуту и доступна сразу" author="hanterrian" date="2024-08-26" enabled="1" save="1" sync="false" lastupdate="1724703026">
+  <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>
+  <dependency id="ego_dlc_boron" optional="false" name="Kingdom End"/>
+  <dependency id="ego_dlc_pirate" optional="false" name="Tides of Avarice"/>
+  <dependency id="ego_dlc_split" optional="false" name="Split Vendetta"/>
+  <dependency id="ego_dlc_timelines" optional="false" name="Timelines"/>
+  <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"/>
+</content>

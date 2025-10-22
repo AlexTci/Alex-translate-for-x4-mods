@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996003" title="Tsurugi Title" descr="Tsurugi Description" voice="yes">
+			<t id="1">Tsurugi</t>
+			<t id="2">This superheavy fighter is a new design in the roster of the Terran Protectorate and sets new standards in firepower and shield strength.\n\nThe Tsurugi is essentially based on the Kukri, but the weapon payload and shield capacity have been significantly increased. However, the engine has not been improved, which means that the Tsurugi is the slowest fighter in the protectorate's arsenal.</t>
+		</page>
+	</add>
+</diff>

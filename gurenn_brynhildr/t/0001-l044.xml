@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="997998" title="Brynhild" descr="Brynhild" voice="yes">
+			<t id="1">Brynhild</t>
+			<t id="2">(Brynhild) {997998,4}</t>
+			<t id="3">The Brynhild-class cruiser is a high-speed cruiser centered around turret firepower, sacrificing some hull protection for enhanced mobility and turret power output. With its three triple-mounted electromagnetic turrets, the Brynhild can effectively suppress enemy destroyers and capital ships. Compared to fixed-axis main guns, its fire projection range covers the entire horizontal plane of the ship, but its blind spot underneath makes it vulnerable to harassment by small craft.</t>
+			<t id="4">Brynhild</t>
+			<t id="5">Brynhild X</t>
+		</page>
+	        <page id="997999" title="wpn_gr_temr" descr="wpn_gr_temr" voice="yes">
+	            <t id="1">ATF Triple-mounted Electromagnetic Railgun</t>
+	            <t id="2">(ATF Triple-mounted Electromagnetic Railgun) {997999,4}</t>
+	            <t id="3">ATF Triple-mounted Electromagnetic Railgun</t>
+	            <t id="4">ATF Triple-mounted Electromagnetic Railgun</t>    
+            
+	            <t id="5">Multipurpose Turret - Guided</t>
+	            <t id="6">(Multipurpose Turret - Guided) {997999,8}</t>
+	            <t id="7">Multipurpose Turret - Guided</t>
+	            <t id="8">Multipurpose Turret - Guided</t>    
+            
+	            <t id="9">Light Phantom Missile</t>
+	            <t id="10">(Light Phantom Missile) {997999,12}</t>
+	            <t id="11">Light Phantom Missile</t>
+	            <t id="12">Light Phantom Missile</t>
+
+	            <t id="13">Multipurpose Turret</t>
+	            <t id="14">(Multipurpose Turret) {997999,16}</t>
+	            <t id="15">Multipurpose Turret</t>
+	            <t id="16">Multipurpose Turret</t>  		
+	    </page>		
+	</add>
+</diff>

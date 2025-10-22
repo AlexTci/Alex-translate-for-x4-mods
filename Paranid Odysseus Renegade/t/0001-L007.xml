@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="93111001" title="Odysseus Renegade" descr="Odysseus Renegade" voice="no">
+		<t id="11001">Одиссей Ренегат</t>
+		<t id="11002">(Одиссей Ренегат Агрессор){93111001,11001} {20111,1101}</t>
+		<t id="11003">(Одиссей Ренегат Защитник){93111001,11001} {20111,1201}</t>
+	</page>
+</language>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+	<page id="110000101" title="Triton" descr="Triton" voice="yes">
+	<t id="11001">Triton</t>
+	<t id="11002">(Triton){110000101,11001}</t>
+	<t id="11003">Triton was created as a prototype to test design ideas. Although it possesses a considerable amount of firepower for a ship of this size, the hull plating had to be thinned to create space for its power generation systems. The end result was a warship that is a cross between a heavy frigate and light destroyer.</t>  
+	<t id="11004">Triton</t>
+			<t id="11005">(Gause Autocannon Turret){110000101,11006}</t>
+			<t id="11006">XS Gause autocannon</t>
+			<t id="11007">High power hitech XS class Gause autocannon turret</t>
+			<t id="11008">(Flak Machinegun Turret){110000101,11009}</t>
+			<t id="11009">XS Flak machinegun</t>
+			<t id="11010">High power hitech XS class Flak machinegun turret</t>
+	</page>
+  </add>
+</diff>

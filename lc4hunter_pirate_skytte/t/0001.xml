@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996010" title="Shrike Title" descr="Shrike Description" voice="yes">
+			<t id="1">{20101,82301}</t>
+			<t id="2">The Skytte is the pride of Aurora Casinos chief engineer Nyxus who personally oversaw the project that led to this heavy turreted fighter, nicknamed "the shredder" as its turrets are a terrifying threat to hostile fightercraft.\n\nThis ship sets firepower and durability over speed and agility, trusting in its turrets and strong shielding.</t>
+		</page>
+	</add>
+</diff>

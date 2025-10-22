@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="StopDestroyingMyBoardingTarget"
+         enabled="true"
+         name="Stop destroying my boarding target! by Mycu"
+         description="Добавляет опцию связи, позволяющую попросить пилота союзной фракции прекратить огонь по вашей текущей цели абордажа."
+         author="Mycu"
+         version="220"
+         date="2021-05-05"
+         lastupdate="1697964119"
+         save="false">
+
+    <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"/>
+</content>

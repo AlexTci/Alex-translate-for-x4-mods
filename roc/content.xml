@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Teladi Roc" name="Teladi Roc Superfreighter" description="Adds the Teladi Roc Superfreighter to the game" author="BrummBear" version="100" date="2019-01-21" save="0" enabled="1">
+	<text language="7" name="Teladi Roc Superfreighter" description="Добавляет в игру корабль cуперперевозчик Teladi Roc" author="BrummBear" />
+</content>

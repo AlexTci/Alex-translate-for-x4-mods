@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="MapHotkeys"
+         name="Map hotkeys by Mycu"
+         author="Mycu"
+         version="300"
+         date="2025-09-12"
+         save="false"
+         enabled="1"
+         description="Map hotkeys">
+    <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"/>
+</content>

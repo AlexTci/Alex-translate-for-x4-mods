@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdscript name="smilebobr_In_Sector_Finder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="md.xsd">
+	<cues>
+		<cue name="Insectorfinder_1" instantiate="true" namespace="this">
+			<conditions>
+				<event_player_changed_activity/>
+			</conditions>
+			<actions>
+				<do_if value="event.param2 == activity.scan_longrange">
+					<start_conversation actor="player.computer" conversation="Insectorfinder_menu"/>
+				</do_if>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_2" instantiate="true" namespace="this">
+		<conditions>
+				<event_conversation_started conversation="Insectorfinder_menu"/>
+			</conditions>
+			<actions>
+				<add_player_choice_sub text="'\33GБрошенные корабли\33X'" position="top_left" section="InSectorFinder_ch_1"/>
+				<add_player_choice_sub text="'Врата'" position="left" section="InSectorFinder_ch_2"/>
+				<add_player_choice_sub text="'Магистрали'" position ="bottom_left" section="InSectorFinder_ch_3"/>
+				<add_player_choice_sub text="'Станции'" position="top_right" section="InSectorFinder_ch_4"/>
+				<add_player_choice_sub text="'\33RВсе сразу\33X'" position="right" section="InSectorFinder_ch_5"/>
+				<add_player_choice_sub text="'\33BВыход\33X'" position="bottom_right" section="InSectorFinder_ch_6"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_3" instantiate="true" namespace="this">
+			<conditions>
+				<event_conversation_next_section section="InSectorFinder_ch_1"/>
+			</conditions>
+			<actions>
+				<find_ship name="$ship" owner="faction.ownerless" exact="all" space="player.sector" multiple="true"/>
+				<do_all exact="$ship.count" counter="$Shp">
+					<set_known object="$ship.{$Shp}" known="true"/>
+					<create_object name="$beacon" sector="$ship.{$Shp}.sector" owner="faction.player" macro="macro.env_deco_nav_beacon_t1_macro">
+						<safepos object="$ship.{$Shp}" max="1.5km"/>
+					</create_object>
+					<set_object_name object="$beacon" name="'брошенный корабль'"/>
+					<show_help duration="10s" custom="'\33GВ секторе обнаружен брошенный КОРАБЛЬ\33X'"/>
+				</do_all>
+				<show_notification text="'\33GПоиск кораблей\33X'"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_4" instantiate="true" namespace="this">
+			<conditions>
+				<event_conversation_next_section section="InSectorFinder_ch_2"/>
+			</conditions>
+			<actions>
+				<find_gate name="$gate" space="player.sector" multiple="true"/>
+				<do_all exact="$gate.count" counter="$gt">
+					<set_known object="$gate.{$gt}" known="true"/>
+				</do_all>
+				<show_notification text="'\33BВидны врата\33X'"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_5" instantiate="true" namespace="this">
+			<conditions>
+				<event_conversation_next_section section="InSectorFinder_ch_3"/>
+			</conditions>
+			<actions>
+				<find_highway name="$highway" exact="all" space="player.cluster" multiple="true"/>
+				<do_all exact="$highway.count" counter="$hw">
+					<set_known object="$highway.{$hw}" known="true" updatesnapshot="true"/>
+				</do_all>
+				<show_notification text="'\33BВидны магистрали\33X'"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_6" instantiate="true" namespace="this">
+			<conditions>
+				<check_any>
+					<event_conversation_next_section section="InSectorFinder_ch_4"/>
+				</check_any>
+			</conditions>
+			<actions>
+				<find_station name="$station" space="player.sector" multiple="true"/>
+				<do_all exact="$station.count" counter="$st">
+					<set_known object="$station.{$st}" known="true" updatesnapshot="true"/>
+				</do_all>
+				<show_notification text="'\33BВидны станции\33X'"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_7" instantiate="true" namespace="this">
+			<conditions>
+				<check_any>
+					<event_conversation_next_section section="InSectorFinder_ch_5"/>
+				</check_any>
+			</conditions>
+			<actions>
+				<find_ship name="$Ship" owner="faction.ownerless" exact="all" space="player.sector" multiple="true"/>
+				<do_all exact="$Ship.count" counter="$Shp">
+					<set_known object="$Ship.{$Shp}" known="true"/>
+					<create_object name="$beacon" sector="$Ship.{$Shp}.sector" owner="faction.player" macro="macro.env_deco_nav_beacon_t1_macro">
+						<safepos object="$Ship.{$Shp}" max="1.5km"/>
+					</create_object>
+					<set_object_name object="$beacon" name="'брошенный корабль'"/>
+					<show_help duration="10s" custom="'\33GВ секторе обнаружен брошенный КОРАБЛЬ\33X'"/>
+				</do_all>
+				<find_gate name="$gate" space="player.sector" multiple="true"/>
+				<do_all exact="$gate.count" counter="$gt">
+					<set_known object="$gate.{$gt}" known="true"/>
+				</do_all>
+				<find_highway name="$highway" space="player.cluster" multiple="true"/>
+				<do_all exact="$highway.count" counter="$hw">
+					<set_known object="$highway.{$hw}" known="true"/>
+				</do_all>
+				<find_station name="$station" space="player.sector" multiple="true"/>
+				<do_all exact="$station.count" counter="$st">
+					<set_known object="$station.{$st}" known="true" updatesnapshot="true"/>
+				</do_all>
+				<show_notification text="'\33GВиден весь сектор\33X'"/>
+			</actions>
+		</cue>
+		<cue name="Insectorfinder_8" namespace="this">
+			<conditions>
+				<check_any>
+					<event_conversation_next_section section="InSectorFinder_ch_6"/>
+				</check_any>
+			</conditions>
+			<actions>
+				<reset_cue cue="Insectorfinder_1"/>
+			</actions>
+		</cue>
+	</cues>
+</mdscript>

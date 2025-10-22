@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996006" title="Titan Title" descr="Titan Description" voice="yes">
+			<t id="1">(Fulmar){20101,22101}</t>
+			<t id="2">The latest approach of the Ministry of Finance to develop a mainline battleship, able to withstand even the biggest threats. The Fulmar is a massive but slow warship with strong shields and armor.\n\nFollowing the Teladi principle of maximizing profit and reducing costs, the ship was constructed under the usage of modules from it´s sisterships, the Condor and the Stork.</t>
+			<t id="3">(Fulmar){20101,22101} {20403,5}</t>
+		</page>
+	</add>
+</diff>

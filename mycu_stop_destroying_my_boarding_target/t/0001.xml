@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+	<page id="14225" voice="no">
+		<t id="100">Stop shooting at my boarding target!</t>
+		<t id="101">Boarding events</t>
+		<t id="102">%s is ceasing fire on %s</t>
+		<t id="103">%s refused to stop attacking %s with message: sorry but that ship is a threat to us. Disable its turrets first!</t>
+		<t id="104">%s refused to stop attacking %s with message: I am not gonna stop!</t>
+	</page>
+</language>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_argon_basilisk" name="Argon Basilisk" description="Adds the heavy destroyer Basilisk and Basilisk E to the argon shipyards" author="Lc4Hunter" version="200" date="2025-09-09" save="0" enabled="1">
+	<text language="7" name="Argon Basilisk - L heavy destroyer" description="На верфь Аргона добавлены тяжелые эсминецы Василиск и Василиск У (Улучшеный)" author="Lc4Hunter" />
+</content>

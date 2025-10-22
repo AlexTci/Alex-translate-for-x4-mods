@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996004" title="Witherborn Title" descr="Witherborn Description" voice="yes">
+			<t id="1">{20101,82401}</t>
+			<t id="2">An alternative design of the Aurora Casino engineers that was created during the development process that eventually led to the introduction of the Lux. The Witherborn bases on the same requirements as the Lux but is a more efficent design then its competitor, allowing the ship to reach a slight higher top speed with only 2 engines, albeit at the cost of reduced acceleration.\n\nIn favor of the Lux and because of limited production capacities, the Witherborn was held back for years, but is now gradually being transitioned into regular service.</t>
+			<t id="3">(Witherborn Vanguard){20101,82401} {20111,1101}</t>
+			<t id="4">The Witherborn Vanguard is a variant of the ship with stronger shields and an additional turret mounted weapon at the cost of some agility.</t>
+		</page>
+	</add>
+</diff>

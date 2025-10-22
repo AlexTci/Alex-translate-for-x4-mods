@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_boron_regal_barracuda" name="Regal Barracuda" description="Adds the Regal Barracuda to the boron wharfs" author="Lc4Hunter" version="120" date="2025-09-09" save="0" enabled="1">
+	<text language="7" name="Boron Regal Barracuda - Heavy Fighter" description="Добавляет боевой корабль Королевская Барракуда на верфи Боронов." author="Lc4Hunter" />
+</content>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="Syn Mk2" id="Syn Mk2" author="MericSever" version="190" date="2025-03-14" save="0" description="Этот мод добавляет AA Син (модифицированный ЗЕМ /ПИО Син) в качестве отдельного корабля, который можно приобрести на верфи Землян - сектор Луна, требуется лицензия на военные корабли (20 репутации Землян) под названием Син Mk2." lastupdate="1741955285">
+  <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"></dependency>
+</content>

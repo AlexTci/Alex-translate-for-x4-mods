@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996012" title="Megalodon Title" descr="Megalodon Description" voice="yes">
+			<t id="1">(Megalodon){20101,51601}</t>
+			<t id="2">The Megalodon is a massive and heavily armed battleship. Despite the Borons peaceful nature, this ship can be considered very deadly. Its heavy weapons are complemented by powerful shields to protect them, allowing the Megalodon to single-handedly hold its position until reinforcements arrive.</t>
+		</page>
+	</add>
+</diff>

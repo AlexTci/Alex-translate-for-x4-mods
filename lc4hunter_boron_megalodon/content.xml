@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_boron_megalodon" name="Boron Megalodon" description="Adds the Boron Megalodon battleship to the boron shipyards" author="Lc4Hunter" version="130" date="2025-09-09" save="0" enabled="1">
+	<text language="7" name="Boron Megalodon - XL battleship" description="Добавляет боевой корабль Мегалодон на верфь Боронов." author="Lc4Hunter" />
+</content>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="NumberFormat" name="Number Format" description="Change number format." author="Mycu" version="1" save="0" date="2020-05-10">
+ <text language="7" name="Number Format" description="Этот простой мод меняет формат чисел (для английской и других версий). В итоге вместо этого формата 123,456.78 Cr вы увидите 123 456.78 Cr или 123 456.78 Cr (доступны две версии)." author="Mycu"/>
+</content>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2834999623" name="ShipTestFieldStart" date="2025-03-07" version="150" save="false" author="DrWhoKnows" lastupdate="1741379495">
+  <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"/>
+  <text language="7" name="Ship Test Site Gamestart" description="Место, где можно протестировать свои новые игрушки." author="DrWhoKnows"/>
+</content>

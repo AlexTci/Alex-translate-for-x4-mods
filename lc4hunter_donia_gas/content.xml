@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_donia_gas" name="Donia Gas Miner" description="Adds a gas miner variant for the Donia to the game" author="Lc4Hunter" version="112" date="2025-04-12" save="0" enabled="1">
+	<text language="7" name="Pirate Donia Gas - L Gas Miner" description="Добавляет в игру шахтерский вариант Донии (Газ)" author="Lc4Hunter" />
+</content>

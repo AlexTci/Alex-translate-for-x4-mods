@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diff>
+	<add sel="/language">
+    <page id="20256" title="Nostromo" description="Nostromo" voice="yes" >
+		<t id="0004">Ore-carrier</t>	
+		<t id="0003">Ore-carrier</t>	
+		<t id="0002">The commercial towing ship Nostromo is a non convention trading ship who operate as a tug. Instead to carry its load inside like traditional freighter, it connect to its load and push it. </t>
+		<t id="0001">Nostromo</t>		
+		</page>
+	</add>
+</diff>

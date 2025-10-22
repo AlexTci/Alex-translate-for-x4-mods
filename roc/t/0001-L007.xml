@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999855" title="Roc" descr="Superfreighter" voice="yes">
+			<t id="1">Рок</t>
+			<t id="2">(Рок) {999855,4}</t>
+			<t id="3">PLACEHOLDER</t>
+			<t id="4">Рок</t>
+		</page>
+	</add>
+</diff>
+
+

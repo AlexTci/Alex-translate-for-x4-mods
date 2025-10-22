@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="77777761" voice="no">
+			<t id="1">(PAR L Proton Turret Mk1){20202,403} {20111,5031} {20105,5411} {20111,101}</t>
+			<t id="2">(SPL M Thermal Turret Mk1){20202,303} {20111,5021} {20105,4661} {20111,101}</t>
+			<t id="3">(Thermal Mk1){20105,4663} {20111,101}</t>
+			<t id="4">A heavy turret used against capital ships and stations.</t>
+			<t id="5">Proton turrets are similar to plasma turrets. While their damage output is generally lower they are able to 'bleed' some damage through active shields. This usually comes at the cost of a shorter range.</t>
+			<t id="6">Light anti-fighter weaponsystem capable of shooting through shields, making it high effective against light targets in close proximity.</t>
+			<t id="7">TEL Phoenix Muon Main Battery</t>
+			<t id="8">A capital class weapon that fires a salvo of powerful, fast moving, muon rounds. Requires to be charged before each shot.</t>
+			<t id="9">SPL Rattlesnake Plasma Barrage Main Battery</t>
+			<t id="10">Plasma battery with increased range, yet lower damage output and firerate than the standard Split main batteries.</t>
+			<t id="11">A heavy weapon able to partially phase through shielding.</t>
+			<t id="12">Autocannon Mk1</t>
+			<t id="13">Autocannon</t>
+			<t id="14">A medium-heavy turret firing explosive projectiles, used by heavy frigates/corvettes and other captial-class ships.</t>
+			<t id="15">SPL M Autocannon Turret Mk1</t>
+			<t id="16">ARG M Autocannon Turret Mk1</t>
+			<t id="17">TEL M Autocannon Turret Mk1</t>
+			<t id="18">PAR M Autocannon Turret Mk1</t>
+			<t id="19">TER M Autocannon Turret Mk1</t>
+			<t id="20">PAR Odysseus Railgun Main Battery</t>
+			<t id="21">Heavy railguns used to engange medium and light targets. Due to its long range it can also be used to engange larger threats.</t>
+			<t id="22">ARG Behemoth Proton Pulse Cannon Main Battery</t>
+			<t id="23">Weaponsystem which fires proton projectiles at fast speed in quick succession. Used against enemy capital ships at long ranges.</t>
+			<t id="24">Proton Pulse Cannon</t>
+			<t id="25">TER L Railgun Turret Mk1</t>
+			<t id="26">SPL L Railgun Turret Mk1</t>
+			<t id="27">Railgun Mk1</t>
+			<t id="28">Railgun</t>
+			<t id="29">Railgun turrets are classified as highpower weapon systems and are usually only carried on large ships due to their energy requirements. They fire projectiles at incredible speed over large distances, making them effective at engaging targets at a range at which most other weapons are useless. Yet due to their poor fire and turnrate they are not useful for broadside action or other shortrange combat situations as well as anti-fighter defense.</t>
+			<t id="30">TER Proton Cannon Main Battery</t>
+			<t id="31">Weaponsystem which fires proton projectiles at fast speed in quick succession.</t>
+			<t id="32">Proton Cannon</t>
+			<t id="33">Proton Pulse Mk1</t>
+			<t id="34">Proton Pulse</t>
+			<t id="35">ARG L Proton Pulse Turret Mk1</t>
+			<t id="36">Based on the Proton Pulse Cannon used by some Argon capital ships, this turret is one of the most powerful amongst the Argon arsenal. A long range and heavy projectile speed make this weaponsystem very deadly to most enemies, yet it suffers somewhat from a low firerate as well as high power consumption, which limits its usability to certain ships.</t>
+			<t id="37">TER Railgun Main Battery</t>
+		</page>
+	</add>
+</diff>

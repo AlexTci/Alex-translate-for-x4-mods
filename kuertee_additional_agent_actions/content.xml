@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="kuerteeAdditionalAgentActions"
+name="kuertee: Additional agent actions"
+author="kuertee"
+version="802"
+date="2025-10-16"
+save="false"
+enabled="1">
+
+<text language=""
+description="Additional agent actions&#13;&#10;
+https://www.nexusmods.com/x4foundations/mods/X&#13;&#10;
+by kuertee&#13;&#10;
+&#13;&#10;
+Mod effects:&#13;&#10;
+============&#13;&#10;
+-Additional agent effects and actions.&#13;&#10;"
+/>
+</content>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+<add sel="/language">
+<page id="999941" title="Rook" descr="Rook" voice="yes">
+<t id="1">Rook</t>
+<t id="2">(Rook){999941,4}</t>
+<t id="3">The Rook class heavy fighter was developed for the Ministry of Finance after the Avarice gates reconnected. Plagued by frequent pirate raids into Teladi territory, the Ministry quickly realised its current fighter designs were not up to the task of giving chase to the fast, nimble pirate vessels. The request was made for a new fighter type vessel, unconventional for teladi design philosophy, designed with firepower and maneuvrability in mind. 
+The Rook is a force to be reckoned with, Sacrificing shield strength and armor plating in favour of heavy weaponry and enough speed to keep up with other faction's contemporary designs. With the Rook in its arsenal the Ministry was able to change its approach to anti piracy operations, capable of not only giving chase, but ensure destruction of the countless small time marauders that plagued the spacelanes in Teladi sectors. </t>
+<t id="4">Rook</t>
+</page>
+</add>
+</diff>

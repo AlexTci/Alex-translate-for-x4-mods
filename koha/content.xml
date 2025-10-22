@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Koha" name="Koha" description="Adds the Koha to the Argon wharf" author="BrummBear" version="103" date="2018-12-29" save="0" enabled="1">
+	<text language="7" name="Argon M3 Koha Fighter" description="Добавляет корабль Коха на верфь Аргона" author="BrummBear" />
+</content>

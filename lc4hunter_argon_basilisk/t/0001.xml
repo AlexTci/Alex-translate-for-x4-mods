@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996008" title="Basilisk Title" descr="Basilisk Description" voice="yes">
+			<t id="1">(Basilisk){20101,13501}</t>
+			<t id="2">The Basilisk is an Argon heavy destroyer, designed as a heavy patrol and counter attack capital ship. It exceeds the Behemoth in every aspect and it´s newly developed main battery is much more capabale then its predecessor on the Behemoth./n/nThe Basilisk is a typical Argon design and a well balanced ship.</t>
+			<t id="3">Basilisk Main Battery</t>
+			<t id="4">The Argon Basilisk main battery is a capital ship weapon, specially designed for the Basilisk. It can basically be described as a plasma accelerator cannon.\n\nLike the Basilisk, it´s a newer design and was designed to fight Xenon fortifications. Due to the heavily accelerated projectiles, it has a higher range and deals massive damage to any unshielded targets.</t>
+			<t id="5">(ARG Basilisk Main Battery){20202,103} {996008,3}</t>
+			<t id="6">(Basilisk E){20101,13501} {20111,5462}</t>
+		</page>
+	</add>
+</diff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="kuerteeEmergentMissions"
+name="kuertee: Emergent missions"
+author="kuertee"
+version="801"
+date="2025-09-28"
+save="false"
+enabled="1">
+
+<text language="7"
+description="Emergent missions&#13;&#10;
+Экстренные миссии&#13;&#10;
+by kuertee&#13;&#10;
+&#13;&#10;
+Mod effects&#13;&#10;
+===========&#13;&#10;
+Миссии, основанные на реальных событиях в игре: «На помощь! На помощь!», «Сопровождение», «Патрулирование сектора», «Рейд сектора», «Найти и уничтожить»."/>
+"/>
+</content>

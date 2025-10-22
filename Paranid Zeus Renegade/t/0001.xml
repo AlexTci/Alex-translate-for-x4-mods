@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="93211001" title="Zeus Renegade" descr="Zeus Renegade" voice="no">
+		<t id="11001">Zeus Renegade</t>
+		<t id="11002">(Zeus Renegade Vanguard){93211001,11001} {20111,1101}</t>
+		<t id="11003">(Zeus Renegade Sentinel){93211001,11001} {20111,1201}</t>
+	</page>
+</language>

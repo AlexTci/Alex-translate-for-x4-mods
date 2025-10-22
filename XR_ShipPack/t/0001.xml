@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <diff>
+  <add sel="/language">
+	<page id="87100" title="Short Ship Names" descr="Ship Names" voice="no">
+		 <t id="55501">Balor</t>			 
+		 <t id="55502">Centurion</t>			 
+		 <t id="55503">Taranis</t>			 
+		 <t id="55504">Arawn</t>			 
+		 <t id="55505">Sucellus</t>			 
+		 <t id="55506">Razorback</t>			 
+		 <t id="55507">Titurel</t>			 
+		 <t id="55508">Scaldis</t>			 
+		 <t id="55509">Scylla</t>			 
+		 <t id="55510">Boann \(Gas\)</t>			 
+		 <t id="55511">Sequana \(Gas\)</t>		 
+		 <t id="55512">Sulaco \(Mineral\)</t>		 
+		 <t id="55513">Fedhelm \(Mineral\)</t>		 
+		 <t id="55514">Hermod \(Gas\)</t>		 
+		 <t id="55515">Thanatos</t>		 
+		 <t id="55516">Excalibur</t>		 
+		 <t id="55517">Avenger</t>		 
+		 <t id="55518">Klendathu</t>		 
+		 <t id="55519">Eratos</t>		 
+		 <t id="55520">Avenger E</t>		 
+		 <t id="55521">Doomhammer</t>		 
+		 <t id="55522">Kraken</t>		 
+		 <t id="55523">Comet</t>		 
+		 <t id="55524">Millennium</t>		 
+		 <t id="55525">Executioner</t>		 
+		 <t id="55526">Merlin</t>		 
+		 <t id="55527">Stargazer</t>		 
+		 <t id="55528">Sanahar</t>		 
+		 <t id="55529">Lyranea</t>		 
+		 <t id="55530">Hurricane</t>		 
+		 <t id="55531">Q</t>		 
+		 <t id="55532">Astral \(Mineral\)</t>		 
+		 <t id="55533">Astral \(Gas\)</t>		 
+		 <t id="55534">Astral</t>		 
+		 <t id="55535">Braveheart</t>		 
+		 <t id="55536">Polaris \(Gas\)</t>		 
+		 <t id="55537">Rahanas \(Gas\)</t>		 
+		 <t id="55538">Polaris </t>		 
+		 <t id="55539">Rahanas </t>		 
+		 <t id="55540">Dreadnought</t>		 
+		 <t id="55541">Queen</t>		 
+		 <t id="55542">Arrakis</t>		 
+		 <t id="55543">Harvester \(Gas\)</t>		 
+		 <t id="55544">Harvester \(Mineral\)</t>		 
+		 <t id="55545">Starlifter</t>		 
+		 <t id="55546">Ragnarokh</t>		 
+		 <t id="55547">Terror</t>		 
+		 <t id="55548">Mirage \(Gas\)</t>		 
+		 <t id="55549">Mirage \(Mineral\)</t>		 
+		 <t id="55550">Aurora</t>		 
+		 <t id="55551">Calypso</t>		 
+	</page>
+	 <page id="87101" title="Ship Descriptions" descr="Ship Descriptions" voice="no">
+		<t id="55501">The destroyer Balor was introduced to support slower ships against fighters and bombers. To achieve the goal, many medium-sized turrets were installed on the outer hull.</t>
+		<t id="55502">The freighter Centurion is the first ship constructed with very light and durable nividium-reinforced armor plates. Even though this freighter only has one drive unit, it is very fast, which gives it advantages when delivering all kinds of goods.</t>
+		<t id="55503">The battleship Taranis was designed for frontline operations. It has many medium-sized turrets to effectively counter small, fast enemies. Equipped with only a few small ship docks, support from carrier ships is required.</t>
+		<t id="55504">Not only does the heavy carrier Arawn have the strongest combat power and armor currently available in the Argon fleet, it is also the largest carrier ship and can accommodate and deploy multiple fighter squadrons. This giant is feared by all enemies on the battlefield.</t>
+		<t id="55505">The Sucellus is the second ship to be reinforced with lightweight and durable Nividium plates. This battleship has tremendous frontal combat power, spreading terror across the battlefield.</t>
+		<t id="55506">Not much is known about the battleship Razorback. Developed as the chief guard for the secret service of the Zyarth Patriarchate, the Razorback has outstanding weaponry, making it a major threat to any enemy fleet.</t>
+		<t id="55507">The heavily armed supercargo ship Titurel was designed to deliver essential supplies to highly contested supply bases. Due to its strong outer shell and good combat effectiveness, it is often used by the Argonian fleet in critical areas of the universe. </t>
+		<t id="55508">The carrier Scaldis is equipped with many gun turrets on both sides to counter any danger. It is often used as flank support to break up the opponent's formation.</t>
+		<t id="55509">The battleship Scylla is small and fast. It also has strong frontal direct fire power. Its maneuverability, speed and combat power make this ship an excellent hunter of slower or smaller ships.</t>
+		<t id="55510">The Boann is a huge gas collector. It was developed to fly to large gas deposits far from home and stay in space for months.</t>
+		<t id="55511">The Sequana is a huge ship designed to collect large amounts of gas in the depths of space. Thanks to its weaponry, it can assert itself against individual pirates.</t>
+		<t id="55512">The Sulaco is a remote mineral prospector with enormous storage capacity. The ship is often discovered in the most remote systems. This ship can definitely hold its own against individual smaller attackers.</t>
+		<t id="55513">The Fedhelm from Interstellar Transport and Mining Corp. is a large asteroid miner equipped with a reinforced hull and ten medium-sized battle turrets, in addition to its large mining gun. It can operate in dangerous asteroid belts where pirate contact is to be expected. </t>
+		<t id="55514">The Hermod from Interstellar Transport and Mining Corp. was developed as a gas collector using drones. Although its own gas storage tanks are not particularly large, it can accommodate more drones than comparable gas collectors in its class. Due to its reinforced outer shell, it can operate in pirate sectors.</t>
+		<t id="55515">In addition to its numerous gun turrets, the battleship Thanatos offers a thick, reinforced outer hull. It is an all-rounder on the battlefield.</t>
+		<t id="55516">The heavy destroyer Excalibur has three large gun turrets. Due to the desire to use heavily armored destroyers, this ship was designed by the Antigone Border Guard. The Excalibur is the first ship in its class to be able to use four large shield generators. This comes at the expense of its propulsion power, making this ship one of the toughest but also slowest destroyers available. </t>
+		<t id="55517">The Avenger MK1 battleship was designed to protect the Antigonian borders. Due to its small size, this battleship is quite fast and maneuverable. </t>
+		<t id="55518">The Terran fleet is increasingly relying on the converted version of the Centurion, which is how the Klendathu came into being. Thanks to the new Nividium technology, it has improved hull armor. It has three additional weapon bays and two additional medium turret weapons. Due to its slightly larger mass, it is slightly slower than its original, but is one of the fastest among attack destroyers.</t>
+		<t id="55519">The heavy carrier Eratos was the direct response to the Argon supercarrier Arawn. After several years of development, the Holy Order of the Pontiff surprised the Argonians and Teladi with the completion of the first Eratos. Additional M docking ports and better maneuverability at the expense of lighter armor with comparable combat power to the Arawn make this supercarrier a force to be reckoned with on the battlefield.</t>
+		<t id="55520">The battleship Avenger MK2 is the direct successor to the successful Avenger MK1. An expanded midsection with additional turrets and more ship docks make this ship stronger, but also more cumbersome than its predecessor. Due to its lower speed and maneuverability, the Avenger MK2 is primarily used in siege battles.</t>
+		<t id="55521">The Paranid destroyer Doomhammer is fast and maneuverable. He has good combat power, but only has three shield generators. This destroyer is often used as a quick first strike weapon until stronger capital ships arrive.</t>
+		<t id="55522">The Kraken is an advanced version of the battleship Scylla, with increased combat power and armor at the expense of speed and maneuverability. It was designed for direct front-line use.</t>
+		<t id="55523">The Teladian Armed Forces destroyer Comet is one of the fastest and most maneuverable ships in its class thanks to its six propulsion units. The ship has three large turrets, many medium turrets and a direct fire weapon. Its main purpose is to destroy enemy ships that invade Teladi sectors. The ship is also used to deter pirates who threaten Teladian traders or as a freighter escort in dangerous regions.</t>
+		<t id="55524">Developed by Teladi Trading Company, the Millennium remains the largest and most advanced supercargo ship ever built. It was designed to transport massive quantities of goods to and from planetary surfaces. That's why the ship has three huge storage sections and six landing docks.</t>
+		<t id="55525">The battleship Executioner was designed as a heavily armored and massively armed combat ship. It only has a small landing dock and two docking slots, making it vulnerable to attacks from fast, maneuverable fighters. The battleship is often used by the Paranid Defense Forces with a fighter escort and destroyers, allowing the Executioner to focus its firepower on key attack targets. These are enemy bases, stations or other battleships.</t>
+		<t id="55526">Due to the need for fast destroyers by the Antigonian defense forces, the Merlin was developed in parallel with the Excalibur. Another power unit was added, the hull weight was reduced, which resulted in less armor and shield capacity. Compared to its big brother, the Merlin can boast two direct-fire weapons, but has fewer medium-sized and large turrets.</t>
+		<t id="55527">The Holy Order's Stargazer is a versatile destroyer designed to support and defend larger ships. It doesn't have any outstanding strengths, but at the same time it doesn't have any notable weaknesses either. A good all-purpose weapon.</t>
+		<t id="55528">The Sanahar is the Republic of Antigone's largest freighter. The super freighter was developed with a low production price in mind. Three large storage units can hold huge quantities of goods, but the propulsion units were too weak for this size of ship due to budget constraints. The ship should only operate in safe sectors as its armament is mediocre. To operate in more dangerous sectors, the ship requires the support of more powerful units. </t>
+		<t id="55529">To meet the supply requests of its far-flung outposts, the Holy Order of the Pontiff had their first supercargo developed by the Intergalactic Chamber of Commerce. The ship can certainly keep up with the super freighters of the other races in terms of cargo capacity, speed and shield strength. </t>
+		<t id="55530">Like most Split military ships, the Hurricane is fast and deadly. The Split designed the Hurricane as a front-line destroyer to resist the enemy for as long as possible and engage them in combat until reinforcements arrived.</t>
+		<t id="55531">After observing the xenon activities, the Xenon Q was identified as a further development of the Xenon K.</t>
+		<t id="55532">Due to the demand for ever-increasing transport and mining capacity, the Split developed the Astral, a modular and highly versatile ship design. Depending on the intended use, it can be constructed as a large transport or mining ship. The mine mining ship Astral has enormous mining performance and can withstand even smaller threats.</t>
+		<t id="55533">Due to the demand for ever-increasing transport and mining capacity, the Split developed the Astral, a modular and highly versatile ship design. Depending on the intended use, it can be constructed as a large transport or mining ship. The gas mining ship Astral is equipped with an extremely efficient harvesting module and can withstand even minor threats.</t>
+		<t id="55534">Due to the demand for ever-increasing transport and mining capacity, the Split developed the Astral, a modular and highly versatile ship design. Depending on the intended use, it can be constructed as a large transport or mining ship. The Astral Large Transport offers the largest transport capacities of all Split ships.</t>
+		<t id="55535">The Braveheart is a heavy missile destroyer in the Antigonian fleet. In addition to numerous missile turrets, it can be equipped with various heavy cannons and weapons. She is relatively fast and is ideal as an escort for sluggish battleships or carriers.</t>
+		<t id="55536">The Polaris gas mining ship is a smaller variant of the Rahanas, which was designed as a modular ship. Compared to conventional gas mining ships, it has an increased mining rate, but has to sacrifice some cargo space. She is properly armed for a mining ship and can operate on her own. </t>
+		<t id="55537">The Rahanas was designed as a modular ship, which makes her suitable for various missions. This variant is designed as a large gas mining ship. It has twice the cargo space of its little sister, the Polaris, but is slower. Their mining rate is slightly increased compared to conventional gas mining ships. </t>
+		<t id="55538">The Polaris Freighter is a smaller variant of the Rahanas, which was designed as a modular ship. It is relatively fast and has a decent armament, which makes it suitable for operations in unsafe sectors.</t>
+		<t id="55539">The Rahanas was designed as a modular ship, making it suitable for various missions. This variant is designed as a large freighter. A very large cargo hold and acceptable speed make this freighter a good investment. </t>
+		<t id="55540">The production of the Dreadnought, commissioned by the Terran Protectorate, is a milestone in the development of Terran combat ships. She is a massive carrier ship designed to destroy any threat. It has numerous heavy guns, excellent armor and shields. Their only weak point is their inertia and speed. Wherever the Dreadnought appears, it spreads fear and terror. However, the new Nividium technology makes this ship very expensive.</t>
+		<t id="55541">Khaak Queen Little is known about this ship as it has only been seen very rarely. At first, reports from pilots about this ship were not really believed. Until the day this single ship destroyed an entire solar power plant. </t>
+		<t id="55542">The Arrakis is a heavy destroyer with immense frontal firepower. It has excellent armor and weaponry. Only its inertia makes it of limited use as a destroyer when it comes to hunting enemy ships. The Arrakis therefore operates primarily with fast interceptors that bind the targets until the destroyer arrives and can take them out.</t>
+		<t id="55543">Harvester-class mining ships can operate far from home. They can transport large quantities of liquid gas under high pressure. Typically they are well defended for mining ships.</t>
+		<t id="55544">Harvester-class mining ships can operate far from home. They can transport large amounts of resources and are usually well defended.</t>
+		<t id="55545">The Starlifter is a freighter with very large cargo capacities. It's not particularly fast, but it has decent armament for a transport ship.</t>
+		<t id="55546">The Teldadi Ragnarokh is a heavy destroyer of the Teladi Defense Force. It was designed to have a good balance of firepower, armor and maneuverability. Reports from various military operations speak for themselves.</t>
+		<t id="55547">The Paranid Starfleet was looking for a battleship with exceptional weaponry to be able to destroy heavily fortified facilities in the shortest possible time. After years of development, the Terror was created. As a pure attack ship, she has various front-facing weapons and turrets. It's better not to meet the terror head-on.</t>
+		<t id="55548">The Mirage is an excellent mining ship. Its three large engines enable high speed, despite the large cargo space. Due to the increasing frequency of Khaak and Xenon attacks, the ship has been equipped with additional defensive turrets and shields, which enables her to carry out her duties even in threatening areas. For cost reasons, Nevidium plates were not used on this ship. </t>
+		<t id="55549">The Mirage is an excellent mining ship. Its three large engines enable high speed, despite the large cargo space. Due to the increasing frequency of Khaak and Xenon attacks, the ship has been equipped with additional defensive turrets and shields, which enables her to carry out her duties even in threatening areas. For cost reasons, Nevidium plates were not used on this ship. </t>
+		<t id="55550">The Aurora is a large transport ship serving the Paranids. It is quite fast and maneuverable for its class, but has only moderate armament and transport capacity.</t>
+		<t id="55551">Equipped with an additional cargo module, the Calypso has a third more cargo space than the Aurora. Due to its lower maneuverability and speed and thus vulnerability to pirate attacks, additional gun turrets were installed.</t>
+			 
+	 </page> 
+	 <page id="87102" title="Variations" descr="Variations" voice="no">
+		 <t id="101">Linebreaker</t>
+		 <t id="201">Guardian</t>
+		 <t id="301">Alpha Line</t>
+		 <t id="401">First Guard</t>
+		 <t id="501">Escort</t>
+		 <t id="601">Fortified Transport</t>
+		 <t id="701">Linebreaker</t>
+		 <t id="801">Sentinel</t>
+		 <t id="901">Megaliner</t>
+		 <t id="1001">Deep Space</t>
+		 <t id="1002">Space Guard</t>
+		 <t id="1101">Interstellar</t>
+		 <t id="1102">Mothership</t>
+		 <t id="1201">Border Patrol</t>
+		 <t id="1301">Starfleet</t>
+		 <t id="1401">Defender</t>
+		 <t id="1501">Megatrans</t>
+		 <t id="1601">Star Force</t>
+		 <t id="1701">Giant</t>
+		 <t id="1801">Super</t>
+	</page> 
+	 <!--
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {87102,501} {20221,4001}</t>			 
+		 <t id="55502">Shark {87102,301} {20221,4001}</t>			 
+		 <t id="55503">Taranis {87102,101} {20221,5031}</t>			 
+		 <t id="55504">Arawn {87102,1102} {20221,5001}</t>			 
+		 <t id="55505">Sucellus {87102,301} {20221,5031}</t>			 
+		 <t id="55506">Razorback {20221,5031}</t>			 
+		 <t id="55507">Titurel {87102,601} {20221,3031}</t>	
+		 <t id="55508">Scaldis {87102,101} {20221,5001}</t>	
+		 <t id="55509">Scylla {87102,801} {20221,5031}</t>	
+		 <t id="55510">Boann \(Gas\) {87102,901} {20221,3041}</t>	
+		 <t id="55511">Event Horizon \(Gas\) {87102,1001} {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Mineral\) {87102,1001} {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Mineral\) {87102,1101} {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gas\) {87102,1101} {20221,3041}</t>	
+		 <t id="55515">Thanatos {87102,401} {20221,5031}</t>	
+		 <t id="55516">Excalibur {87102,1201} {20221,4001}</t>	
+		 <t id="55517">Avenger MK1 {87102,1201} {20221,5031}</t>	
+		 <t id="55518">Baracuda {87102,301}</t>	
+		 <t id="55519">Erebos {87102,1102} {20221,5001}</t>	
+		 <t id="55520">Avenger MK2 {87102,1201} {20221,5031}</t>	
+		 <t id="55521">Doomhammer {87102,1002} {20221,4001}</t>	
+		 <t id="55522">Kraken {87102,801} {20221,5031}</t>	
+		 <t id="55523">Comet {87102,1301} {20221,4001}</t>	
+		 <t id="55524">Millennium {87102,1501} {20221,3031}</t>	
+		 <t id="55525">Executioner {87102,1601} {20221,5031}</t>	
+		 <t id="55526">Merlin {87102,1201} {20221,4001}</t>	
+		 <t id="55527">Stargazer {87102,1002} {20221,4001}</t>	
+		 <t id="55528">Sanahar {87102,1701} {20221,3031}</t>	
+		 <t id="55529">Lyranea {87102,1801} {20221,3031}</t>	
+		 <t id="55530">Hurricane {20221,4001}</t>	
+	 </page> 	
+	 -->
+	 
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {20221,4001}</t>			 
+		 <t id="55502">Centurion {20221,4001}</t>			 
+		 <t id="55503">Taranis {20221,5031}</t>			 
+		 <t id="55504">Arawn {20221,5001}</t>			 
+		 <t id="55505">Sucellus {20221,5031}</t>			 
+		 <t id="55506">Razorback {20221,5031}</t>			 
+		 <t id="55507">Titurel {20221,3031}</t>	
+		 <t id="55508">Scaldis {20221,5001}</t>	
+		 <t id="55509">Scylla {20221,5031}</t>	
+		 <t id="55510">Boann \(Gas\) {20221,3041}</t>	
+		 <t id="55511">Event Horizon \(Gas\) {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Mineral\) {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Mineral\) {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gas\) {20221,3041}</t>	
+		 <t id="55515">Thanatos {20221,5031}</t>	
+		 <t id="55516">Excalibur {20221,4001}</t>	
+		 <t id="55517">Avenger MK1 {20221,5031}</t>	
+		 <t id="55518">Klendathu {20221,4001}</t>	
+		 <t id="55519">Erebos {20221,5001}</t>	
+		 <t id="55520">Avenger MK2 {20221,5031}</t>	
+		 <t id="55521">Doomhammer {20221,4001}</t>	
+		 <t id="55522">Kraken {20221,5031}</t>	
+		 <t id="55523">Comet {20221,4001}</t>	
+		 <t id="55524">Millennium {20221,3031}</t>	
+		 <t id="55525">Executioner {20221,5031}</t>	
+		 <t id="55526">Merlin {20221,4001}</t>	
+		 <t id="55527">Stargazer {20221,4001}</t>	
+		 <t id="55528">Sanahar {20221,3031}</t>	
+		 <t id="55529">Lyranea {20221,3031}</t>	
+		 <t id="55530">Hurricane {20221,4001}</t>	
+		 <t id="55532">Astral \(Mineral\) {20221,3041}</t>	
+		 <t id="55533">Astral \(Gas\) {20221,3041}</t>	
+		 <t id="55534">Astral {20221,3031}</t>	
+		 <t id="55535">Braveheart {20221,4001}</t>	
+		 <t id="55536">Polaris \(Gas\) {20221,3041}</t>	
+		 <t id="55537">Rahanas \(Gas\) {20221,3041}</t>	
+		 <t id="55538">Polaris {20221,3031}</t>	
+		 <t id="55539">Rahanas {20221,3031}</t>	
+		 <t id="55540">Dreadnought {20221,5031}</t>	
+		 <t id="55541">Queen {20221,4001}</t>	
+		 <t id="55542">Arrakis {20221,4001}</t>	
+		 <t id="55543">Harvester \(Gas\) {20221,3041}</t>	
+		 <t id="55544">Harvester \(Mineral\) {20221,3041}</t>	
+		 <t id="55545">Starlifter {20221,3031}</t>	
+		 <t id="55546">Ragnarokh {20221,4001}</t>	
+		 <t id="55547">Terror {20221,5031}</t>	
+		 <t id="55548">Mirage \(Gas\) {20221,3041}</t>		 
+		 <t id="55549">Mirage \(Mineral\) {20221,3041}</t>			 
+		 <t id="55550">Aurora {20221,3031}</t>			 
+		 <t id="55551">Calypso {20221,3031}</t>			 
+	 </page> 
+	 
+	 <page id="88001" title="Jobs" descr="Names and descriptions of ship jobs" voice="yes">
+		<t id="00001">Patrol Battleship</t>	
+	 </page> 
+	 
+	 	 <page id="88002" title="Licences" descr="Licences" voice="no">
+			<t id="00001">Super Capital Ship License</t>	
+			<t id="00002">Destroyer Ship License</t>	
+	 </page> 
+
+	 <page id="21221" title="Ship classes" descr="classes" voice="yes">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>		
+	 </page> 
+	</add>
+
+	
+	<add sel="/language/page[@id='20221']">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>	
+	</add>
+</diff>

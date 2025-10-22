@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+	<!-- "kuertee loot mining" = "klm" = "11 12 13" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="111213" voice="no">
+		<!-- mission -->
+		<t id="1000">Loot Mining</t>
+		<t id="1001">Target a collectable object</t>
+		<t id="1002">Collect: %1(ware)</t>
+		<t id="1003">(set_objective text)%1(ware), %2(cargotype): %3(count)</t>
+		<t id="1004">Show original mission</t>
+		<t id="1005">Show Loot Mining mission</t>
+		<t id="1006">Activate and target a collectable asteroid</t>
+		<t id="1007">Target a collectable asteroid</t>
+		<t id="1008">Complete mission: %1(original mission name)</t>
+		<!-- software -->
+		<t id="2000">Mineral Finder</t>
+		<t id="2001">Introducing the Mineral Finder is an intuitive software tool that helps space miners easily locate nearby mineable asteroids.</t>
+		<t id="2002">Collectible Locator</t>
+		<t id="2003">The Collectible Locator is a user-friendly software tool designed to help space explorers easily find nearby loot and collectibles.</t>
+		<!-- config -->
+		<t id="688900">kuertee: Loot mining</t>
+		<t id="688901">Debug log</t>
+		<t id="688902">Loot targeting AI</t>
+		<t id="688903">Manually targeting loot will create a mission that targets the same loot.</t>
+		<t id="688904">More efficient inventory loot mining</t>
+		<t id="688905">Previously dropped inventory loot are dropped from asteroids that don't or are doubled from asteroids that do.</t>
+		<t id="688906">Native inventory loot drop multiplier</t>
+		<t id="688907">Multiplier for inventory loot from asteroids that drop them. More efficient inventory loot mining is required.</t>
+		<t id="688908">Missing loot drop multiplier</t>
+		<t id="688909">Multiplier for inventory loot from asteroids that don't drop them. More efficient inventory loot mining is required.</t>
+		<t id="688910">Loot targeting AI max targets</t>
+		<t id="688911">The maximum number of targets for the Loot targeting AI.</t>
+		<t id="688912">Software is required?</t>
+		<t id="688913">The Mineral Finder and Collectible Locator are required for the ship to auto-target mineable asteroids and collectible loot.</t>
+	</page>
+</language>

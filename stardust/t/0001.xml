@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="950000301" title="Stardust" descr="stardust" voice="yes">
+			<t id="10001">Stardust</t>
+			<t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent Storage area, holds tons of people for the missions, is a very good carrier, almost undestructable, kills even Ks without much of a sweat. After that, lean back and enjoy your Easy Life in X4.</t>
+			<t id="10002">(Stardust Vanguard){950000301,10001} {950000301,10003}</t>
+			<t id="10003">Vanguard</t>
+			<t id="10004">Heavy Battle Carrier</t>
+			<t id="10006">Stardust Ultraheavy Cannon</t>
+			<t id="10007">This Cannon was exclusivlely designed to burn the whole universe.</t>
+			<t id="10008">Stardust Laser Cannon mk2</t>
+			<t id="10009">This Laser was designed to counter the Khaak destroyers.</t>
+			<t id="10011">Shanael</t>
+			<t id="10015">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent Storage area, holds tons of people for the missions, is a very good support ship, almost undestructable, kills even Ks without much of a sweat. After that, lean back and enjoy your Easy Life in X4.</t>
+			<t id="10012">(Shanael Vanguard){950000301,10011} {950000301,10013}</t>
+			<t id="10013">Vanguard</t>
+			<t id="10014">Heavy Supplier</t>
+			<t id="10021">Jaritha</t>
+			<t id="10025">This Ship is an addition to Easy Life, it is more or less cheating. It has a decent Storage area, holds tons of people for the missions, is a very good support ship, almost undestructable, kills even Ks without much of a sweat. After that, lean back and enjoy your Easy Life in X4.</t>
+			<t id="10022">(Jaritha Vanguard){950000301,10021} {950000301,10023}</t>
+			<t id="10023">Vanguard</t>
+			<t id="10024">Heavy Supplier</t>
+		</page>
+	</add>
+</diff>

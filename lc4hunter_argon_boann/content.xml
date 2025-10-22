@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_argon_boann" name="Argon Boann Heavy Miner" description="Adds a renewed version of the Boann from X-Rebirth to the game" author="Lc4Hunter" version="110" date="2025-02-21" save="0" enabled="1">
+	<text language="7" name="Argon Boann - L class heavy miners" description="Добавляет в игру обновленную версию Боанна из X-Rebirth в двух версиях шахтера L - Газ и Минералы" author="Lc4Hunter" />
+</content>

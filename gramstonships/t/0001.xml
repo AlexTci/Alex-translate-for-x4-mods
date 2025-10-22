@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <diff>
+  <add sel="/language">
+
+
+    <page id="666932503" title="Saeta" descr="XL" voice="yes">
+         <t id="20001">Saeta Vanguard</t>
+         <t id="20002">Saeta</t>
+  	 <t id="20003">V</t>
+  	 <t id="20004">Ultraheavy Fighter</t>
+	 <t id="20005">The Argon were able to steal the Chimera's plans from the Split and began adding more shields to make it more durable. The Saeta Vanguard ultraheavy fighter is faster, has more crew and missile capacity, with 4 additional shields.</t>
+	 </page>
+
+
+    <page id="666932502" title="Kobayashi Maru" descr="Kobayashi Maru" voice="yes">
+		 <t id="1">GRMS Kobayashi Maru-II</t>
+		 <t id="2">Kobayashi</t>
+		 <t id="3">Maru</t>
+		 <t id="4">Medium Transporter</t>
+		 <t id="5">A Split miner converted by the Teladi into a popular Class III "neutron fuel" transport. The first of its series was commanded by Kojiro Vance, with 81 crew and 300 passengers. "Kobayashi" means "small forest".</t>
+     </page>
+
+
+    <page id="666932501" title="Aikoku Maru" descr="Aikoku Maru" voice="yes">
+		 <t id="1">GRMS Aikoku Maru-II</t>
+		 <t id="2">Aikoku</t>
+		 <t id="3">Maru</t>
+		 <t id="4">Large Trader</t>
+		 <t id="5">This ship, the Aikoku Maru, was conceived by the Split as one more mining ship to operate in their sectors. However, due to the compromised geopolitical situation that the families were going through, it was transformed into a mixed passenger and cargo ship (274 crew), as well as an auxiliary cruise ship, with the dual objective of operating as a privateer and as a supply ship for the Fleet Combined in far quadrants. Thus it was captured and manufactured as a class of its own by the Paranid. It has also been later adopted by pirate factions.</t>
+     </page>
+
+
+
+
+  </add>
+</diff>

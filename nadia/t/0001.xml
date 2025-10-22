@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="950000401" title="Nadia" descr="ship_nadia" voice="yes">
+			<t id="10001">Nadia</t>
+			<t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It has a huge Storage area, holds tons of people for the missions, is able to hold off pirates and is almost undestructable. It doesn't kill Ks though. So lean back and enjoy your Easy Life in X4.</t>
+			<t id="10002">(Nadia Vanguard){950000401,10001} {20111,1101}</t>
+			<t id="10003">Vanguard</t>
+			<t id="10004">Heavy Transporter</t>
+		</page>
+	</add>
+</diff>

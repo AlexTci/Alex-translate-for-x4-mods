@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="cc ship_unsc_paris" name="unsc_paris" description="unsc_paris" author="cc" version="100" date="2025-07-02" save="false" enabled="1">
+	<text language="7" name="UNSC Paris" description="Added the “paris” from “Halo” to the game" author="cc" />
+</content>

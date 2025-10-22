@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diff>
+	<add sel="/language">
+    <page id="20256" title="Nostromo" description="Nostromo" voice="yes" >
+		<t id="0004">Mineralier</t>	
+		<t id="0003">Mineralier</t>	
+		<t id="0002">Le Nostromo est un remorqueur. Au lieu de transporter les marchandises en cale, il s'accroche a sa charge et la pousse jusqu a sa destination. Ici il s'agit d'un conteneur commercial Argon de grande taille. </t>
+		<t id="0001">Nostromo</t>		
+		</page>
+	</add>
+</diff>

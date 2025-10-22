@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="RecycleShipsAndStations" enabled="true" version="100" name="RecycleShipsAndStations" description="Player can disassemble his ships, recycle stations or sell stations to other factions." author="iforgotmysocks" date="2018-12-08" save="false">
+  <text language="7" name="Recycle Ships And Stations" description="Добавляет возможность разбирать свои корабли, перерабатывать станции или продавать их другим фракциям." author="iforgotmysocks" />
+</content>

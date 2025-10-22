@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- french -->
+<diff><add sel="/language">
+	<!-- "kuertee emergent missions" = "kem" = "11 5 13" = in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11513" voice="no">
+		<t id="1">kuertee: Missions émergentes</t>
+		<!-- config -->
+		<t id="2">Journal de débug</t>
+		<t id="3">Exécuter fonction Debug</t>
+		<!-- requirements -->
+		<t id="11">Prérequis de relation</t>
+		<t id="12">Aucun</t>
+		<t id="13">Neutre</t>
+		<t id="14">Amis</t>
+		<t id="15">Toute souscription commerciale ou militaire</t>
+		<t id="16">Prérequis de réputation</t>
+		<t id="17">Défenseur</t>
+		<t id="18">Défenseur ou mercenaire</t>
+		<t id="19">Défenseur ou justicier</t>
+		<t id="20">Défenseur, mercenaire ou justicier</t>
+		<!-- other configs -->
+		<t id="31">Multiplicateur de récompense</t>
+		<t id="32">Distance porte mission de patrouille/raid proposée</t>
+		<t id="33">Toujours générer PNJ de missions dans les stations</t>
+		<t id="34">Supprimer les restrictions imposées par les modérateurs tiers</t>
+		<!-- mission groups -->
+		<t id="101">Au secours !(missions)</t>
+		<t id="102">Escorte(missions)</t>
+		<t id="103">Patrouille de secteur(missions)</t>
+		<t id="104">Raid de secteur(missions)</t>
+		<t id="105">Escorte pirate(missions)</t>
+		<t id="106">Recherche et destruction(missions)</t>
+		<!-- sector classifications -->
+		<t id="111">Siège</t>
+		<t id="112">Territoire</t>
+		<t id="113">Frontière</t>
+		<t id="114">\(Siège\) étranger</t>
+		<t id="115">\(Territoire\) étranger</t>
+		<t id="116">\(Siège\) ennemi</t>
+		<t id="117">\(Territoire\) ennemi</t>
+		<t id="118">Libre</t>
+		<!-- mission maydays -->
+		<t id="201">(title)Au secours ! \(%s(ship)\)</t>
+		<t id="202">(description)Défendez %s(ship) contre les assaillants.</t>
+		<t id="211">Nous vous assignerons des cibles lorsque votre ordinateur de visée sera libre. Tout affrontement envers des factions en dehors du cadre de cette mission sera ignoré.</t>
+		<t id="212">Pour mener cette mission à bien, assurez-vous que %s(ship) s'amarre, quitte le secteur ou ne détecte aucun ennemi à portée de son radar.</t>
+		<t id="213">Tout affrontement envers des factions en dehors du cadre de cette mission sera ignoré.</t>
+		<t id="221">Vous serez récompensé pour la survie de %s(ship) aux attaques, ajusté en fonction du nombre d'assaillants et en fonction du nombre d'ennemies auxquels vos vaisseaux se seront confrontés.</t>
+		<t id="222">Les conditions d'échec sont: %1(ship) reste sans escorte pendant plus de 5minutes ou %1(ship) est détruit.</t>
+		<!-- mission maydays: short title for RAP -->
+		<t id="229">Au secours !</t>
+		<!-- mission maydays: mission log -->
+		<t id="231">%s a échappé à ses attaquants avant que vous n'ayez eu le temps d'engager le combat.</t>
+		<!-- damage and kill list -->
+		<t id="242">Vos affrontements: %s(engagement list).</t>
+		<t id="243">%1(count) x %2(class name) \(mises à mort: %3(kills)\)</t>
+		<t id="244">%1(count) x %2(class name) \(mises à mort: %3(kills), dégâts: %4 / %5(damage)\)</t>
+		<t id="245">%1(count) x %2(class name) \(dégâts: %3 / %4(damage)\)</t>
+		<t id="246">%1(count) x %2(class name)</t>
+		<!-- class names -->
+		<t id="251">station</t>
+		<t id="252">vaisseau XL</t>
+		<t id="253">vaisseau L</t>
+		<t id="254">vaisseau M</t>
+		<t id="255">vaisseau S</t>
+		<t id="256">vaisseau XS</t>
+		<!-- class names (plural) -->
+		<t id="261">stations</t>
+		<t id="262">vaisseaux XL</t>
+		<t id="263">vaisseaux L</t>
+		<t id="264">vaisseaux M</t>
+		<t id="265">vaisseaux S</t>
+		<t id="266">vaisseaux XS</t>
+		<!-- mission maydays: failure -->
+		<t id="271">%s(ship) a été détruit.</t>
+		<t id="272">%s(ship) est resté sans escorte pendant plus de 5minutes.</t>
+		<!-- mission ui buttons -->
+		<t id="273">Assigner un vaisseau</t>
+		<t id="274">Afficher les vaisseaux assignés</t>
+		<t id="275">Retirer tous les vaisseaux assignés</t>
+		<!-- mission escorts -->
+		<t id="301">(title)Escorter %s(ship)</t>
+		<t id="302">(description)Escortez %s(ship) le temps d'accomplir leur mission.</t>
+		<t id="303">(title)Défendre le raider \(%s(ship)\)</t>
+		<t id="304">(description)Défendez %1(ship) le temps qu'il attaque et pille le secteur %2(sector).</t>
+		<t id="311">Nous vous assignerons des cibles lorsque votre ordinateur de visée sera libre. Tout affrontement envers des factions en dehors du cadre de cette mission sera ignoré.</t>
+		<t id="312">Pour mener la mission à bien, assurez-vous que %s(ship) réalise toutes ses transactions. Toute nouvelle transaction commerciale reçue au cours de la mission peut étendre la durée de cette dernière.</t>
+		<t id="313">La mission s'achèvera prématurément si %s(ship) n'a pas d'escorte pendant plus de 5minutes.</t>
+		<t id="321">Vous serez récompensé pour chaque transaction réalisée, ajustée au nombre de secteurs traversés, et la durée d'escorte du vaisseau \(dans un rayon de 100km\), ainsi que pour les ennemis que vos vaisseaux auront attaqués.</t>
+		<t id="322">La condition d'échec est: Lorsque %s(ship) ne parvient pas à réaliser de transaction.</t>
+		<!-- mission escorts: short title for RAP -->
+		<t id="327">Soutenir Pirate</t>
+		<t id="328">Escorter Mineur</t>
+		<t id="329">Escorter Commerçant</t>
+		<!-- mission escorts: mission updates -->
+		<t id="331">Missions de commerce actuelles: Vendre %1(wares) à %2(trading partner).</t>
+		<t id="332">Missions de commerce actuelles: Acheter %1(wares) à %2(trading partner).</t>
+		<t id="333">Missions de minage actuelles: Livrer %1(wares) à %2(trading partner).</t>
+		<t id="334">\(%1(wares) à %2(trading partner)\)</t>
+		<t id="335">\(%1(wares) de %2(trading partner)\)</t>
+		<t id="336">\(%1(wares) à %2(trading partner)\)</t>
+		<t id="337">(objective text)Escorter %s(ship).</t>
+		<t id="338">(objective text)Attendre %s(ship).</t>
+		<!-- mission escorts: mission log -->
+		<t id="341">%1(mission name): transactions réalisées: %2(number), secteurs traversés: %3(number), durée de l'escorte: %4 / %5 \(%6%%(time in escort in perc)\).</t>
+		<!-- mission escorts: convo -->
+		<t id="351">Terminer ma mission d'escorte.</t>
+		<!-- mission escorts: failure -->
+		<t id="371">%s(ship) n'a réalisé aucune transaction.</t>
+		<!-- briefing notes -->
+		<t id="391">\(Noter que %s(ship) peut voyager jusqu'à %s(speed) m/s.\)</t>
+		<!-- mission sector raids -->
+		<t id="401">(title)Raid de secteur: \(%s(faction), %s(sector)\)</t>
+		<t id="402">(description)Soutenez %1(ship) lors de leur raid contre la cible adverse dans le secteur %2(sector name) pendant au moins 20minutes.</t>
+		<t id="403">(title)Patrouille Secteur: \(%s(faction), %s(sector)\)</t>
+		<t id="404">(description)Soutenez %1(ship) lors de leur patrouille de %2(sector name) pendant au moins 20minutes.</t>
+		<!-- mission sector raids: mission updates -->
+		<t id="405">Mise à jour: Nouvelle assignation: %s(ship)</t>
+		<t id="406">Mise à jour: Nouveau secteur: %s(sector name)</t>
+		<t id="407">Mise à jour: Nouveau contact: %s(actor name)</t>
+		<t id="408">Mise à jour: Nouvelle cible: %s(faction name)</t>
+		<t id="409">Durée d'escorte (minutes)</t>
+		<t id="410">Durée de patrouille (minutes)</t>
+		<!-- mission sector raids: objectives -->
+		<t id="411">Nous vous assignerons des cibles lorsque votre ordinateur de visée sera libre. Ces cibles sont optionnelles et vous êtes libre de les ignorer ou d'attaquer d'autres cibles par vous-même. Cependant, les attaques menées à l'encontre de factions que nous n'avons pas ciblées seront ignorées, à l'exception des attaques à l'encontre de criminels.</t>
+		<t id="412">La mission sera terminée lorsque %s(ship) aura achevé ses ordres ou lorsque plus aucune cible ennemie ne sera trouvée après que les 20minutes sont écoulées. Tout nouvel ordre de combat reçu au cours de la mission peut étendre la durée de cette dernière. Les récompenses d'escorte et de destruction continueront à s'accumuler après que les 20minutes sont écoulées. Vous pouvez demander la fin prématurée de la mission.</t>
+		<!-- mission defend pirate: objectives -->
+		<t id="413">La mission s'achève lorsque %s(ship) quitte le secteur.</t>
+		<!-- mission sector raids: briefing -->
+		<t id="414">La mission s'achèvera prématurément lorsque %s(ship) accomplit sa mission.</t>
+		<t id="421">Vous serez récompensé pour les ennemies que votre vaisseau attaquera, accompagné d'un bonus si %s(ship) survit.</t>
+		<t id="422">La mission s'achèvera prématurément si vous n'avez aucun vaisseau dans le secteur de mission pendant plus de 5minutes.</t>
+		<t id="423">Votre priorité est de patrouiller le secteur, en suivant le guide de mission ou par vous-même.</t>
+		<!-- mission sector raids: short title for RAP -->
+		<t id="427">Soutenir la patrouille</t>
+		<t id="428">Soutenir le raid</t>
+		<!-- mission sector raids: mission log -->
+		<t id="441">Aucun ennemi assigné n'a été attaqué.</t>
+		<t id="442">%s a mené sa mission à bien prématurément \(avant que vous n'ayez reçu le briefing et commencé la mission d'escorte\).</t>
+		<!-- mission sector raids: convo -->
+		<t id="451">Briefing du raid de secteur.</t>
+		<t id="452">Demander la fin de la mission de raid.</t>
+		<t id="453">Débriefing du raid de secteur.</t>
+		<t id="454">Briefing de la patrouille de secteur.</t>
+		<t id="455">Demander la fin de la mission de patrouille.</t>
+		<t id="456">Débriefing de la patrouille de secteur.</t>
+		<!-- mission sector raids: briefing -->
+		<t id="461">%s(sector name) est notre secteur siège.</t>
+		<t id="462">%s(sector name) est notre territoire.</t>
+		<t id="463">Nous occupons le secteur %1(sector) avec %2(factions).</t>
+		<t id="464">%1(sector name) est le siège de %2(other faction).</t>
+		<t id="465">%1(sector name) est le territoire de %2(other faction).</t>
+		<t id="466">%1(sector name) est neutre.</t>
+		<t id="471">(patrol)Nous avons %1(number) base(s) dans le secteur: %2(stations).</t>
+		<t id="472">Notre cible: %s(other faction).</t>
+		<t id="473">Nos cibles: %s(other factions).</t>
+		<t id="474">Nos cibles ont %1(number) bases: %2(stations).</t>
+		<t id="481">(enroute)Nous sommes actuellement dans le secteur %1(current sector) et en route pour %2(target sector).</t>
+		<t id="482">Nous formons une flotte avec %s(L or XL ship list), accompagnée de ses vaisseaux de soutien.</t>
+		<t id="483">Les services de renseignement indiquent que ces vaisseaux ennemis sont dans notre secteur: %s(L or XL ship list) avec leurs vaisseaux de soutien.</t>
+		<t id="484">(mission notification)Mise à jour: Poursuivez la patrouille ou demandez la fin de la mission.</t>
+		<t id="485">(mission description)Mise à jour: Votre mission de soutien est terminée, mais il reste des cibles dans le secteur. Continuez la patrouille et attaquez les cibles adverses, ou demandez la fin de la mission.</t>
+		<t id="486">(mission description)Mise à jour: %s(ship) a été détruit.</t>
+		<t id="487">(mission notification)Mise à jour: Votre mission de soutien est terminée.</t>
+		<t id="488">(mission notification)Mise à jour: %s(ship) a été détruit.</t>
+		<!-- mission sector raids: debriefing -->
+		<t id="491">Résultats de l'opération:</t>
+		<t id="492">%1(number) mis à mort / %2(total) x %3(enemy macro).</t>
+		<t id="493">%1(number) mis à mort / %2(total) x %3(enemy macro): \033#FF00FF00#vos mises à mort: %4(number)\033X: %5(reward).</t>
+		<t id="494">%1(number) mis à mort / %2(total) x %3(enemy macro): \033#FF00FF00#vos dégâts: %4(number)\033X / %5(total hull): %6(reward).</t>
+		<t id="495">%1(number) mis à mort / %2(total) x %3(enemy macro): \033#FF00FF00#vos mises à mort: %4(number), vos dégâts: %5(number)\033X / %6(total hull): %7(reward).</t>
+		<t id="496">Récompense totale: %s.</t>
+		<t id="497">Récompense d'escorte: %s.</t>
+		<t id="498">Récompense d'affrontement: %s.</t>
+		<t id="499">Récompense patrouille: %s.</t>
+		<!-- mission hunts -->
+		<t id="501">(title)Recherche et destruction: \(%s(ship)\)</t>
+		<t id="502">(description)Cherchez puis détruisez %s(ship).</t>
+		<t id="503">(reward text)Récompense: %s(base) + jusqu'à %s(bonus)</t>
+		<t id="511">Pour mener cette mission à bien, assurez-vous que %s(ship) soit détruit.</t>
+		<t id="512">Notez que %s(faction) ne ripostera pas à vos attaques contre %s(ship).</t>
+		<t id="521">Votre récompense sera %s(reward for kills of target) et, selon la quantité de dégâts que vous infligerez à %s(ship), environs %s(reward for target).</t>
+		<!-- mission hunts: short title for RAP -->
+		<t id="529">Recherche et destruction</t>
+		<t id="531">La dernière position connue de %s(ship) est %s(position) dans le secteur %s(sector), il y a %s(time). Nous vous communiquerons des rapports mis à jour.</t>
+		<t id="532">%s(ship) a mis à mort: %s(kill list)</t>
+		<t id="533">\(Rapport de %s(idcode), il y a %s(time)\)</t>
+		<t id="534">plusieurs minutes</t>
+		<!-- mission hunts: mission updates -->
+		<t id="541">(mission description)Mise à jour: Nouvelle position: %s(position) dans %s(sector), il y a %s(time).</t>
+		<t id="542">(mission notification)Mise à jour: Nouvelle position dans le secteur %s(sector), il y a %s(time).</t>
+		<t id="543">(Raison mission inacceptable 1)Vous n'avez le droit qu'à %s(counter) missions par heure : %s(time) restant.</t>
+		<t id="544">(Raison mission inacceptable 2)Vous avez déjà une mission pour cette cible.</t>
+		<t id="545">(Raison mission inacceptable 3)Vous n'avez le droit qu'à %s(counter) missions par heure.</t>
+        <t id="546">Mise à jour des rapports de la mission</t>
+        <!-- mission hunts: debriefing -->
+		<t id="571">Vous n'avez pas participé à la destruction de %s(ship).</t>
+		<t id="572">%s(ship) est toujours opérationnel.</t>
+		<t id="573">Récompense pour la mise à mort de %s(ship): %s(reward).</t>
+		<t id="574">Récompense pour la destruction de %s(ship): %s(reward).</t>
+		<t id="575">Vous n'avez pas trouvé %s(ship).</t>
+		<t id="576">Vous n'êtes pas parvenu à confirmer l'identité de %s(ship).</t>
+		<t id="577">Vous n'êtes pas parvenu à endommager %s(ship).</t>
+		<!-- mission hunts: bounty hunter convo for missions -->
+		<t id="601">Mission?</t>
+		<t id="602">%1(faction): %2(nombre) missions.</t>
+		<t id="603">Cibles de petite et moyenne taille: %1(nombre) missions.</t>
+		<t id="604">Cibles de grande et très grande taille: %1(nombre) missions.</t>
+	</page>
+</add></diff>
+<!-- <t id="18000">\033#FF00FF00#AARRGGBB(green)\033X</t> -->
+<!-- 2001, 2002, 2005, 2012, 3003 - hello there. hello. comms channel open. welcome. captain.
+3103 = captain!
+4002, 4005, 5030, 5031 - follow me. follow my lead. be prepared for combat encounters. keep an eye on sensors.
+4009, 4012, 10001, 10509 - open fire. engage. enemy spotted. you are free to engage.
+10055, 10056, 11506 - taking shield damage. shields hit. shields are down.
+10006 - we're taking hits.
+10007, 10008 - taking serious damage. damage is getting serious.
+10016, 5015 - help! get us out of here!
+10025, 10030, 10035 - nooo! abandon ship! aaargh!
+2110, 2111 = thank you. thanks for your help.
+ -->

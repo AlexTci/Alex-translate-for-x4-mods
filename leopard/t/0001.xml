@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000801" title="Leopard" descr="L" voice="yes">
+     <t id="10001">Leopard</t>
+	   <t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It holds tons of people for the missions, is a very good fighter, almost undestructable, kills even Pirates without much of a sweat and has the looks of a absolutely beautiful ship in the game, the Buffalo. Lean back and enjoy your Easy Life in X4.</t>
+     <t id="10002">(Leopard Vanguard){950000801,10001} {950000801,10003}</t>
+  	 <t id="10003">Vanguard</t>
+  	 <t id="10004">Fast Dreadnaught</t>
+<!--  	 <t id="20005">Xenon Engine L-Class Mk1</t>
+	   <t id="20006">Xenon Thruster L-Class Mk1</t>  -->
+	  </page>
+  </add>
+</diff>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="654612" title="Terran capital ship alpha variant" descr="Terran capital ship alpha variants" voice="no">
+			<t id="1">Osaka Alpha</t>
+			<t id="2">The alpha variant of the Osaka is fielded by the Protectorate High Command where an Osaka would struggle but a Syn would be an overkill, be it in terms of firepower or cost of deployment. The Osaka Alpha boasts an additional heavy turret and 8 additional medium turrets on the prow of the destroyer. The additional hull space serves as additional ammo storage while strengthened bulkheads offer a moderately larger protection than the 40-ton lighter variant. Those upgrades have come at a cost however, as the space used to power the additional turrets resulted in downsizing of the already spartan, if not downright cramped crew quarters of the Osaka. Inevitably, the modifications to the structure of the Osaka have resulted in the Alpha being heavier, slower, less maneuverable and more expensive than its predecessor. The lattermost of those downsides results in the Osaka Alpha being almost as rare a sight as the Syn. </t>
+			<t id="3">Tokyo Alpha</t>
+			<t id="4">The alpha variant of the Tokyo fulfills the role of a fast (for a carrier) support for Terran fighter squadrons. Its enhanced radar range and speed allow it to quickly deliver its payload of S class ships while keeping the fleet and its own wings appraised on enemy movement within its area of operations. The removal of the M-class dock and M storage is offset by the an additional XL engine lending the vessel its speed. The additional radar range was achieved by moving the ring section into the primary hull and repurposing what previously was an observation cupola into sensor pods, which were then mounted on top and bottom of the ship. The M class turret which serve as Tokyo's defense system have been rearranged, but both variants keep similar turret coverage. The alpha variant may pack a weaker punch than the standard Tokyo, but it delivers that punch swiftly and decisively.</t>	
+			<t id="5">Honshu Alpha</t>
+			<t id="6">The alpha variant of the Terran resupply ship is essentially the same platform as the standard Honshu, but with a more balanced weight distribution and less intertia overall. This was achieved by removal of the solar sail and centering of the ring section. Thus the lighter Alpha is seeing an increased use by the Protectorate High Command as dedicated carriers of M class ships, most often when paired with the Tokyo Alpha. However, to fulfill this role, the vast majority of the Honshu's hull serves as storage resulting in the overall structure being vulnerable to destroyer class and higher weight of ordnance. Thus the vessel should be well supported and kept out of harm's way as its own M class turrets will deter only the lightest of hostile attacks.</t>	
+			
+		</page>
+	</add>
+</diff>

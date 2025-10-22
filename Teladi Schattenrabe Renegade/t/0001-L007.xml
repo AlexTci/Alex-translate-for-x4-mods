@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="97211001" title="Schattenrabe Renegade" descr="Schattenrabe Renegade" voice="no">
+		<t id="11001">Альбатрос Ренегат</t>
+		<t id="11002">(Альбатрос Ренегат Агрессор){97211001,11001} {20111,1101}</t>
+		<t id="11003">(Альбатрос Ренегат Защитник){97211001,11001} {20111,1201}</t>
+	</page>
+</language>

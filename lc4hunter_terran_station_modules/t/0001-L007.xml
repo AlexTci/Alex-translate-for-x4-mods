@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996013" title="Mjolnir Title" descr="Text for Mjolnir Defence Module" voice="no">
+			<t id="21">(Terran Cross Connection Structure 02){20202,701} {20104,51301} {20111,5102}</t>
+			<t id="22">{20006,102}(No information available)</t>
+			<t id="23">(Cross 02){20104,51303} {20111,5102}</t>
+		</page>
+	</add>
+</diff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language id="44">
+    <page id="20226" title="Digital Seminars" descr="Names and descriptions of digital seminars used for training crew" voice="no">
+        <t id="1">Seminar for 0-Star Crew</t>
+        <t id="2">Seminar for 1-Star Crew</t>
+        <t id="3">Seminar for 2-Star Crew</t>
+        <t id="4">Seminar for 3-Star Crew</t>
+        <t id="5">Seminar for 4-Star Crew</t>
+    </page>
+</language>

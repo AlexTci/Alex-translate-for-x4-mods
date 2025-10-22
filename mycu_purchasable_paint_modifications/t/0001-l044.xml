@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language id="44">
+    <page id="1001" voice="no">
+        <t id="8517">Cost of paint modification depends on modification rarity and ship size</t>
+    </page>
+    <page id="49518" voice="no">
+        <t id="100">Add to favourites</t>
+        <t id="110">Remove from favourites</t>
+        <t id="200">Favourites</t>
+        <t id="210">No favourites defined</t>
+    </page>
+</language>

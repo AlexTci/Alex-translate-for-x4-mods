@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mdscript name="Super_defense"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cues>
+        <cue name="Add_Defense_Blueprint" instantiate="true">
+            <conditions>
+                <check_any>
+                    <event_cue_signalled cue="md.Setup.Start"/>
+                    <event_game_loaded/>
+                </check_any>
+            </conditions>
+            <delay exact="1ms"/>
+            <actions>
+            <!--    <show_help duration="1" custom="'Super defense installed.'"/> -->
+
+                <add_blueprints wares="ware.module_uber_def_disc_01" />
+                <add_blueprints wares="ware.module_uber_def_tube_01" />
+
+                <add_blueprints wares="ware.module_uber_ter_def_disc_01" />
+                <add_blueprints wares="ware.module_uber_ter_def_tube_01" />
+
+                <add_blueprints wares="ware.module_uber_spl_def_disc_01" />
+                <add_blueprints wares="ware.module_uber_spl_def_tube_01" />
+            </actions>
+        </cue>
+    </cues>
+
+</mdscript>

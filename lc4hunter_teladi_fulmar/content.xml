@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_teladi_fulmar" name="Teladi Fulmar" description="Adds the Teladi Fulmar battleship to the Teladi shipyards" author="Lc4Hunter" version="210" date="2025-01-21" save="0" enabled="1">
+	<text language="7" name="Teladi Fulmar" description="Добавляет боевой корабль Фулмар на верфи Телади" author="Lc4Hunter" />
+</content>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- français -->
+<language id="33">
+    <!-- "kuertee Réactions des PNJ" = "npcr" = "14 16 3 18 " dans https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+    <page descr="" id="1416318" voice="no" title="">
+        <!-- mycu_verbose_transaction_log mod -->
+        <t id="101">Prêt bancaire</t>
+        <t id="102">Remboursement de prêt bancaire</t>
+        <t id="103">Location de vaisseau de construction</t>
+        <t id="104">Location de taxi</t>
+        <!-- rumours -->
+        <t id="688845">Discuter de la galaxie.</t>
+        <t id="688846">Discuter de coffres verrouillées.</t>
+        <t id="688847">Discuter d'anomalies.</t>
+        <t id="688848">Discuter de coffres de données.</t>
+        <t id="688849">Discuter de politique.</t>
+        <t id="688850">Discuter des guerres.</t>
+        <t id="688851">Discuter de la vie dans l'espace.</t>
+        <t id="688852">Discuter de science.</t>
+        <t id="688853">Discuter de : %s(nomconnu) %s(idcode).</t>
+        <!-- début : config -->
+        <t id="688900">kuertee : Réactions des PNJ</t>
+        <t id="688901">Pas de pénalité de conversation directe</t>
+        <t id="688902">La chance de base pour une rumeur significative (votre compétence de conversation) se dégrade chaque heure sans au moins une conversation en face-à-face.</t>
+        <t id="688903">Bonus de même race</t>
+        <t id="688905">Bonus de faction amicale</t>
+        <t id="688907">Bonus de faction amicale dans un secteur ennemi</t>
+        <t id="688909">Compte de conversations</t>
+        <t id="688910">La chance qu'une conversation produise une rumeur significative augmente de 1 % à chaque nouvelle conversation. NE PAS MODIFIER CECI sauf en cas de nécessité.</t>
+        <t id="688911">Chance de base pour une rumeur</t>
+        <t id="688912">Lorsqu'une conversation produit une rumeur significative, une chance de base est augmentée de 1 %. Cela peut être considéré comme une "compétence de conversation". NE PAS MODIFIER CECI sauf en cas de nécessité.</t>
+        <t id="688913">Journal de débogage</t>
+        <t id="688914">Chance maximale pour une rumeur</t>
+        <t id="688915">Ceci est la limite de la chance de base pour une rumeur significative. NE PAS MODIFIER CECI sauf en cas de nécessité.</t>
+        <t id="688916">Bonus de présence dans le bar</t>
+        <t id="688917">kuertee : Taxis pour les PNJ</t>
+        <t id="688918">Coût supplémentaire par porte comme multiplicateur</t>
+        <t id="688919">Activer la fonction de débogage</t>
+        <!-- habitués de bar -->
+        <t id="688920">Compétences secondaires</t>
+        <!-- taxis -->
+        <t id="688921">(non utilisé)Détruire les taxis</t>
+        <!-- alertes de l'équipage -->
+        <t id="688922">Équipage du pont</t>
+        <t id="688923">Fréquence de contact radar</t>
+        <t id="688924">Supérieur ou égal à la taille du vaisseau</t>
+        <t id="688925">Communication avec scène de coupure</t>
+        <!-- début : activer/désactiver les fonctionnalités -->
+        <t id="688926">Rumeurs</t>
+        <t id="688927">Prêts bancaires des gestionnaires de station</t>
+        <t id="688928">Patrons de bar</t>
+        <t id="688929">Équipage du pont</t>
+        <t id="688930">Les vaisseaux de construction proposent leurs services vos travaux</t>
+        <t id="688931">Les PNJ demandent du renfort via les communications</t>
+        <t id="688932">Taxis</t>
+        <!-- fin : activer/désactiver les fonctionnalités -->
+        <t id="688933">Communications vidéo avec arrière-plan générique</t>
+        <t id="688934">Limiter la race aux races de la station</t>
+        <!-- équipage du pont -->
+        <t id="688935">Le pilote IA quitte automatiquement les commandes</t>
+        <t id="688936">Petits vaisseaux</t>
+        <t id="688937">Vaisseaux moyens</t>
+        <t id="688938">Vaisseaux plus grands</t>
+        <t id="688939">Ajouter "Maintenir la position" au dernier vaisseau contrôlé</t>
+        <t id="688940">Rapport des ennemis</t>
+        <t id="688941">Contacts classe S et classe M</t>
+        <t id="688942">Livre de bord</t>
+        <t id="688943">Notification</t>
+        <t id="688944">Message vocal</t>
+        <t id="688945">La flotte du joueur suit le joueur</t>
+        <t id="688946">Contacts de classe L et de classe XL</t>
+        <t id="688947">Fréquence des rapports ennemis par secteur</t>
+        <!-- fin : config -->
+        <!-- constructeurs PNJ -->
+        <t id="689000">Besoin d'un constructeur ?</t>
+        <t id="689001">Non, merci.</t>
+        <t id="689002">Le plus proche</t>
+        <t id="689003">Le plus proche de moi</t>
+        <t id="689004">Votre employé</t>
+        <t id="689005">Échec de l'assignation du constructeur.</t>
+        <!-- taxis des PNJ -->
+        <t id="689100">Service de taxi (nom de mission)</t>
+        <t id="689101">Service de taxi (nom de faction)</t>
+        <t id="689102">Avez-vous encore besoin d'un transport ?</t>
+        <t id="689103">Comme vous voulez, vous, moucheron de l'espace !</t>
+        <t id="689104">Amarrez-vous à...</t>
+        <t id="689105">J'ai besoin d'un transport vers...</t>
+        <t id="689106">Désolé, ce vaisseau ne peut pas s'amarrer à ce vaisseau.</t>
+        <t id="689107">Désolé, ce vaisseau ne peut pas s'amarrer à cette station.</t>
+        <t id="689108">Destination</t>
+        <t id="689109">Coût</t>
+        <t id="689110">Êtes-vous sûr ?</t>
+        <t id="689111">Montez à bord</t>
+        <t id="689112">Débarquez à</t>
+        <t id="689113">Appeler un transport</t>
+        <t id="689114">Aucun transport disponible pour le moment.</t>
+        <t id="689115">Où voulez-vous aller ?</t>
+        <t id="689116">D'accord, j'arrive bientôt.</t>
+        <t id="689117">Je n'ai plus besoin d'un transport.</t>
+        <t id="689118">D'accord, je suis là. Montez à bord.</t>
+        <t id="689119">Je n'ai plus besoin de ce transport.</t>
+        <t id="689120">E.T.A.</t>
+        <t id="689121">Je cherche un transport.</t>
+        <t id="689122">Laissez-moi contacter le pilote.</t>
+        <t id="689123">Attendez pour</t>
+        <t id="689124">Débarquez</t>
+        <t id="689125">J'ai inclus la distance dans le coût.</t>
+        <t id="689126">TAXI</t>
+        <t id="689127">Réembauche</t>
+        <t id="689128">J'ai perdu le contact avec notre destination.</t>
+        <t id="689129">J'ai besoin d'un transport vers le chantier naval le plus proche.</t>
+        <t id="689130">J'ai besoin d'un transport vers le quai le plus proche.</t>
+        <t id="689131">Amarrez-vous au chantier naval le plus proche.</t>
+        <t id="689132">Amarrez-vous au quai le plus proche.</t>
+        <t id="689133">Désolé, vous ne pouvez pas vous permettre cela.</t>
+        <!-- conversation de prêts bancaires des PNJ -->
+        <t id="689200">Je voudrais un prêt bancaire \(%1(Cr)\).</t>
+        <t id="689201">Le voici.</t>
+        <t id="689202">N'oubliez pas que le taux d'intérêt est de 1 % par heure.</t>
+        <t id="689203">Je voudrais rembourser mon prêt bancaire \(%1(Cr)\).</t>
+        <t id="689204">(chc nom du crime) Prêts impayés</t>
+        <!-- interface de prêt bancaire des PNJ -->
+        <t id="689300">Prêts bancaires</t>
+        <t id="689301">Station</t>
+        <t id="689302">Prêteur</t>
+        <t id="689303">Prêt</t>
+        <t id="689304">Taux d'intérêt</t>
+        <t id="689305">Rembourser le prêt</t>
+        <t id="689306">%1(nombre)%% par heure</t>
+        <t id="689307">Afficher %s($STATION_NAME$) sur la carte</t>
+        <t id="689308">Définir la navigation vers %s($LENDER_NAME$)</t>
+        <!-- équipage du pont des PNJ -->
+        <t id="689401">Timonière</t>
+        <t id="689402">Tactique</t>
+        <t id="689403">Ingénierie</t>
+        <t id="689404">Cible %1(ennemi) ?</t>
+        <t id="689405">Donner l'ordre.</t>
+        <t id="689406">Rapport ennemi</t>
+        <t id="689407">Ennemi : %s(ennemi).\nSecteur : %s(secteur).\nRapporté par : %s(nom) \(%s(nom du vaisseau)\).</t>
+        <t id="689408">Retournez à votre poste.</t>
+        <!-- ordres : patrouille -->
+        <t id="690001">Signaler les chasseurs, corvettes et frégates ennemis</t>
+        <t id="690002">Signaler les destroyers et vaisseaux capitaux ennemis</t>
+        <t id="690003">Ne pas engager d'ennemis</t>
+    </page>
+</language>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <language > 
+ <!-- id="44" -->
+<page id="80105" title="Weapons and Turrets" descr="Names and descriptions of weapons and turrets" voice="no">
+<!-- name = ARG L Beam Turret Mk1    basename=Beam Turret    shortname=Beam Mk1 -->
+<!-- arg L beam turr      <identification name="{20105,5084}" basename="{20105,5081}" shortname="{20105,5085}" makerrace="argon" description="{20105,5082}" unique="0" mk="1" /> -->
+ <t id="1000">Large Plasma Artillery</t>
+ <t id="1001">ARG L Large Plasma Artillery</t>
+ <t id="1002">ARG Large Plasma Artillery Cannon</t> 
+ <t id="1004">The Large Plasma Artillery Cannon was designed as a large double burst artillery cannon shooting blue plasma balls. It has a long range and damage, but its accuracy, rotation speed and low rate of fire make it useless against small fast targets. Its main purpose is to destroy large ships at long range or to provide support fire from behind the front line. </t>
+ <t id="1011">TEL L Large Plasma Artillery</t>
+ <t id="1012">TEL Large Plasma Artillery Cannon</t> 
+ <t id="1021">PAR L Large Plasma Artillery</t>
+ <t id="1022">PAR Large Plasma Artillery Cannon</t> 
+ <t id="1031">SPL L Large Plasma Artillery</t>
+ <t id="1032">SPL Large Plasma Artillery Cannon</t>
+ 
+  <t id="1100">Medium Plasma Artillery</t>
+  <t id="1101">ARG M Medium Plasma Artillery</t>
+  <t id="1102">ARG Medium Plasma Artillery Cannon</t> 
+  <t id="1104">The Plasma Artillery Cannon was designed as a large double burst artillery cannon shooting blue plasma balls. It has a long range and damage, but its accuracy, rotation speed and low rate of fire make it useless against small fast targets. Its main purpose is to destroy large ships at long range or to provide support fire from behind the front line. </t>
+  <t id="1111">TEL M Medium Plasma Artillery</t>
+  <t id="1112">TEL Medium Plasma Artillery Cannon</t> 
+  <t id="1121">PAR M Medium Plasma Artillery</t>
+  <t id="1122">PAR Medium Plasma Artillery Cannon</t> 
+  <t id="1131">SPL M Medium Plasma Artillery</t>
+  <t id="1132">SPL Medium Plasma Artillery Cannon</t>
+  
+  <t id="1200">Intimidator</t>
+  <t id="1201">ARG L Intimidator</t>
+  <t id="1202">ARG Intimidator Plasma Cannon</t> 
+  <t id="1204">The Intimidator Cannon shoots red plasma in quad-burst mode. Because red plasma can store its heat only for a limited period of time, its range is shorter than its blue variant. It has a fast rate of fire for a large cannon and brings massive destruction power to the battlefield, making it a threat even to medium targets.</t>
+  <t id="1211">TEL L Intimidator </t>
+  <t id="1212">TEL Intimidator Plasma Cannon</t> 
+  <t id="1221">PAR L Intimidator</t>
+  <t id="1222">PAR Intimidator Plasma Cannon</t> 
+  <t id="1231">SPL L Intimidator</t>
+  <t id="1232">SPL Intimidator Plasma Cannon</t>
+  
+  <t id="1300">Rapid Plasma Cannon</t>
+  <t id="1301">ARG M Rapid Plasma Cannon</t>
+  <t id="1302">ARG Rapid Plasma Cannon</t> 
+  <t id="1303">ARG M Rapid Plasma Cannon Integrated</t> 
+  <t id="1304">The Rapid Plasma Cannon was developed to function as an all-round turret, capable of hitting fast fighters but also breaking through the armour of larger ships. Although it has no real strengths or weaknesses, the Rapid Plasma Cannon is a good all-round turret when the enemy is unknown. </t>
+  <t id="1311">TEL M Rapid Plasma Cannon</t>
+  <t id="1312">TEL Rapid Plasma Cannon</t> 
+  <t id="1313">TEL M Rapid Plasma Cannon Integrated</t> 
+  <t id="1321">PAR M Rapid Plasma Cannon</t>
+  <t id="1322">PAR Rapid Plasma Cannon</t>
+  <t id="1323">PAR M Rapid Plasma Cannon Integrated</t> 
+  <t id="1331">SPL M Rapid Plasma Cannon</t>
+  <t id="1332">SPL Rapid Plasma Cannon</t>
+  <t id="1333">SPL M Rapid Plasma Cannon Integrated</t> 
+  
+  <t id="1400">280mm Autocannon</t>
+  <t id="1401">ARG M 280mm AC</t>
+  <t id="1402">ARG 280mm Autocannon</t> 
+  <t id="1404">The Autocannon is a fast firing autocannon shooting 280mm uranium bullets at a very high speed. While not as effective as a dedicated antifighter turret, it is still able to hit fast targets. It is best used against medium targets.</t>
+  <t id="1411">TEL M 280mm AC</t>
+  <t id="1412">TEL 280mm Autocannon</t> 
+  <t id="1421">PAR M 280mm AC</t>
+  <t id="1422">PAR 280mm Autocannon</t> 
+  <t id="1431">SPL M 280mm AC</t>
+  <t id="1432">SPL 280mm Autocannon</t> 
+  
+  <t id="1500">HI Quad Pulse Beam</t>
+  <t id="1501">ARG High Intensity Quad Pulse Beam</t>
+  <t id="1502">ARG M High Intensity Quad Pulse Beam</t> 
+  <t id="1503">ARG M High Intensity Quad Pulse Beam Integrated</t> 
+  <t id="1504">In the search for a multi-purpose laser turret to defend the Argon trading fleets, the Argon Military Science Department developed a high intensity quad pulse beam laser system called Cutter. Its fast rate of fire and targeting capabilities make it a versatile weapon.</t>
+  
+  <t id="1600">HI Pulse Beam</t>
+  <t id="1601">High Intensity Pulse Beam </t>
+  <t id="1602">\033#96ddb56e#SL\033X High Intensity Pulse Beam</t> 
+  <t id="1603">\033#96ddb56e#SL\033X High Intensity Pulse Beam Integrated</t> 
+  <t id="1604">After the success of the versatile and easy to produce medium high intensity quad pulse laser system the Argon Federation decided to mount a smaller single high-intensity beam version into a weapon system so it could be equipped into a fighter. The increased damage output of the single beam results from the cost of a smaller cooling system, whichdrastically lowers the weapon output after long periods of use.</t>
+  <t id="1611">High Intensity Pulse Beam</t>
+  <t id="1612">\033#96ddb56e#SL\033X High Intensity Pulse Beam</t> 
+  <t id="1621">High Intensity Pulse Beam</t>
+  <t id="1622">\033#96ddb56e#SL\033X High Intensity Pulse Beam</t> 
+  <t id="1631">High Intensity Pulse Beam</t>
+  <t id="1632">\033#96ddb56e#SL\033X High Intensity Pulse Beam</t> 
+  
+  <t id="1700">Proton Autocannon</t>
+  <t id="1701">\033#989db6ec#ML\033X Proton Autocannon</t>
+  <t id="1702">ARG Proton Autocannon</t> 
+  <t id="1703">Proton Autocannon Integrated</t> 
+  <t id="1704">The Proton Autocannon was developed by the Teladis in the fight against Xenon and later copied and improved by the Paranid. The weapon shoots high-energy proton particles, which explode on impact and release a large amount of kinetic energy. Due to its good targeting ability and high rate of fire, the Proton Autocanon is mostly used against fighters or medium targets.</t>
+  <t id="1711">TEL M Proton Autocannon</t>
+  <t id="1712">TEL Proton Autocannon</t> 
+  <t id="1721">PAR M Proton Autocannon</t>
+  <t id="1722">PAR Proton Autocannon</t> 
+  <t id="1731">SPL M Proton Autocannon</t>
+  <t id="1732">SPL Proton Autocannon</t> 
+
+  <t id="1800">Impulse Gatling Cannon</t>
+  <t id="1801">\033#97e19b23#SH\033X Impulse Gatling Cannon</t>
+  <t id="1802">\033#97e19b23#SH\033X TER Impulse Gatling Cannon</t> 
+  <t id="1804">The Impulse Gatling cannon fires high-velocity tachyon rounds. The weapon is mounted primarily on heavy fighters. Its decent punch, accuracy and speed make it an excellent weapon in combat against other fast targets.</t>
+
+  <t id="1900">Impulse Blaster</t>
+  <t id="1901">\033#989db6ec#MH\033X Impulse Blaster</t>
+  <t id="1902">\033#989db6ec#MH\033X TER Impulse Blaster</t> 
+  <t id="1904">Due to the enormous success of the Impulse Gatling Cannon, a larger variant with more penetrating power and range was developed. Deployable on medium sized weapon bays, the Terran Impulse Blaster is an excellent weapon to deter or even destroy even large targets.</t>
+
+  <t id="2000">Tachyon Cannon</t>
+  <t id="2001">\033#95e03b29#LM\033X Tachyon Cannon</t>
+  <t id="2002">\033#95e03b29#LM\033X TER Tachyon Cannon</t> 
+  <t id="2004">The tachyon cannon fires compressed tachyon bolts in a quad-burst mode. A decent range and penetrating power combined with a fast rate of fire make the weapon ideal in combat against medium-weight targets. </t>
+
+  <t id="2100">Tachyon Blaster</t>
+  <t id="2101">TER L Tachyon Blaster</t>
+  <t id="2102">TER L Tachyon Blaster</t> 
+  <t id="2103">TER L Tachyon Blaster Integrated</t> 
+  <t id="2104">The tachyon blaster fires compressed tachyon bolts in rapid sequence. For a medium sized turret, the Tachyon Blaster has an excellent range and damage output. Only its average speed and moderate accuracy make it vulnerable against fast targets.</t>
+  
+  <t id="2200">Multiphase-Cannon</t>
+  <t id="2201">TER L Multiphase-Cannon</t>
+  <t id="2202">TER L Multiphase-Cannon</t> 
+  <t id="2204">The Multiphase-Cannon is designed to destroy heavily armored targets from a long distance. A multiphase projectile starts a second phase shortly after firing, which gives it additional kinetic and thermal energy. </t>  
+  
+</page>
+</language> 

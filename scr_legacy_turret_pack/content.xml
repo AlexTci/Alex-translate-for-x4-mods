@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3473399222" name="SCR legacy turret pack" description="Набор турелей SCR. Урон и дальность действия изменены, чтобы лучше вписаться в игру без SCR." date="2025-07-18" version="111" save="false" author="DrWhoKnows" lastupdate="1752861301">
+  <dependency id="ws_3414980259" optional="false" name="BH Shader File"></dependency>
+</content>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="20250818" title="ccother" descr="ccother mod" voice="no">
+ <t id="1">DSS Harbinger-class</t>
+ <t id="2">A multi-purpose destroyer of DSS, equipped with advanced electromagnetic railguns, point defense arrays, and a universal vertical missile launch system, capable of adapting to the needs of most combat missions.</t>
+ <t id="3">LIFT-182 Nuclear Fusion Engine</t>
+ <t id="4">A nuclear fusion thruster that uses a stellarator magnetic field structure and superconducting coils to confine plasma, converting neutron kinetic energy.</t>
+ <t id="5">SH-32 Shield Generator</t>
+ <t id="6">A plasma field generator that forms a high-density ion barrier based on magnetic confinement plasma technology.</t>
+ <t id="7">DSS Harbinger Weapon</t>
+ <t id="8">DSS Harbinger Weapon Information</t>
+ <t id="9">RS-422 Railgun</t>
+ <t id="10">A shipborne dual-rail railgun composed of a segmented coil array and adaptive current control.</t>
+ <t id="11">A/G-16 Gatling Sentry</t>
+ <t id="12">An electromagnetically driven six-barrel rapid-fire Gatling gun, using nanofluid circulation cooling, capable of supporting long-term combat needs.</t>
+ <t id="13">DSS Harbinger Point Defense 2</t>
+ <t id="14">DSS Harbinger Point Defense 2 Information.</t>
+ <t id="15">A/AC-8 Missile Launch System</t>
+ <t id="16">A modular missile silo system capable of using multiple types of missiles.</t>
+ <t id="17">DSS Harbinger Missile Launcher 2</t>
+ <t id="18">DSS Harbinger Missile Launcher 2 Information</t>
+ <t id="19">DSS Harbinger Missile Launcher 3</t>
+ <t id="20">DSS Harbinger Missile Launcher 3 Information</t>
+ <t id="21">DSS Harbinger Missile Launcher 4</t>
+ <t id="22">DSS Harbinger Missile Launcher 4 Information</t>
+ <t id="23">DSS Harbinger Missile Launcher 5</t>
+ <t id="24">DSS Harbinger Missile Launcher 5 Information</t>
+ <t id="25">DSS Harbinger Missile 1</t>
+ <t id="26">DSS Harbinger Missile 1 Information</t>
+ <t id="27">DSS Harbinger Missile 2</t>
+ <t id="28">DSS Harbinger Missile 2 Information</t>
+ <t id="29">DSS Harbinger Missile 3</t>
+ <t id="30">DSS Harbinger Missile 3 Information</t>
+ <t id="31">MLS-4X Assault Trooper</t>
+ <t id="32">A universal missile of DSS, suitable for both anti-air and anti-ship operations.</t>
+ <t id="33">DSS Harbinger Missile 5</t>
+ <t id="34">DSS Harbinger Missile 5 Information</t>
+</page>
+	</add>
+</diff>

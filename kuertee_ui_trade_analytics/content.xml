@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="kuerteeUITradeAnalytics"
+name="kuertee UI: Trade analytics"
+author="kuertee"
+version="800"
+date="2025-09-11"
+save="false"
+enabled="1">
+
+<text language=""
+description="UI: Торговая аналитика&#13;&#10;
+by kuertee&#13;&#10;
+&#13;&#10;
+Mod effects&#13;&#10;
+===========&#13;&#10;
+Добавляет сортируемую аналитику на экран журнала транзакций.&#13;&#10;
+Аналитика по продажам, закупкам и добыче полезных ископаемых отображается в виде списка и может быть просмотрена по общему объему торгов, по товарам или по торговым судам.&#13;&#10;
+В представленной аналитике указаны торговые партнеры, расстояние/сектор, количество сделок, общие суммы, общая цена, сумма по количеству, сумма по цене.&#13;&#10;
+"/>
+
+<dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs"></dependency>
+<dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD"></dependency>
+</content>

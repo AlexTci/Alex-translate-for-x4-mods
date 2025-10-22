@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="RebalancedSeminars"
+         name="Mycu: Rebalanced seminars"
+         author="Mycu"
+         version="110"
+         date="2025-09-29"
+         save="false"
+         enabled="1"
+         description="Добавляет семинары более высокого уровня в ассортимент трейдеров. Сбалансирует цены и сделает названия семинаров более единообразными, чтобы они отображались в алфавитном порядке в списках трейдеров.">
+</content>

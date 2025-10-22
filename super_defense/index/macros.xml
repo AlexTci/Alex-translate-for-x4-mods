@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <entry name="defence_uber_disc_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_disc_01_macro"/>
+    <entry name="defence_uber_tube_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_tube_01_macro"/>
+
+    <entry name="defence_uber_ter_disc_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_ter_disc_01_macro"/>
+    <entry name="defence_uber_ter_tube_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_ter_tube_01_macro"/>
+
+    <entry name="defence_uber_spl_disc_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_spl_disc_01_macro"/>
+    <entry name="defence_uber_spl_tube_01_macro" value="extensions\super_defense\assets\structures\defence\macros\defence_uber_spl_tube_01_macro"/>
+</index>

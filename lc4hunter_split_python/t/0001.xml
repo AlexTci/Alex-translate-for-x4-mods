@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996011" title="Python Title" descr="Python Description" voice="yes">
+			<t id="1">(Python){20101,40201}</t>
+			<t id="2">The Python is the one of the most effective warships in the Split Sectors. It is well armed, and lethal. It is also one of the most aggressive ships in the universe, it´s captains all being briefed to fire first and ask questions later. \n\nImpressed by the ATF´s Asgard battleships, Split scientists were tasked with replicating it´s mainweapon and equipping it to the Python.</t>
+			<t id="3">Python Main Battery</t>
+			<t id="4">The Python Main Battery is the attempt to replicate the heavy beam cannon of the ATF Asgard. While this weapon can´t reach the level of the Asgard, it is still a powerful and effective longe range weapon.</t>
+			<t id="5">(SPL Python Main Battery){20202,303} {996011,3}</t>
+		</page>
+	</add>
+</diff>
+
+
+

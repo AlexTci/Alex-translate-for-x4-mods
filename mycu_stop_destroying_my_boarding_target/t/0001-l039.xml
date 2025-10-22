@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="39">
+	<page id="14225" voice="no">
+		<t id="100">Smetti di sparare al mio bersaglio!</t>
+		<t id="101">Eventi di abbordaggio</t>
+		<t id="102">%s cessa il fuoco su %s</t>
+		<t id="103">%s ha rifiutato di interrompere l'attacco su %s con il messaggio: Mi spiace ma quella nave è un pericolo per noi. Disabilita le sue torrette prima!</t>
+		<t id="104">%s ha rifiutato di interrompere l'attacco su %s con il messaggio: Non smetterò!</t>
+	</page>
+</language>

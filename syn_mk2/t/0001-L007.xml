@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Перевел Alex5Not   -->
+<diff>
+	<add sel="/language">
+		<page id="6219734" title="Syn Mk2" descr="Because there is no such thing as overkill." voice="yes">
+			<t id="1">Син Mk2</t>
+			<t id="2">(Син Mk2) {6219734,4}</t>
+			<t id="3">Потому что такого понятия, как излишество, не существует. Син Mk2 - модифицированный Син, можно приобрести на верфи Землян - сектор Луна, требуется лицензия на военные корабли.</t>
+			<t id="4">Син Mk2</t>
+		</page>
+	</add>
+</diff>

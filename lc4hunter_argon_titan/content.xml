@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_argon_titan" name="Argon Titan" description="Adds the Argon Titan and Titan E battleships to the Argon shipyards" author="Lc4Hunter" version="321" date="2025-02-22" save="0" enabled="1">
+	<text language="7" name="Argon Titan (E) - XL battleship" description="Добавляет боевые корабли Титан и Титан У (Улечшенный) на верфи Аргона" author="Lc4Hunter" />
+</content>

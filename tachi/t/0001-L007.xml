@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Перевел Alex5Not   -->
+<diff>
+	<add sel="/language">
+		<page id="999902" title="Tachi" descr="Tachi" voice="yes">
+			<t id="1">Тайчи</t>
+			<t id="2">(Тайчи) {999902,4}</t>
+			<t id="3">Тайчи - супер тяжёлый истребитель землян</t>
+			<t id="4">Тайчи</t>
+		</page>
+	</add>
+</diff>

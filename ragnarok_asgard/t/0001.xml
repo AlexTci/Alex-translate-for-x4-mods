@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999732" title="Ragnarok" descr="Ragnarok" voice="yes">
+			<t id="1">Ragnarok</t>
+			<t id="2">(Ragnarok) {999732,4}</t>
+			<t id="3">Ragnarok is highlight of Terran space superiority. But this ship is so difficult to build that one who dares to build it will need to invest absurd amount of resources. Because of that Terrans prefer standard version of Asgard. </t>
+			<t id="4">Ragnarok</t>
+			<t id="5">Ragnarok Main Battery</t>
+		</page>
+	</add>
+</diff>

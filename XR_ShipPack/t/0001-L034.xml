@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <diff>
+  <add sel="/language">
+	<page id="87100" title="Short Ship Names" descr="Ship Names" voice="no">
+		 <t id="55501">Balor</t>			 
+		 <t id="55502">Centurión</t>			 
+		 <t id="55503">Taranis</t>			 
+		 <t id="55504">Arawn</t>			 
+		 <t id="55505">Sucellus</t>			 
+		 <t id="55506">Jabalí</t>			 
+		 <t id="55507">Titurel</t>			 
+		 <t id="55508">Scaldis</t>			 
+		 <t id="55509">Scylla</t>			 
+		 <t id="55510">Boann \(Gas\)</t>			 
+		 <t id="55511">Sequana \(Gas\)</t>		 
+		 <t id="55512">Sulaco \(Mineral\)</t>		 
+		 <t id="55513">Fedhelm \(Mineral\)</t>		 
+		 <t id="55514">Hermod \(Gas\)</t>		 
+		 <t id="55515">Thanatos</t>		 
+		 <t id="55516">Excalibur</t>		 
+		 <t id="55517">Vengador</t>		 
+		 <t id="55518">Klendathu</t>		 
+		 <t id="55519">Eratos</t>		 
+		 <t id="55520">Vengador E</t>		 
+		 <t id="55521">Martillo del Destino</t>		 
+		 <t id="55522">Kraken</t>		 
+		 <t id="55523">Cometa</t>		 
+		 <t id="55524">Millennium</t>		 
+		 <t id="55525">Ejecutor</t>		 
+		 <t id="55526">Merlín</t>		 
+		 <t id="55527">Astrónomo</t>		 
+		 <t id="55528">Sanahar</t>		 
+		 <t id="55529">Lyranea</t>		 
+		 <t id="55530">Huracán</t>		 
+		 <t id="55531">Q</t>		 
+		 <t id="55532">Astral \(Mineral\)</t>		 
+		 <t id="55533">Astral \(Gas\)</t>		 
+		 <t id="55534">Astral</t>		 
+		 <t id="55535">Corazón Valeroso</t>		 
+		 <t id="55536">Polaris \(Gas\)</t>		 
+		 <t id="55537">Rahanas \(Gas\)</t>		 
+		 <t id="55538">Polaris </t>		 
+		 <t id="55539">Rahanas </t>		 
+		 <t id="55540">Dreadnought</t>		 
+		 <t id="55541">Reina</t>		 
+		 <t id="55542">Arrakis</t>		 
+		 <t id="55543">Segador \(Gas\)</t>		 
+		 <t id="55544">Segador \(Mineral\)</t>		 
+		 <t id="55545">Portaestrellas</t>		 
+		 <t id="55546">Ragnarok</t>		 
+		 <t id="55547">Terror</t>		 
+		 <t id="55548">Espejismo \(Gas\)</t>		 
+		 <t id="55549">Espejismo \(Mineral\)</t>
+		 <t id="55550">Aurora</t>		 
+		 <t id="55551">Calipso</t>		 
+	</page>
+	 <page id="87101" title="Ship Descriptions" descr="Ship Descriptions" voice="no">
+		 <t id="55501">El destructor Balor fue introducido como apoyo para naves más lentas contra cazas y bombarderos. Para lograr esta meta, se montaron una gran cantidad de torretas de tamaño medio en su casco.</t>
+		 <t id="55502">El Centurión es la primera nave construida con placas blindadas ultraligeras y reforzadas con nividium. Incluso con un solo motor, este destructor es extremadamente rápido y no debería ser subestimado en el campo de batalla.</t>
+		 <t id="55503">El Taranis fue diseñado como un acorazado de primera línea con una gran cantidad de torretas de tamaño M para enfrentarse a naves más pequeñas. Con sólo un puñado de muelles de atraque y sin tubos de lanzamiento, se necesita apoyo de un portanaves.</t>
+		 <t id="55504">El Arawn no sólo tiene la mayor potencia de fuego y blindaje disponible de la flota Argon, es también el mayor portanaves capaz de mantener y lanzar varias alas de caza. Este monstruo es temido por todos los enemigos del campo de batalla.</t>
+		 <t id="55505">El Sucellus es la segunda nave construida con un innovador sistema de placas de blindaje ligeras y reforzadas con nividium. Este acorazado tiene una enorme potencia de fuego, especialmente for el frontal, aterrorizando a sus enemigos.</t>
+		 <t id="55506">No se sabe mucho del acorazado Jabalí. Desarrollado como Primera Guardia por el servicio secreto del Imperio Split, su excelente armamento es una amenza real contra cualquier flota.</t>
+		 <t id="55507">El Megatransporte Fortificado Titurel fue diseñado para transportar importantes bienes a puertos estelares en áreas con una gran presencia enemiga. Debido a su casco resistente y potencia de fuego, es usado a menudo por la flota Argon en áreas críticas de la galaxia.</t>
+		 <t id="55508">El portaaviones Scaldis está equipado con muchas torretas en ambos lados para contrarrestar cualquier peligro. A menudo se utiliza como apoyo de flanco para romper la formación del oponente.</t> 
+		 <t id="55509">El Scylla es un acorazado pequeño pero rápido con una gran potencia de fuego concentrada en su parte frontal. Su agilidad, velocidad y potencia de fuego hacen de esta bestia una cazadora excelente de naves más lentas.</t>
+		 <t id="55510">El Megabuque Boann es un enorme recolector de gas. Está diseñado para extraer gas lejos de casa y puede permanecer en el espacio durante muchos meses.</t>
+		 <t id="55511">El Sequana es un enorme recolector de gas. Su misión es viajar lejos en las profundidades del espacio para extraer recursos gaseosos y líquidos. </t>
+		 <t id="55512">El Interstellar Sulaco es una nave de minería del espacio profundo con enormes capacidades para minerales sólidos. El Sulaco es visto a menudo lejos de su sistema base. </t>
+		 <t id="55513">El Fedhelm de Interstellar Transport and Mining Corp es un gran minero de asteroides con placas de blindaje reforzadas y 10 torretas de tamaño M complementando su torreta de tamaño L de minería. Puede minar incluso en peligrosos cinturones de asteroides donde se esperan piratas.  </t>
+		 <t id="55514">El Hermod de Interstellar Transport and Mining Corp fue diseñado como una nave de extracción de gas dron. Aunque sus capacidades para extraer su propio gas no son muy altas, puede portar más drones comparado con otras naves de su tamaño. Además, posee placas de blindaje reforzadas para operar incluso en sectores piratas. </t>
+		 <t id="55515">El acorazado Thanatos se encuentra en la media de su clase, armado con bastantes torretas y reforzado con gruesas placas de blindaje.</t>
+		 <t id="55516">El Excalibur es un gran destructor armado con tres grandes torretas. Debido a la necesidad de un destructor fuertemente blindado, la Patrulla Fronteriza Antigone diseñó el Excalibur como la primera nave de clase destructor capaz de montar cuatro grandes escudos a costa de potencia de motor, haciéndolo uno de los más resistentes pero también uno de los destructores más lentos disponibles.  </t>		 
+		 <t id="55517">El acorazado Vengador MK1 de Patrulla Fronteriza fue diseñado para asegurar la frontera Argon. Debido a su pequeño tamaño para un acorazado es bastante rápido y ágil. </t>
+		 <t id="55518">La flota Terran depende cada vez más de la versión mejorada del Centurión, el Klendathu. Posee dos bahías adicionales de armas y tres huecos adicionales para torretas medianas. Debido a su ligeramente mayor masa, es algo más lento y menos maniobrable, pero sigue estando entre uno de los destructores de ataque más rápidos.</t>
+		 <t id="55519">El Eratos fue la respuesta al súper portanaves Arawn de los Argon. Tras varios años de desarrollo, la Sagrada Orden de los Paranid sorprendió a los Argon y a los Teladi con la construcción del primer Eratos. Bahías adicionales para naves de tamaño M y una mayor maniobrabilidad, además de una potencia de fuego comparable al Arawn hacen de este súper portanaves un oponente temible en el campo de batalla, incluso con su blindaje ligeramente reducido.</t>
+		 <t id="55520">El Vengador MK2 es el sucesor directo del acorazado Vengador MK1. Una parte central adicional con torretas extras y muelles de atraque hacen del MK2 una versión más poderosa pero también menos ágil que el MK1. Debido a su lentitud y maniobrabilidad, el Vengador MK2 es usado principal para operaciones de asedio. </t>
+		 <t id="55521">El Martillo del Destino de los Paranid es un destructor rápido y ágil con una buena potencia de fuego pero que sólo tiene tres huecos para generadores de escudos. El destructor es usado a menudo como una fuerza de ataque rápida hasta que puedan llegar verdaderas naves capitales. </t>
+		 <t id="55522">El Kraken de los Teladi es una versión más avanzada del acorazado Scylla con mayor potencia de fuego y blindaje a costa de agilidad y velocidad. </t>
+		 <t id="55523">Debido a sus 6 grandes motores, el Cometa de los Teladi es uno de los destructores más rápidos y ágiles. Armado con 3 torretas grandes, 9 torretas medianas y una arma grande. Su propósito principal es cazar y destruir naves enemigas que entran en el espacio Teladi. Se usa también a menudo para cazar piratas secuestrando naves comerciantes o para escoltar cargueros a través de territorio peligroso. </t>
+		 <t id="55524">El Megatransporte Millennium fue creado por la Compañía Comercial teladi y es, hasta la fecha, el mayor carguero y más avanzado tecnológicamente que se ha producido. Fue diseñado para transportar enormes cantidades de bienes hacia y desde planetas remotos. Por lo tanto, tiene tres enormes bahías de carga y seis muelles de atraque. </t>
+		 <t id="55525">El acorazado de clase Ejecutor fue diseñado como una nave de ataque fuertemente armada y blindada. Sólo tiene un pequeño hangar de naves y dos muelles de atraque, lo que lo hace vulnerable a cazas rápidos. Son usados con frecuencia por las Fuerzas de Defensa Teladi como escolta de cazas y destructores para que los Ejecutores puedan concentrar su devastadora potencia de fuego en objetivos más importantes, ya sean bases estelares u otros acorazados. </t>
+		 <t id="55526">Debido a la necesidad de un destructor rápido, la Fuerza de Defensa Espacial Antigone rediseñaron el chasis del Excalibur con un motor extra pero con menos espacio para blindaje y escudos. Aunque el Excalibur tiene más torretas de tamaño M y L, el Merlín está equipado con dos armas frontales.</t>	 
+		 <t id="55527">El Astrónomo de la Santa Orden de los Paranid es un destructor versátil que fue diseñado para dar apoyo y defender naves más grandes. Aunque no tiene realmente ningún punto fuerte, tampoco tiene ninguna debilidad. </t>
+		 <t id="55528">El Sanahar es la mayor nave de carga de la República Antigone que fue diseñada como una nave de transporte gigante y barata. Sus tres principales sectores de almacenamiento pueden albergar grandes cantidades de cargamento, pero sus motores tienen poca potencia para una nave tan grande. Esta nave de transporte se ha diseñado únicamente para transportar bienes a sectores seguros, por lo que no está bien defendida y necesita apoyo para envíos a áreas peligrosas del espacio.</t>		 
+		 <t id="55529">Para cumplir con la eterna creciente demanda de bienes en las regiones exteriores del Imperio Paranid, la Cámara de Comercio Intergaláctica desarrolló su primer megatransporte, el Lyranea. </t>
+		 <t id="55530">Como la mayoría de las naves militares Split, el Huracán es rápido y mortal. Los Split la diseñaron como un destructor de vanguardia para resistir contra el enemigo tanto tiempo como fuese posible y entrar en combate hasta que llegasen los refuerzos.</t>
+		 <t id="55531">Después de observar las actividades del xenón, se identificó el Xenon Q como un desarrollo posterior del Xenon K.</t>
+		 <t id="55532">Debido al aumento de demanda de naves con mayor capacidad de transporte y minería, los Split desarrollaron el Astral, una nave modular con un diseño altamente versátil. Dependiendo de su propósito, se puede diseñar como un gran carguero o una nave de minería. La nave de minería Astral tiene una enorme capacidad de minado y puede aguantar incluso pequeñas amenazas.</t>
+		 <t id="55533">Debido al aumento de demanda de naves con mayor capacidad de transporte y minería, los Split desarrollaron el Astral, una nave modular con un diseño altamente versátil. Dependiendo de su propósito, se puede diseñar como un gran carguero o una nave de minería. La nave de extracción de gas Astral está equipada con un módulo de recolección extremadamente eficiente y puede aguantar hasta pequeñas amenazas.</t>
+		 <t id="55534">Debido al aumento de demanda de naves con mayor capacidad de transporte y minería, los Split desarrollaron el Astral, una nave modular con un diseño altamente versátil. Dependiendo de su propósito, se puede diseñar como un gran carguero o una nave de minería. El Megatransporte Astral ofrece la mayor capacidad de transporte de entre las naves Split.</t>
+		 <t id="55535">El Corazón Valeroso es un destructor pesado con misiles de la flota Argon. Además de sus numerosas lanzaderas de misiles, puede ser equipado con diversas armas y torretas pesadas. Es relativamente rápido y hace de excelente escolata para acorazados o portanaves lentos.</t>
+		 <t id="55536">La nave minera de gas Polaris es una versión más pequeña de la Rahanas, que fue diseñada como una nave modular. Comparada con las típicas naves mineras de gas, tiene un ratio de extracción mayor, pero sacrificando a cambio algo de espacio de almacenamiento. Está bien armada para ser una nave minera y puede operar sin ayuda.</t>
+		 <t id="55537">La Rahanas fue diseñada como una nave modular, lo que la hace adecuada para diversas misiones. Esta variante fue diseñada como una gran nave minera de gas. Tiene el doble de espacio de almacenamiento que su hermana pequeña, la Polaris, pero es más lenta. Su capacidad de minería es ligeramente mayor comparada con las típicas naves mineras de gas.</t>
+		 <t id="55538">El carguero Polaris es una versión más pequeña de la Rahanas, diseñada como una nave modular. Es relativamente rápida y tiene un armamento decente, lo que la hace adecuada para operaciones en sectores con peligro.</t>
+		 <t id="55539">La Rahanas fue diseñada como una nave modular, lo que la hace adecuada para diversas misiones. Esta variante fue diseñada como un gran carguero. Un enorme espacio de almacenamiento y velocidad aceptable hacen de este carguero una buena inversión.</t>
+		 <t id="55540">El Dreadnought es un acorazado enorme, diseñado para destruir cualquier amenaza. Tiene muchas armas pesadas y un excelente blindaje y escudos. Su única debilidad es su velocidad e inercia. Allá donde aparezca un Dreadnought, inspira miedo y terror.</t>
+		 <t id="55541">Khaak Queen Poco se sabe sobre este barco, ya que se ha visto muy raramente. Al principio, no se creyeron realmente los informes de los pilotos sobre este barco. Hasta el día en que este único barco destruyó toda una planta de energía solar. </t>
+		 <t id="55542">La Arrakis es un destructor pesado con una potencia de fuego frontal inmensa y un blindaje excelente. El problema radica en su inercia, que hace que como destructor tenga un uso limitado a la hora de cazar enemigos. Por ello, la Arrakis opera principalmente con interceptores rápidos, que entretienen al enemigo hasta que llegue el destructor y acabe con él.</t>
+		 <t id="55543">Las naves mineras de clase Segador pueden operar lejos de casa. Pueden transportar una enorme cantidad de gas líquido a alta presión. Está bien defendido para ser una nave minera.</t>
+		 <t id="55544">Las naves mineras de clase Segador pueden operar lejos de casa. Pueden transportar una enorme cantidad de recursos y, por lo general, están bien defendidas.</t>
+		 <t id="55545">El Portaestrellas es un carguerro con una bahía de carga inmensa. No es particularmente rápido, pero tiene un armamento decento para ser una nave de transporte.</t>
+		 <t id="55546">El Ragnarok es un destructor pesado, diseñado por la Fuerza de Defensa Teladi. Fue diseñado con la intención de equilibrar potencia de fuego, blindaje y maniobrabilidad. Los informes de diversas operaciones militares hablan por sí solos.</t>
+		 <t id="55547">La Flota Estelar Paranid buscaba un acorazado con un armamento excepcional capaz de destruir instalaciones fuertemente fortificadas en el menor tiempo posible. Tras años de desarrollo, crearon el Terror. Como nave de ataque pura, tiene varias armas frontales y torretas. Será mejor que no lo ataques de frente.</t>
+		 <t id="55548">El Espejismo es una nave minera excelente. Dispone de tres motores grandes que le otorgan una gran velocidad, a pesar de su gran bodega de carga. Debido al aumento de la frecuencia de los ataques Khaak y Xenon, la nave ha sido equipada con torretas de defensa adicionales y escudos, lo que le permiten realizar sus funciones incluso en áreas peligrosas.</t>
+		 <t id="55549">El Espejismo es una nave minera excelente. Dispone de tres motores grandes que le otorgan una gran velocidad, a pesar de su gran bodega de carga. Debido al aumento de la frecuencia de los ataques Khaak y Xenon, la nave ha sido equipada con torretas de defensa adicionales y escudos, lo que le permiten realizar sus funciones incluso en áreas peligrosas. </t>		 
+		 <t id="55550">La Aurora es una gran nave de transporte al servicio de los paranidas. Es bastante rápida y maniobrable para su clase, pero tiene un armamento y una capacidad de transporte moderados.</t>
+		 <t id="55551">Equipado con un módulo de carga adicional, el Calypso tiene un tercio más de espacio de carga que el Aurora. Debido a su menor maniobrabilidad y velocidad y, por lo tanto, a su vulnerabilidad a los ataques piratas, se instalaron torretas de armas adicionales.</t>
+	
+	 </page> 
+	 <page id="87102" title="Variations" descr="Variations" voice="no">
+		 <t id="101">Punta de Lanza</t>
+		 <t id="201">Guardián</t>
+		 <t id="301">Línea Alfa</t>
+		 <t id="401">Primera Guardia</t>
+		 <t id="501">Escolta</t>
+		 <t id="601">Transporte Fortificado</t>
+		 <t id="701">Punta de Lanza</t>
+		 <t id="801">Sentinel</t>
+		 <t id="901">Centinela</t>
+		 <t id="1001">Espacio Profundo</t>
+		 <t id="1002">Guardia Espacial</t>
+		 <t id="1101">Interestelar</t>
+		 <t id="1102">Nave Nodriza</t>
+		 <t id="1201">Patrulla Fronteriza</t>
+		 <t id="1301">Flota Estelar</t>
+		 <t id="1401">Defensor</t>
+		 <t id="1501">Megatransporte</t>
+		 <t id="1601">Fuerza Estelar</t>
+		 <t id="1701">Gigante</t>
+		 <t id="1801">Súper</t>
+	</page> 
+	 <!--
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {87102,501} {20221,4001}</t>			 
+		 <t id="55502">Tiburón {87102,301} {20221,4001}</t>			 
+		 <t id="55503">Taranis {87102,101} {20221,5031}</t>			 
+		 <t id="55504">Arawn {87102,1102} {20221,5001}</t>			 
+		 <t id="55505">Sucellus {87102,301} {20221,5031}</t>			 
+		 <t id="55506">Jabalí {20221,5031}</t>			 
+		 <t id="55507">Titurel {87102,601} {20221,3031}</t>	
+		 <t id="55508">Scaldis {87102,101} {20221,5001}</t>	
+		 <t id="55509">Scylla {87102,801} {20221,5031}</t>	
+		 <t id="55510">Boann \(Gas\) {87102,901} {20221,3041}</t>	
+		 <t id="55511">Horizonte de Sucesos \(Gas\) {87102,1001} {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Mineral\) {87102,1001} {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Mineral\) {87102,1101} {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gas\) {87102,1101} {20221,3041}</t>	
+		 <t id="55515">Thanatos {87102,401} {20221,5031}</t>	
+		 <t id="55516">Excalibur {87102,1201} {20221,4001}</t>	
+		 <t id="55517">Vengador MK1 {87102,1201} {20221,5031}</t>	
+		 <t id="55518">Barracuda {87102,301}</t>	
+		 <t id="55519">Erebos {87102,1102} {20221,5001}</t>	
+		 <t id="55520">Vengador MK2 {87102,1201} {20221,5031}</t>	
+		 <t id="55521">Martillo del Destino {87102,1002} {20221,4001}</t>	
+		 <t id="55522">Kraken {87102,801} {20221,5031}</t>	
+		 <t id="55523">Cometa {87102,1301} {20221,4001}</t>	
+		 <t id="55524">Millennium {87102,1501} {20221,3031}</t>	
+		 <t id="55525">Ejecutor {87102,1601} {20221,5031}</t>	
+		 <t id="55526">Merlín {87102,1201} {20221,4001}</t>	
+		 <t id="55527">Astrónomo {87102,1002} {20221,4001}</t>	
+		 <t id="55528">Sanahar {87102,1701} {20221,3031}</t>	
+		 <t id="55529">Lyranea {87102,1801} {20221,3031}</t>	
+		 <t id="55530">Huracán {20221,4001}</t>	
+	 </page> 	
+	 -->
+	 
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {20221,4001}</t>			 
+		 <t id="55502">Centurión {20221,4001}</t>			 
+		 <t id="55503">Taranis {20221,5031}</t>			 
+		 <t id="55504">Arawn {20221,5001}</t>			 
+		 <t id="55505">Sucellus {20221,5031}</t>			 
+		 <t id="55506">Jabalí {20221,5031}</t>			 
+		 <t id="55507">Titurel {20221,3031}</t>	
+		 <t id="55508">Scaldis {20221,5001}</t>	
+		 <t id="55509">Scylla {20221,5031}</t>	
+		 <t id="55510">Boann \(Gas\) {20221,3041}</t>	
+		 <t id="55511">Horizonte de Sucesos \(Gas\) {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Mineral\) {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Mineral\) {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gas\) {20221,3041}</t>	
+		 <t id="55515">Thanatos {20221,5031}</t>	
+		 <t id="55516">Excalibur {20221,4001}</t>	
+		 <t id="55517">Vengador MK1 {20221,5031}</t>	
+		 <t id="55518">Klendathu {87102,301}</t>	
+		 <t id="55519">Erebos {20221,5001}</t>	
+		 <t id="55520">Vengador MK2 {20221,5031}</t>	
+		 <t id="55521">Martillo del Destino {20221,4001}</t>	
+		 <t id="55522">Kraken {20221,5031}</t>	
+		 <t id="55523">Cometa {20221,4001}</t>	
+		 <t id="55524">Millennium {20221,3031}</t>	
+		 <t id="55525">Ejecutor {20221,5031}</t>	
+		 <t id="55526">Merlín {20221,4001}</t>	
+		 <t id="55527">Astrónomo {20221,4001}</t>	
+		 <t id="55528">Sanahar {20221,3031}</t>	
+		 <t id="55529">Lyranea {20221,3031}</t>	
+		 <t id="55530">Huracán {20221,4001}</t>	
+		 <t id="55532">Astral \(Mineral\) {20221,3041}</t>	
+		 <t id="55533">Astral \(Gas\) {20221,3041}</t>	
+		 <t id="55534">Astral {20221,3031}</t>	
+		 <t id="55535">Corazón Valeroso {20221,4001}</t>	
+		 <t id="55536">Polaris \(Gas\) {20221,3041}</t>	
+		 <t id="55537">Rahanas \(Gas\) {20221,3041}</t>	
+		 <t id="55538">Polaris {20221,3031}</t>	
+		 <t id="55539">Rahanas {20221,3031}</t>	
+		 <t id="55540">Dreadnought {20221,5031}</t>	
+		 <t id="55541">Reina {20221,4001}</t>	
+		 <t id="55542">Arrakis {20221,4001}</t>	
+		 <t id="55543">Segador \(Gas\) {20221,3041}</t>	
+		 <t id="55544">Segador \(Mineral\) {20221,3041}</t>	
+		 <t id="55545">Portaestrellas {20221,3031}</t>	
+		 <t id="55546">Ragnarok {20221,4001}</t>	
+		 <t id="55547">Terror </t>	
+		 <t id="55548">Espejismo \(Gas\) {20221,3041}</t>		 
+		 <t id="55549">Espejismo \(Mineral\) {20221,3041}</t>			 
+	 </page> 
+	 
+	 <page id="88001" title="Jobs" descr="Names and descriptions of ship jobs" voice="yes">
+		<t id="00001">Acorazado Patrullero</t>	
+	 </page> 
+	 
+	 	 <page id="88002" title="Licences" descr="Licences" voice="no">
+			<t id="00001">Licencia de Nave de clase Súpercapital</t>	
+			<t id="00002">Licencia de Nave de Clase Destructor</t>	
+	 </page> 
+
+	 <page id="21221" title="Ship classes" descr="classes" voice="yes">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>		
+	 </page> 
+	</add>
+
+	
+	<add sel="/language/page[@id='20221']">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>	
+	</add>
+</diff>

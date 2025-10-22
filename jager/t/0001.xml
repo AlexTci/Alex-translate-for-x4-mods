@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999336" title="Jager" descr="Jager" voice="yes">
+			<t id="1">Jager</t>
+			<t id="2">(Jager) {999336,4}</t>
+			<t id="3">
+Quickly after the jump gates re-opened, the Vigor syndicate which had otherwise retained a firm stronghold onto its limited assets realized it needed to increase its fleets firepower if it was to survive the coming changes. Be it providing "protection" for its salvager and mining crews, or defending its raiding fleets largest ships against increasingly aggressive Ministry fleets.
+
+While the fighter doctrine of the syndicate worked out well, there was a limit as to how much they could escalate a given engagement, needing ever more fighters to counter bigger fleets of drones or small craft could quickly turn costly, both in resources and pilots.
+
+As such, when the Riptide Rakers built their new Baldur class transporters the Syndicate was quick to appropriate the design in order to see how it could be applied for more military purposes. The Jager class was the first of such attempts.
+
+Having limited experience building corvettes and frigates, the Syndicate stuck to a similar design philosophy that worked well for their much larger Barbarossa class vessels: Let's take a cargo ship, remove some of the cargo space, and see how many guns we can bolt onto it.
+
+The end result speaks for itself, the Jager class much resembles the Baldur cargo ship it was based on, but lacks much of the cargo space it has. Instead it comes with no less than 8 turret hardpoints, with firing arcs surrounding almost every angle of the ship, earning its apt nickname of "gun porcupine"
+
+Since the Vigor Syndicate has only limited resources the ship does not boast any larger main battery armament, and their lack of design experience ensured the Jager would be mostly similar to its original design, only being upgraded with a single additional shield, Its engine performance remained much the same thanks to a lack of space and sufficiently strong power supply, causing the Jager corvette to be quite slow, even for gunboat standards.</t>
+			<t id="4">Jager</t>
+		</page>
+	</add>
+</diff>

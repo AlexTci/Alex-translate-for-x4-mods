@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+    <page id="950000601" title="Viking" descr="M" voice="yes">
+     <t id="10001">Viking</t>
+	   <t id="10005">This Ship is an addition to Easy Life, it is more or less cheating. It holds tons of people for the missions, is a very good fighter, almost undestructable, kills even Ks without much of a sweat and has the looks of a absolutely beautiful ship in the game, the Dragon. Lean back and enjoy your Easy Life in X4.</t>
+     <t id="10002">(Viking Vanguard){950000501,10001} {950000501,10003}</t>
+  	 <t id="10003">Vanguard</t>
+  	 <t id="10004">Fast Corvette</t>
+	  </page>
+  </add>
+</diff>

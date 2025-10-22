@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+	<!-- "kuertee: Waypoint fields for deployments" = "kWFFD" = "11 23 6 6 4" = "23664" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="23664" voice="no">
+		<t id="1">kuertee: Waypoint fields for deployments</t>
+		<!-- config -->
+		<t id="2">Debug log</t>
+		<t id="3">Do debug function</t>
+		<t id="4">Size / radius multiplier</t>
+		<t id="5">Auto-restock deployables</t>
+		<!-- map ui text -->
+		<t id="1000">Waypoint Field</t>
+		<t id="1001">Shape</t>
+		<t id="1002">(shape)Cube</t>
+		<t id="1003">(shape)Sphere</t>
+		<t id="1004">(shape)Wall</t>
+		<t id="1005">Size / Radius</t>
+		<t id="1006">Actions</t>
+		<t id="1007">Show Preview</t>
+		<t id="1008">Allow Deployments</t>
+		<t id="1009">Pause Deployments</t>
+		<t id="1010">Hide Preview</t>
+		<t id="1011">Create Waypoint Field</t>
+		<t id="1012">Density (based on radar/weapon range)</t>
+		<t id="1013">Area Multiplier</t>
+		<t id="1014">Abort and Retrieve</t>
+		<t id="1015">Complete mission: %1(original mission name)</t>
+		<t id="1016">Show Original Mission</t>
+		<t id="1017">Show Waypoint Field mission</t>
+		<t id="1018">Create a Waypoint Field on the map</t>
+		<t id="1019">Deploy: %1(deployable)</t>
+		<t id="1020">Activate then create a Waypoint Field on the map</t>
+		<t id="1021">(Density)Optimal \(range x1\)</t>
+		<t id="1022">(Density)Light \(range x2\)</t>
+		<t id="1023">(Density)Sparse \(range x3\)</t>
+		<t id="1024">(Density)Weak \(range x4\)</t>
+		<t id="1025">(shape)Rectangular Plane</t>
+		<t id="1026">(shape)Disc Plane</t>
+		<t id="1027">(set_objective text)%1(deploy name), %2(deployed) / %3(waypoints count)</t>
+		<t id="1028">(mission panel action)Assign A Ship</t>
+		<t id="1029">(mission panel action)Show Assigned Ship \(%s\)</t>
+		<t id="1030">(Density)Inadequate \(range x5\)</t>
+		<t id="1031">(Density)Flawed \(range x10\)</t>
+		<t id="1032">Activate then create a Waypoint Field</t>
+		<t id="1033">Replace Waypoint Field</t>
+		<t id="1034">(Density)Packed \(range x2, no gaps\)</t>
+		<!-- orders -->
+		<t id="2000">Collect Deployables in Range</t>
+		<t id="2001">Collect Deployables for Commander</t>
+		<!-- notification/log book -->
+		<t id="3000">Restock Deployables</t>
+		<t id="3001">Your ship, %1(ship),\nrestocked %2(count) x %3(deployable) at %4(station) for %5(credits).</t>
+	</page>
+</language>

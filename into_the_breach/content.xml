@@ -1,0 +1,4 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<content id="IntoTheBreach" name="Into The Breach - A Station Boarding Mod" description="Абодаж и захват станций!" author="cheapman44" version="02" date="2025-07-29" save="0" enabled="1">
+<dependency id="ego_dlc_terran" version="100" optional="true" />
+</content>

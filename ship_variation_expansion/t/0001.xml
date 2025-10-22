@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="6920200" voice="no">
+			<t id="1">Xenon hack detected!</t>
+			<t id="2">Warning: Picking up multiple Xenon signatures in the area, proceeding is not advised.</t>
+			<t id="3">Warning: Strong Xenon signatures detected, are you certain whatever you are doing is worth it?</t>
+			<t id="4">Warning: Picking up multiple faint ship signatures. Caution advised.</t>
+			<t id="5">Warning: Engine malfunction.</t>
+			<t id="6">"Terran distress signal detected, approximate range: 50km"</t>
+		</page>
+		<page id="6920201" title="Kea" descr="Kea" voice="yes">
+			<t id="1">Kea</t>
+			<t id="2">The Kea is a more heavily armed and armored version of the Peregrine gunship, using the chassis of the Cormorant - the transport version of the Peregrine.\n\nIn addition to additional armor, the Kea also boasts two more turrets as well as additional hardpoints. These upgrades do come at the cost of speed and agility however. While it is an expensive ship to produce, and even though it does not possess the ability to carry fighters, it is non the less a powerful warship that brings more firepower to bear than most frigates or gunships do. As such it lends itself well to fighting smaller craft as well as larger vessels.</t>
+		</page>
+		<page id="6920202" title="Tartarus" descr="Tartarus" voice="yes">
+			<t id="1">Tartarus</t>
+			<t id="2">The Tartarus is a battleship of Paranid design. While it is faster and more nimble than other ships of its class its hull is also far weaker than that of other battleships. Instead the Tartarus favours heavy shielding, the heaviest of all battleships in fact. Even though it holds a good amount of large turrets it lacks somewhat in anti-fighter capabilities, instead relying on escorts.</t>
+			<t id="3">The newest version of the Tartarus-class battleship line, featuring a better turret layout than previous versions as well as swapping some of the previous shielding for a sturdier hull. While the Tartarus-class is faster and more nimble than other ships of its size and holds a good amount of large turrets, it lacks somewhat in anti-fighter capabilities, instead relying on escorts.</t>
+		</page>
+		<page id="6920203" title="Centaur" descr="Centaur" voice="yes">
+			<t id="1">Centaur</t>
+			<t id="2">The Centaur MK2 is a heavy battleship developed by the argon. Having gone through several iterations, the Centaur MK2 was recently finished and offically adopted into service. A durable hull and decent shields make the Centaur a viable backbone for any naval force, be that in offensive or defensive roles. The shipclass is armed with 16 capital-class turrets and two destroyer batteries alongside an array of smaller anti-figther platforms. While the ship does not feature launchbays for drones, as many other battleships do, it can non the less quickly deploy up to 8 figthers or dones at once by using its forward mounted landing pads.</t>
+			<t id="3">(Centaur Mk2){20101,12801} {20111,201}</t>
+		</page>
+		<page id="6920204" title="Caiman" descr="Caiman" voice="yes">
+			<t id="1">Caiman</t>
+			<t id="2">Development on the Caiman frigate started before the gate shutdown, with the first prototype being built shortly before the incident. After the rediscovery and expansion into the old and new clusters the plans for the Caiman were scrapped and instead a miningship, using the Caimans frame - the Lindworm, was developed to support the ongoing re-colonization efforts.\n\nPlans for the Caiman have been picked up again and by now some models of it can be found across split space. The Caiman is classified as a heavy frigate even though it is much bigger than most frigates, and more in line with modern destroyers. Despite its size the caiman is less sturdy than other combat ships of its weightclass. Non the less it is well armed and quite fast, making it a versatile combat ship suitable for many roles.</t>
+		</page>
+		<page id="6920205" title="Scorpion" descr="Scorpion" voice="yes">
+			<t id="1">Scorpion</t>
+			<t id="2">The Scorpion is a makeshift combat ship produced by the Free Families following their defeat against the Patriarchy. Since the Scorpion is built on the hull of the Alligator it primarily relies on its speed, rather than its defences, to survive. While the Scorpion features a slightly increased hull integrity compared to its sistership, it can non the less not stand up against any frigate or compareable gunship in a direct fight. Additional shielding can be installed to increase survivability, yet this change came at the cost at some of the Alligators speed. Most of the original storage components of the ship have been converted to house missleracks, making the Scorpion an effective missleboat.</t>
+		</page>
+		<page id="6920206" title="Gharial" descr="Gharial" voice="yes">
+			<t id="1">Gharial</t>
+			<t id="2">The Gharial is a heavy split battleship, well armed and protected with turrets, destroyer-class weapons and strong shields. While the ship has more firepower than any other battleship it is somewhat vulnerable to massed fighter attacks and can not carry its own escort ships into battle as most other battleships can. Yet it can easily take on large amounts of enemies, some even say entire fleets!</t>
+			<t id="3">The Gharial MK1 was a prototype of the now commonly built Gharial-class, it is not being produced anymore and all known models have been converted, scrapped or went MIA. Compared to the more modern Gharial, the MK1 has stronger shields and is more versatile, yet lacks the firepower and speed of its sisterships..\n\nAll in all three prototypes were built by the Split, one of which got lost on an expedition into Xenon territory. Commanded by renowned Split captain Z1p'tk the fleet fought back the Xenon in several sectors, eventually leading them into the Emperors Pride system. After reports of several engangements contact was lost and the fleet deemed destroyed. No survivors or traces of the fleet were ever found during search and rescue operations.</t>
+			<t id="4">(Gharial Mk1){20101,42501} {20111,101}</t>
+		</page>
+		<page id="6920207" title="Fulmar" descr="Fulmar" voice="yes">
+			<t id="1">Fulmar</t>
+			<t id="2">The Fulmar is the answer of the Teladi to the other races producing battleships. The ships front is covered in 4 heavy-destroyer class weapon systems alongside 6 heavy turrets, giving the Fulmar an insane amount of forward facing firepower, making the Fulmar very effective at frontal attacks and breaking enemy formations. The rest of the body is similarily covered in medium and large sized turrets, enabling to Fulmar to engage enemies all around of itself all at once. The ship also features the strongest hull integrity of all battleships as well as decent shielding.</t>
+		</page>
+		<page id="6920208" title="Baku" descr="Baku" voice="yes">
+			<t id="1">Baku</t>
+			<t id="2">The Baku is a modified freighter version of the Drill. Originally envisioned as a Blockaderunner by its designers, the Baku boosts better shielding, weapons and speed than the Drill. Its cargospace was converted to carry containers instead of ore and its crewcapacity was largely increased, giving it an unusually large crew capacity or a ship of its size. Due to those changes the Baku is commonly seen with same pirate crews that favour its balance between speed, armament and cargo space while also being able to carry multiple boarding teams.</t>
+		</page>
+		<page id="6920209" title="Manticore" descr="Manticore" voice="yes">
+			<t id="1">Manticore</t>
+			<t id="2">The Manticore-class is the Argon response to the Split deploying the Caiman Heavy Frigate. It is itself a Heavy Frigate that trades large turrets capacity for a powerful destroyer-class main gun and improved manouverability. The Manticore is a ship well suited to all situations and capable of taking on ships much bigger than itself.</t>
+			<t id="3">A modified version of the Manticore-class heavy frigate. Pirates commonly modify their ships to increase the cargo capacity by reducing internal hull structure and convertig missle and drone storage to cargo space. This version of the ship is less arnoured and armed than its parentmodel, yet features more cargo space and speed.</t>
+			<t id="4">(Manticore Raider){20101,13601} {20111,1001}</t>
+			<t id="5">(Argon Manticore){20206,201} {20101,13601}</t>
+		</page>
+		<page id="6920210" title="Taipan" descr="Taipan" voice="yes">
+			<t id="1">Taipan</t>
+			<t id="2">The Taipan was another ship that was in development before the jumpgate shutdown. Conceptualized as a heavy corvette, the idea of the Taipan was to attack larger ships with hit-and-run attacks. Shortly before the incident the project was scrapped and the blueprints ordered to be destroyed and later picked up again and converted to a civilian freighter, yet after the reactivation of the gates several ships of the warship class were seen fielded by the Free Families before their conflict with Zyarth, suggesting that the plans for the Taipan survived in their territory.\n\nSince the Victory of Zyarths forces over those of the Free Families, the Patriarchy started fielding their own ships of the class.</t>
+		</page>
+		<page id="6920211" title="Basilisk" descr="Basilisk" voice="yes">
+			<t id="1">Basilisk</t>
+			<t id="2">The Basilisk is a heavy Argon warship. Developed for service on the front lines it is more heavly armored than the Behemoth but sacrifices carrying capacity as well as shielding for more firepower. While the Basilisk is classified as a destroyer officially, in reality it sits somewhere between a battleship and a destroyer. The Basilisk has proven its worth in skirmishes against the Split as well as the Xenon, yet as it is substantially more expensive to produce than the Behemoth-class and as such has not replaced the Behemoth line yet and comparibly few can bee seen patrolling Argon space.</t>
+		</page>
+		<page id="6920212" title="Griffon" descr="Griffon" voice="yes">
+			<t id="1">Griffon</t>
+			<t id="2">The Griffon is a battleship deployed by the antigone republic. While it is lighter than the battleships of some other races it still is a force to be reckoned with. Recent upgrades to the ships offensive and defensive systems have highly increased its versatility and effectiveness. Armed with 10L-class turrets and 3 destroyer batteries it has a lot of forward facing as well as broadside firepower.</t>
+		</page>
+		<page id="6920213" title="Hatram" descr="Hatram" voice="yes">
+			<t id="1">Hatram</t>
+			<t id="2">The Hatram is an XL sized multipurpose ship. Designed by a joint-group of Argon, Paranids and Teladi after the jumpgate reactivation to be able to help the recolonization efforts (after the gate recovery) in any way possible, it is capable of getting nearly every job done - from cargo hauling, to combat - it can do it all. Yet while it can carry out nearly any activity, it can not do so as well as dedicated ships. While the Hatram is not in large scale use anymore one can still find it amongst corporations and pirates alike, who favour its versatility and modular design.</t>
+			<t id="3">The Hatram mining variant of the Hatram XL freigther. Designed by a joint-group of Argon, Paranids and Teladi after the jumpgate reactivation to be able to help the recolonization efforts (after the gate recovery), it is capable of hauling large amounts of minerals. While the Hatram Miner is not in large scale use anymore one can still find it amongst corporations who favour its large cargo hold and defensive abilities.</t>
+			<t id="4">(Hatram Minerals){20101,120401} {20111,3101}</t>
+		</page>
+		<page id="6920214" title="Skua" descr="Skua" voice="yes">
+			<t id="1">Skua</t>
+			<t id="2">The Skua is a Teladi built Interceptor. Based on the Kestrel it is unusually fast for a Teladi fighter. Yet compared to other Teladi fighters it is rather fragile. It sports three weapon mounts - more than most other interceptor craft. Its agility and speed make it perfect for hunting down enemy strikecraft and Skuas can often been seen hunting down pirates and Xenon fighters.</t>
+		</page>
+		<page id="6920215" title="R" descr="R" voice="yes">
+			<t id="1">R</t>
+			<t id="2">While nothing is really known for cetrain about the R-class (just as with any other xenon ship) from what can be observed it seems to be built on the same hull as the K. Compared to the K it is reported to have more firepower, and as such sits between the K and the I-class.</t>
+		</page>
+		<page id="6920216" title="Pallas" descr="Pallas" voice="yes">
+			<t id="1">Pallas</t>
+			<t id="2">Fielded by the paranid, the Pallas class is a heavy frigate used mainly in support and escort roles. While it does not have the fire- nor stayingpower of other heavy frigate classes it offers a decent amount of firesupport against any target. Good turret layout makes it a potent anti-fighter defense platform. Its 3 main batteries are located on the ships belly, enabling it to rain down destruction on any enemy it can get on top of.</t>
+			<t id="3">The reimagined version of the Pallas-class heavy frigate. Compared to the old class, the upgraded version has its firepower spread more evenly across the ship, while also being beefier and somewhat slower than the old version. Non the less, the Pallas remains a capable ship which sees service with the navies of various Paranid factions.</t>
+		</page>
+		<page id="6920217" title="Razorbill" descr="Razorbill" voice="yes">
+			<t id="1">Razorbill</t>
+			<t id="2">The Razorbill is a heavy frigate of Teladi origin. A heavy and well armored ship, for its size, it can often be seen patrolling sectors and escorting other ships. While the Razorbill is very durable it is not as heavily armed as most other ships of its class. Non the less it is favoured by the Teladi Minsitry of Finance as a patrol and enforcement craft.</t>
+			<t id="3">A modified version of the Razorbill-class heavy frigate. Pirates commonly modify their ships to increase the cargo capacity by reducing internal hull structure and convertig missle and drone storage to cargo space. This version of the ship is less arnoured and armed than its parentmodel, yet features more cargo space and speed.</t>
+			<t id="4">(Razorbill Raider){20101,22301} {20111,1001}</t>
+		</page>
+		<page id="6920218" title="Sokotra" descr="Sokotra" voice="yes">
+			<t id="1">Sokotra</t>
+			<t id="2">The Sokotra is a ship of unknown origin, likely constructed in some backwater wharf. Not much is known about it other than that it is built from scrapped parts of other ships. It is a well armored and shielded ship, making it a safe way of ferrying goods especially in more dangerous systems. The Sokotra is commonly modified by pirates to increase the armament of the ship, making it a formidable plunder, capable of carrying large amounts of stolen goods while keeping its excellent defenses. As such it comes to no suprise that the ship is commonly associated with pirates.</t>
+			<t id="3">(Sokotra Raider){20101,80801} {20111,1001}</t>
+		</page>
+		<page id="6920219" title="Python" descr="Python" voice="yes">
+			<t id="1">Python</t>
+			<t id="2">The Python is a tough warship, larger than a destroyer but smaller than a battleship, that is usually classified as a cruiser or pocket-battleship. While its armament is more compareable to that of destroyers rather than battleships, it has decent shielding and a strong hull for its size making it a dangerous opponent to go up against. Ships of this type are usually deployed as a show of force, where destroyers are not sufficient but battleships not required.\n\n\n\nModel Author: KrYcHokE</t>
+		</page>
+		<page id="6920220" title="Viper" descr="Viper" voice="yes">
+			<t id="1">Viper</t>
+			<t id="2">The Viper is a highly modern destroyer. The Viper features an unusally large frame for a ship of its size and class and was developed mainly as a support/command and surveillance ship. Due to its many turrets and their layout it fits well into an anti-figther role, yet its speed, versatility and general capabilities have also made it a favourite amongst special-operations forces and it can often be encountered behind enemy lines as well as patrolling and monitoring rebellious systems belonging to the Split. The downsides of the Viper are its below-average hull strength and absence of destroyer-class weaponsystems, as well as its high construction costs. Yet the Viper features 12 internal launctubes which can be used to fire torpedos/missiles, making the ship effective at engaging stations and other large, slow moving, targets.\n\n\n\nModel Author: KrYcHokE</t>
+		</page>
+		<page id="6920221" title="Internal Tube" descr="Internal Tube" voice="yes">
+			<t id="1">Internal Launchtube</t>
+			<t id="2">Internal Missile Launchtube</t>
+			<t id="3">Internal Torpedo Launchtube</t>
+			<t id="4">Internal Launchtube used by the Viper Destroyer to fire rockets/torpedos.</t>
+		</page>
+		<page id="6920222" title="Skiron" descr="Skiron" voice="yes">
+			<t id="1">Skiron</t>
+			<t id="2">The Skiron is a heavy frigate once produced by the Antigone republic. While it features high firepower and decent shields, its armor is underperforming and it is a rather slow and sluggish vessel. It has since been replacd by the Manticore-class within the Argon and Antigone navies, however some models are still in use by pirates and other individuals. Some smaller navies also still employ the Skiron, sometimes in modified variants, mostly as sector-patrols and escorts.</t>
+			<t id="3">(Heavy Skiron) {20111,5211} {20101,12101}</t>
+			<t id="4">reserved for future content</t>
+		</page>
+		<page id="6920223" title="Paracel" descr="Paracel" voice="yes">
+			<t id="1">Paracel</t>
+			<t id="2">The Paracel is a newly developed warship, classified as heavy corvette. It is fast and very durable for a ship of its size and class. Intended to be used as fast-attack craft against larger ships it has weaker anti-fighter defenses than heavy frigates, yet more forward firepower. Not many of the ships have been built and fielded, yet still some already made their way into the hands of pirates...</t>
+			<t id="3">A modified version of the Paracel-class heavy corvette. Modifications have been made to increase cargo space in order to make the ship more suitable to pirating.</t>
+			<t id="4">(Paracel Raider){20101,80601} {20111,1001}</t>
+			<t id="5">A heavily modified version of the Paracel. Having reworked much of the internal structure, engineers have been able to substantionally increase the armament of the ship as well as doubling its shield strength. Yet the increased front-line combat strength comes at the cost of much of the original ships speed, agility and docking capacity. Due to its more heavy shielding and armament the 'Heavy Paracel' serves as a destroyer instead of filling the corvette role that the original was developed for.</t>
+			<t id="6">(Heavy Paracel){20111,5211} {20101,80601}</t>
+			<t id="7">(Argon Paracel){20206,201} {20101,80601}</t>
+		</page>
+		<page id="6920224" title="Minotaur" descr="Minotaur" voice="yes">
+			<t id="1">Minotaur</t>
+			<t id="2">A civilian version of the Minotaur which had its turret emplacements stripped to make way for cargoracks. A fast and reliable craft, often used as a blockaderunner - be that by traders or smugglers.</t>
+			<t id="3">(Minotaur Universal){20101,10501} {20111,2001}</t>
+		</page>
+		<page id="6920225" title="V" descr="V" voice="yes">
+			<t id="1">V</t>
+			<t id="2">The V is the smallest of the Xenon capitalship-classes. Moderately armed and shielded it is heavily covered in light turrets, making it extemely dangerous to smaller craft and effective at escorting Xenon battlegroups.</t>
+		</page>
+		<page id="6920226" title="Kojin" descr="Kojin" voice="yes">
+			<t id="1">Kojin</t>
+			<t id="2">A small Yaki scout ship, it is very fast and agile and can easily escape most situations. The Kojin can often be seen ahead of Yaki raiding parties as well as taking part in raiding wings.</t>
+		</page>
+		<page id="6920227" title="Susanowa" descr="Susanowa" voice="yes">
+			<t id="1">Susanowa</t>
+			<t id="2">The Susanowa is a modified paranid corvette, just like the Kuraokami. However unlike the Kuraokami, the Susanowa focuses on cargo capacity. It is a ship built for smuggling and blockaderunning instead of active raiding. And while the Yaki are pirates and not smugglers they seem to be getting desperate, so one can still enocunter Susanowas from time to time.</t>
+		</page>
+		<page id="6920228" title="Duala" descr="Duala" voice="yes">
+			<t id="1">Duala</t>
+			<t id="2">The Duala is a heavy ship built by various private shipyards. Featuring a spaceous cargohold the Duala sometimes serves as lootcarrier for pirate fleets. Outside of criminal organisations the ship can be observed serving as XL-sized freigther with various corporations.</t>
+			<t id="3">(Duala XL){20101,81001} {20111,3001}</t>
+		</page>
+		<page id="6920229" title="Scimitar" descr="Scimitar" voice="yes">
+			<t id="1">Scimitar</t>
+			<t id="2">The Scimitar is a ship developed and built by the terrans. It is a heavy frigate which, thanks to its high speed and large amount of medium turrets, servers as anti-figther escort within the terran battlegroups.\n\nThe Scimitar features a powerful unique bow-mounted weapon alongside an array of medium and two large turret emplacements. It has good shields and a lot of firepower for its weightclass, with its drawbacks being its inability to mount any missile weaponry as well as the rather weak hull.</t>
+			<t id="3">TER Scimitar Plasma Accelerator</t>
+			<t id="4">Capital-class weapon used by Scimitar-class heavy frigates. Fires a burst of heated plasma projectiles at high speed over large distances.</t>
+			<t id="5">TER Scimitar Beam Array</t>
+			<t id="6">Capital-class weapon used by Scimitar-class heavy frigates. Fires a highpower beamlaser at medium distance, needs some time to cool down after each shot.</t>
+		</page>
+		<page id="6920230" title="Paramerion" descr="Paramerion" voice="yes">
+			<t id="1">Paramerion</t>
+			<t id="2">The Paramerion is based on the design of the Kalis fighter. A strong reduction of armor resulted in a ship with good speed and high manouverability, while keeping the strong shielding of its parent class.</t>
+		</page>
+		<page id="6920231" title="Valkyrie" descr="Valkyrie" voice="yes">
+			<t id="1">Valkyrie</t>
+			<t id="2">A main-line battleship based on the Asgard-class, the Valkyrie drops the Asgards mainweapon and focuses on defenses over firepower. Increased hull integrity and the addition of medium sized turrets for anti-fighter defense make the Valkyrie a versatile craft that is able to operate on its own.</t>
+		</page>
+		<page id="6920232" title="Bishamonten" descr="Bishamonten" voice="yes">
+			<t id="1">Bishamonten</t>
+			<t id="2">The Bishamonten is a ship built by the Yaki, it is made out of captured Paranid destroyers. Compared to the original ships, the Yaki conversions sacrifice firepower for speed and cargo space as well as crew quarters.\n\nThe Yaki do not posses a lot of these big ships, and usually keep them close within their own space and near their hideouts to protect themselves of enemy attacks. Yet sometimes the Bishamonten can be seen going on raids in the space of other factions - usually accompanied by smaller escort craft.</t>
+		</page>
+		<page id="6920233" title="Akurei" descr="Akurei" voice="yes">
+			<t id="1">Akurei</t>
+			<t id="2">The Akurei is built from captured Argon Eclipse fighters. It serves the Yaki as a heavy fighter and can often be seen as part of raiding groups.</t>
+		</page>
+		<page id="6920234" title="Akuma" descr="Akuma" voice="yes">
+			<t id="1">Akuma</t>
+			<t id="2">The Akuma is built from captured Antigone Pulsar fighters. Compared to the original the modell, the Akuma features more missile and cargo capacity while also gaining speed and acceleration, at the cost of agility and some hull integrity.</t>
+		</page>
+		<page id="6920235" title="Fenrir" descr="Fenrir" voice="yes">
+			<t id="1">Fenrir</t>
+			<t id="2">The Fenrir-class destroyer is a modernized version of the Syn. The protectorate recently started modernizing some of their old Syn-class destroyers to be better suited against the threats which the terrans frequently face. Unlike the Syn, the Fenrir carries less firepower in its large turrets and instead emphasizes on speed and the ability to effectively combat smaller craft.</t>
+		</page>
+		<page id="6920236" title="Namazu" descr="Namazu" voice="yes">
+			<t id="1">Namazu</t>
+			<t id="2">Ships of the Namazu-class, commonly known as 'Colony Runners', are large cargo vessels built by the Argon. While they are only very lightly armored, they easily make up for that with strong shielding and excellent speed - putting them amongst the fastest freighters of their size available on the free market.</t>
+		</page>
+		<page id="6920237" title="Nagoya" descr="Nagoya" voice="yes">
+			<t id="1">Nagoya</t>
+			<t id="2">Feeling the need to rely less on the Terran Protectorates security forces in face of worsening relations between the Segaris Pioneers and the Protectorate, it was decided to start building large patrol craft domestically. The result is the Nagoya - a light carrier, on the chassis of the civilian Hokkaido-Freighter class. The Nagoya features stronger shielding than its civilian sibling, furthermore two large gunpods, housing Scimitar-class weaponsystems, have been added - giving the carrier a decent firepower. While the amount of docks has been increased and streamlining the internal structure also resulted in higher speeds, the Nagoya suffers from a weak hull and is in no way compareable to the capabilities of the carriers fielded by other factions.</t>
+		</page>
+		<page id="6920238" title="Mandalay" descr="Mandalay" voice="yes">
+			<t id="1">Mandalay</t>
+			<t id="2">The Mandalay is the most recent ship to leave the shipyards of the Antigone Republic. It mainly serves in screening and patrolling duties, and is becoming a more and more common sight in the Republics fleets. The Mandalay was also adopted by the Hatikvah Trading League and can sometimes be seen protecting their trade lanes.</t>
+		</page>
+		<page id="6920239" title="Claymore" descr="Claymore" voice="yes">
+			<t id="1">Claymore</t>
+			<t id="2">The Claymore is a speedy ship, capable of carrying a decent amount of marines. Even though it features a lot of turrets for its size, it does not stand a chance against bigger ships on its own due to lacking hull integrity. Originally designed and built for the solborn-milita project, for which it was supposed to serve in intelligence-gathering and interception roles, most of the ships ended up under protectorate command due to political infighting. For a while it served in the navies battlegroups but was eventually surpassed by the Scimitar-class in its role. As the Claymore is being phased out, most of the ships are being put in storage while a small number has been relegated to patrol duties at the borders of the Sol system.</t>
+		</page>
+		<page id="6920240" title="Drake" descr="Drake" voice="yes">
+			<t id="1">Drake</t>
+			<t id="2">A Split destroyer, lighter than the Rattlesnake-class, with a bigger focus on defensive - rather than offensive - capabilities. Despite, for the Split, unusally strong shields, the Drake is cheaper to produce than the Rattlesnake and its combat-weight is more compareable to that of destroyers of the other commonwealth races.</t>
+		</page>
+		<page id="6920241" title="Erebus" descr="Erebus" voice="yes">
+			<t id="1">Erebus</t>
+			<t id="2">Classed as a heavy destroyer, the Erebus features less firepower than comparable ships. Its four large shield generators however, give it an unquestioned survivability over any other ship of its size and it is often stationed in hazardous and vital regions to ensure their prolongued defence.</t>
+		</page>
+	</add>
+</diff>

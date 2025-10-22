@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="878720101" title="Hippopotamus" descr="Superfreighter" voice="yes">
+			<t id="1">Hippopotamus</t>
+			<t id="2">(Hippopotamus) {20101,43101}</t>
+			<t id="3">Hippopotamus general use armed large transport ship or GALTS class. Developed to operate independently in all deep space missions. Strong armor and heavy weapons make this hull ideal for transporting valuable goods to critical infrastructure  </t>
+			<t id="4">Hippopotamus</t>
+			<t id="5">Hippopotamus \(Mineral\)</t>		 
+			<t id="6">Hippopotamus \(Gas\)</t>
+			<t id="7">(Hippopotamus \(Mineral\)) {20101,43101} {20111,3101}</t>	
+			<t id="8">(Hippopotamus \(Gas\)) {20101,43101} {20111,3201}</t>
+		</page>
+	</add>
+</diff>
+
+

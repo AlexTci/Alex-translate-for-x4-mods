@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="2223004" title="CCST" descr="CCST mod" voice="no">
+ <t id="19">USS Энтерпрайз</t>
+ <t id="20">USS Энтерпрайз</t>
+ <t id="21">Двигатели USS Энтерпрайз</t>
+ <t id="34">Двигатели USS Энтерпрайз</t>
+ <t id="22">Фазеры USS Энтерпрайз</t>
+ <t id="23">Фазеры USS Энтерпрайз</t>
+ <t id="26">Щиты USS Энтерпрайз</t>
+ <t id="27">Щиты USS Энтерпрайз</t>
+ <t id="28">Фотонные торпеды USS Энтерпрайз</t>
+ <t id="29">Фотонные торпеды USS Энтерпрайз</t>
+</page>
+	</add>
+</diff>

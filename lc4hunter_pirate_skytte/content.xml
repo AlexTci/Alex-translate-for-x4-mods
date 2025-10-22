@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_pirate_skytte" name="Pirate Skytte" description="Adds the Skytte heavyfighter to the scavenger wharfs" author="Lc4Hunter" version="110" date="2025-02-21" save="0" enabled="1">
+	<text language="7" name="Pirate Skytte - S-Class Heavy Fighter" description="Добавляет тяжелый истребитель Скайтте на верфи волновых стервятников." author="Lc4Hunter" />
+</content>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999324" title="Nova MK2" descr="Nova MK2" voice="no">
+			<t id="1">{20101,10301} {20111,5462}</t>
+			<t id="2">(Nova E){999324,4}</t>
+			<t id="3">The Nova E, or Nova MK2 among pilots, has been completely redesigned. Not even the cockpit is reminiscent of the outdated version. It was developed to counteract a possible, impending conflict with the Terrans. The ship now has more front weapons, one of which has been fitted with a missile launcher. With a slightly stronger hull and increased speed, this S class fighter is a serious opponent in combat.</t>
+			<t id="4">{20101,10301} {20111,5462}</t>
+		</page>
+	</add>
+</diff>

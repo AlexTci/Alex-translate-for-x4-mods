@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="cc ship_harbinger" name="Harbinger" description="Предвестник - многоцелевой эсминец DSS, оснащенный современными электромагнитными рельсотронами, комплексами точечной защиты и универсальной системой вертикального пуска ракет, способен адаптироваться к потребностям большинства боевых задач. Вы можете приобрести чертежи у Пионеров Сегариса" author="cc" version="100" date="2025-07-02" save="false" enabled="1">
+	<text language="86" name="harbinger" description="harbinger" author="cc" />
+</content>

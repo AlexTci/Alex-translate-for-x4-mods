@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+<page id="2025071303" title="ccunsc" descr="ccunsc mod" voice="no">
+<t id="1">UNSC Halberd-class</t>
+<t id="2">Although lacking in general comprehensive capabilities, the Halberd-class destroyer excels in powerful firepower, high speed, and requiring fewer crew members. The Halberd-class adopts a modular design, allowing for different configuration combinations based on mission requirements. However, due to material shortages during the Human-Covenant War, most Halberd-class destroyers had all their subsystems and hull sections removed, only performing escort missions to shorten construction time and reduce the number of crew members.</t>
+<t id="3">Nuclear Fusion Engine</t>
+<t id="4">UNSC Halberd-class Engine Information</t>
+<t id="5">UNSC Halberd-class Shield</t>
+<t id="6">UNSC Halberd-class Shield Information</t>
+<t id="7">14B11R2 Magnetic Accelerator Cannon</t>
+<t id="8">A twin cannon used on Halberd-class light destroyers, composed of twin-linked 1170mm/647mm MACs. The former is used to fire all standard shells, while the latter is only used to fire kinetic projectiles.</t>
+<t id="9">UNSC Halberd-class Heavy Cannon</t>
+<t id="10">UNSC Halberd-class Heavy Cannon Information</t>
+<t id="11">M870 Bastion Point-Defense Gun</t>
+<t id="12">This point-defense gun is used to counter threats from incoming fighters, landing craft, and plasma torpedoes. Additionally, based on threat analysis of the current target, it can switch between firing 50mm armor-piercing rounds or 50mm proximity-fused fragmentation rounds to achieve maximum effectiveness. It is generally configured as twin or quadruple mounts, paired with a targeting scanner, to function as a turret. Due to being equipped on various warships, the M870 Bastion-type point-defense gun has become a relatively common piece of equipment in the UNSC fleet.</t>
+<t id="13">UNSC Halberd-class Point Defense 2</t>
+<t id="14">UNSC Halberd-class Point Defense 2 Information</t>
+<t id="15">M58 Archer Missile Pod</t>
+<t id="16">UNSC Halberd-class Missile Launcher 1 Information</t>
+<t id="17">Shiva-class Nuclear Missile</t>
+<t id="18">UNSC Halberd-class Missile Launcher 2 Information</t>
+<t id="19">UNSC Halberd-class Missile Launcher 3</t>
+<t id="20">UNSC Halberd-class Missile Launcher 3 Information</t>
+<t id="21">UNSC Halberd-class Missile Launcher 4</t>
+<t id="22">UNSC Halberd-class Missile Launcher 4 Information</t>
+<t id="23">UNSC Halberd-class Missile Launcher 5</t>
+<t id="24">UNSC Halberd-class Missile Launcher 5 Information</t>
+<t id="25">UNSC Halberd-class Missile 1</t>
+<t id="26">UNSC Halberd-class Missile 1 Information</t>
+<t id="27">UNSC Halberd-class Missile 2</t>
+<t id="28">UNSC Halberd-class Missile 2 Information</t>
+<t id="29">UNSC Halberd-class Missile 3</t>
+<t id="30">UNSC Halberd-class Missile 3 Information</t>
+<t id="31">UNSC Halberd-class Missile 4</t>
+<t id="32">UNSC Halberd-class Missile 4 Information</t>
+<t id="33">UNSC Halberd-class Missile 5</t>
+<t id="34">UNSC Halberd-class Missile 5 Information</t>
+</page>
+	</add>
+</diff>

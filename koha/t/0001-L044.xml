@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999832" title="Koha" descr="Koha" voice="yes">
+			<t id="1">Koha</t>
+			<t id="2">(Koha) {999832,4}</t>
+			<t id="3">Redesigned using the same combat-ready cockpit used by the new-look Eclipse, the Koha improves upon it by increasing the amounts of weaponry and shields it carries - effectively sacrificing all cargo space and most crewspace to be even more devastating against both small- and medium-sized ships.\n\nThis sacrifice does make the ship less versatile, but nonetheless both the Federal and Republic navy has found the new Koha to be a worthy addition to their fleets, with Argon ship designers once again leading the race to design ships effective for military use.</t>
+			<t id="4">Koha</t>
+		</page>
+	</add>
+</diff>

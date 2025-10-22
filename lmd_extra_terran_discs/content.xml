@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lmd_extra_terran_discs" name="Extra Terran Disc Connectors" description="Добавлят Землянам 6- и 8-позиционные коннекторы." author="LangyMD" version="100" date="2024-08-19" save="0" enabled="1">
+    <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity" />
+</content>

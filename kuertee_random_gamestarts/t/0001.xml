@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+	<!-- "kuertee: Random gamestarts" = "kRGS" = "11 18 7 19" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1118719" voice="no">
+		<t id="1">kuertee: Random gamestarts</t>
+		<t id="2">Debug log</t>
+		<t id="3">Random gamestart</t>
+		<t id="4">Start as a totally random person in the galaxy.</t>
+		<t id="5">Random fighter pilot gamestart</t>
+		<t id="6">Start as a totally random fighter pilot in the galaxy.</t>
+		<t id="7">Random trader gamestart</t>
+		<t id="8">Start as a totally random trader in the galaxy.</t>
+		<t id="9">Random prospector gamestart</t>
+		<t id="10">Start as a totally random prospector in the galaxy.</t>
+		<t id="11">Random commander gamestart</t>
+		<t id="12">Start as a totally random commander in the galaxy.</t>
+		<t id="13">Random merchant gamestart</t>
+		<t id="14">Start as a totally random merchant in the galaxy.</t>
+		<t id="15">Random miner gamestart</t>
+		<t id="16">Start as a totally random miner in the galaxy.</t>
+		<t id="17">Random</t>
+		<t id="21">Randomise Name, Character, Ship, Start sector, and reset Known sectors{1001, 120}(colon)</t>
+		<t id="22">Random person</t>
+		<t id="23">Random fighter</t>
+		<t id="24">Random commander</t>
+		<t id="25">Random prospector</t>
+		<t id="26">Random miner</t>
+		<t id="27">Random trader</t>
+		<t id="28">Random merchant</t>
+		<t id="32">Start as a random pilot in a random S-class, M-class or L-class ship, in a random sector with between 10k to 200k Cr.</t>
+		<t id="33">Start as a random captain in a random corvette or frigate strike ship, in a random sector with 20k Cr.</t>
+		<t id="34">Start as a random commander in a random capital ship, in a random sector with 10k Cr.</t>
+		<t id="35">Start as a random prospector in a random M-class mining ship, in a random sector with 20k Cr.</t>
+		<t id="36">Start as a random miner in a random L-class mining ship, in a random sector with 10k Cr.</t>
+		<t id="37">Start as a random trader in a random M-class trading ship, in a random sector with 200k Cr.</t>
+		<t id="38">Start as a random merchant in a random L-class trading ship, in a random sector with 200k Cr.</t>
+		<t id="39">(note)Player: Your Character has been randomly chosen and your Name will be randomly generated when the game starts. Manually change them if you wish.</t>
+		<t id="40">Player only randomisations{1001, 120}(colon)</t>
+		<t id="41">Starting ship only randomisations{1001, 120}(colon)</t>
+		<t id="42">Random name</t>
+		<t id="43">Random character</t>
+		<t id="44">Random ship</t>
+		<t id="45">(note)Universe: A Start Sector that is suitable for your Character has been randomly chosen. Manually change it if you wish.</t>
+		<t id="46">Reset Known sectors</t>
+		<t id="47">(note)Starting Ship: A Ship has been randomly chosen. Check that its engines, shields, and weapon loadouts are suitable for your planned game.</t>
+		<t id="48">Random start sector for $RACE$</t>
+		<t id="49">Universe only randomisations{1001, 120}(colon)</t>
+		<t id="50">Totally random start sector</t>
+		<t id="51">Random start sector for $FACTION$</t>
+		<t id="52">Faction only randomisations{1001, 120}(colon)</t>
+		<t id="53">Random faction</t>
+		<t id="54">Reset relationships</t>
+		<t id="55">(note)Faction Relations: Your relationship with one suitable faction has been set. Check that your relationship with other factions are suitable for your planned game.</t>
+		<t id="56">Checklist:</t>
+		<t id="57">S-class or M-class</t>
+		<t id="58">L-class</t>
+		<t id="59">(notused)</t>
+		<t id="60">(notused)</t>
+		<t id="61">(notused)</t>
+		<t id="62">(notused)</t>
+	</page>
+</language>

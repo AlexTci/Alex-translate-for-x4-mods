@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Перевел Alex5Not   -->
+<diff>
+	<add sel="/language">
+		<page id="873568" title="Super Defense" descr="Because needs to be done with the translation into other languages" voice="yes">
+			<t id="1">Argon Super Disc</t>
+			<t id="2">Argon Super Tube</t>
+			<t id="3">Terran Super Disc</t>
+			<t id="4">Terran Super Tube</t>
+			<t id="5">Split Super Disc</t>
+			<t id="6">Split Super Tube</t>
+			<t id="7">Argon Super Disc</t>
+			<t id="8">Argon Super Tube</t>
+			<t id="9">Terran Super Disc</t>
+			<t id="10">Terran Super Tube</t>
+			<t id="11">Split Super Disc</t>
+			<t id="12">Split Super Tube</t>
+		</page>
+	</add>
+</diff>

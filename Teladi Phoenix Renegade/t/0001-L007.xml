@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="94111001" title="Phoenix Renegade" descr="Phoenix Renegade" voice="no">
+		<t id="11001">Феникс Ренегат</t>
+		<t id="11002">(Феникс Ренегат Агрессор){94111001,11001} {20111,1101}</t>
+		<t id="11003">(Феникс Ренегат Защитник){94111001,11001} {20111,1201}</t>
+	</page>
+</language>

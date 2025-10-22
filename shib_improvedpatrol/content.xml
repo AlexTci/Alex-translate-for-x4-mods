@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ShibImprovedPatrol" name="Improved Patrol" author="Shibdib" version="103" date="2025-05-28" save="0" description="Makes patrol not suck." enabled="1" sync="false" lastupdate="1587878267">
+  <text language="44" name="Improved Patrol" author="Shibdib" description="Makes patrol not suck."/>
+  <text language="7" name="Improved Patrol" author="Shibdib" description="
+Патрули больше не были отстой. Патрули реагируют на противника даже на другой стороне сектора.&#13;&#10;
+- Добавляет переключатель «Защита сектора» к патрулированию. Если включить его каждые 10 секунд, корабль будет искать врагов в системе и реагировать на них.&#13;&#10;
+- Корабли НЕ будут реагировать на врагов своим ходовым двигателем.&#13;&#10;
+- Отлично работает с  Reaction Force  (при установке обоих модов, корабли Reaction Force, патрулирующие корабли, по умолчанию будут использовать эту настройку).
+  "/>
+</content>

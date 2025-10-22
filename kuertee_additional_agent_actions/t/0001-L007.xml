@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--  translated into russian by Alex5Not   -->
+<language>
+	<!-- "kuertee: Additional agent actions" = "kaagenta" = "kaddaa" = 11 1 4 4 1 1" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="1114411" voice="no">
+		<t id="1">kuertee: Дополнительные действия агента</t>
+		<t id="1001">Повторите на станции</t>
+	</page>
+</language>

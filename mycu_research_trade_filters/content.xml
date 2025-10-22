@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ResearchTradeFilters"
+         name="Research trade filters by Mycu"
+         author="Mycu"
+         version="100"
+         date="2025-08-23"
+         save="false"
+         enabled="1"
+         description="Добавляет возможность добавлять недостающие исследовательские ресурсы в торговые фильтры.">
+    <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD"/>
+</content>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <diff>
+  <add sel="/language">
+	<page id="87100" title="Short Ship Names" descr="Ship Names" voice="no">
+		 <t id="55501">Balor</t>			 
+		 <t id="55502">Centurion</t>			 
+		 <t id="55503">Taranis</t>			 
+		 <t id="55504">Arawn</t>			 
+		 <t id="55505">Sucellus</t>			 
+		 <t id="55506">Sanglier</t>			 
+		 <t id="55507">Titurel</t>			 
+		 <t id="55508">Scaldis</t>			 
+		 <t id="55509">Scylla</t>			 
+		 <t id="55510">Boann \(Gaz\)</t>			 
+		 <t id="55511">Sequana \(Gaz\)</t>		 
+		 <t id="55512">Sulaco \(Minéral\)</t>		 
+		 <t id="55513">Fedhelm \(Minéral\)</t>		 
+		 <t id="55514">Hermod \(Gaz\)</t>		 
+		 <t id="55515">Thanatos</t>		 
+		 <t id="55516">Excalibur</t>		 
+		 <t id="55517">Vengeur</t>		 
+		 <t id="55518">Klendathu</t>		 
+		 <t id="55519">Eratos</t>		 
+		 <t id="55520">Vengeur E</t>		 
+		 <t id="55521">Marteau-du-Destin</t>		 
+		 <t id="55522">Kraken</t>		 
+		 <t id="55523">Comète</t>		 
+		 <t id="55524">Millennium</t>		 
+		 <t id="55525">Bourreau</t>		 
+		 <t id="55526">Merlin</t>		 
+		 <t id="55527">Astronome</t>		 
+		 <t id="55528">Sanahar</t>		 
+		 <t id="55529">Lyranea</t>		 
+		 <t id="55530">Cyclone</t>		 
+		 <t id="55531">Q</t>		 
+		 <t id="55532">Astral \(Minéral\)</t>		 
+		 <t id="55533">Astral \(Gaz\)</t>		 
+		 <t id="55534">Astral</t>		 
+		 <t id="55535">Braveheart</t>		 
+		 <t id="55536">Polaris \(Gaz\)</t>		 
+		 <t id="55537">Rahanas \(Gaz\)</t>		 
+		 <t id="55538">Polaris </t>		 
+		 <t id="55539">Rahanas </t>		 
+		 <t id="55540">Dreadnought</t>		 
+		 <t id="55541">Reine</t>		 
+		 <t id="55542">Arrakis</t>		 
+		 <t id="55543">Moissonneur \(Gaz\)</t>		 
+		 <t id="55544">Moissonneur \(Minéral\)</t>		 
+		 <t id="55545">Starlifter</t>		 
+		 <t id="55546">Ragnarok</t>		 
+		 <t id="55547">Terreur</t>		 
+		 <t id="55548">Mirage \(Gaz\)</t>		 
+		 <t id="55549">Mirage \(Minéral\)</t>
+		 <t id="55550">Aurora</t>		 
+		 <t id="55551">Calypso</t>		 
+		 
+	</page>
+	 <page id="87101" title="Ship Descriptions" descr="Ship Descriptions" voice="no">
+		 <t id="55501">Le destroyer Balor a été introduit pour soutenir les navires plus lents contre les chasseurs et les bombardiers. Pour atteindre cet objectif, de nombreuses tourelles de taille moyenne sont montées sur sa coque.</t>
+		 <t id="55502">Le Centurion est le premier navire fabriqué avec des plaques d'armure renforcées en nividium extrêmement légères et résistantes. Même avec un seul moteur, ce destroyer est extrêmement rapide et ne doit pas être sous-estimé sur le champ de bataille.</t>
+		 <t id="55503">Le Taranis est conçu comme un cuirassé de première ligne avec beaucoup de tourelles de taille M pour contrer les petits navires. Équipé seulement de quelques quais S et d'aucun tubes de lancement, le support d'un porteur est obligatoire.</t>
+		 <t id="55504">Non seulement l'Arawn a la plus grande puissance de feu et armure disponible dans la flotte d'argon, il est également le plus grand transporteur capable de fournir et de lancer plusieurs escadrille de combattants. Ce monstre est craint parmi tous les ennemis sur le champ de bataille.</t>
+		 <t id="55505">Le Sucellus est le deuxième navire produit avec l'innovant blindage léger et résistant renforcé en nividium. Ce cuirassé a une énorme puissance de feu, particulièrement dirigée vers son front et répand la peur parmi ses ennemis.</t>
+		 <t id="55506">On ne sait pas grand-chose sur le cuirassé Sanglier. Développé comme Première Garde pour le service secret de l'empire Split, son excellent armement est une véritable menace contre toute flotte.</t>
+		 <t id="55507">Le Méga Transport Fortifié Titurel a été conçu pour livrer des marchandises importantes aux supports dans les zones avec un contact ennemi lourd. En raison de sa coque solide et de sa bonne puissance de feu, il est souvent utilisé par la flotte Argonne dans les zones critiques de la galaxie.</t>
+		 <t id="55508">Le porte-avions Scaldis est équipé de nombreuses tourelles de canon des deux côtés pour parer à tout danger. Il est souvent utilisé comme support de flanc pour briser la formation adverse.</t>	
+		 <t id="55509">Le Scylla est un petit mais rapide navire de combat, avec beaucoup de puissance de feu dirigée vers son front. Son agilité, sa vitesse et sa puissance de feu font de cette bête un excellent chasseur pour les navires plus petits ou plus lents.</t>
+		 <t id="55510">Le Boann Mégaliner est un énorme collecteur de gaz. Il est conçu pour recueillir le gaz lointain dans la galaxie et peut rester dans l'espace pendant de nombreux mois.</t>
+		 <t id="55511">L'Sequana est un énorme collecteur de gaz. Sa mission est de voyager loin dans l'espace pour recueillir du gaz et des ressources liquides.</t>
+		 <t id="55512">Le Sulaco Interstellar est un navire minier de l'espace lointain avec d'énormes capacités pour les minéraux solides. Le Sulaco est souvent vu loin de son système d'origine.</t>
+		 <t id="55513">Le Fedhelm de Interstellar Transport and Mining Corp est un grand mineur d'astéroïdes avec des plaques de blindage renforcées et 10 tourelles de taille M en plus de sa tourelle minière de taille L. Il peut miner même dans les ceintures d'astéroïdes dangereuses où les pirates sont très présents.</t>
+		 <t id="55514">Le Hermod de Interstellar Transport and Mining Corp a été conçu comme un drone minier de gaz. Bien que ses propres capacités d'extraction de gaz ne soient pas très élevées, il peut transporter plus de drones que la plupart des navires comparables de sa taille. En outre, il est équipé de plaques de blindage pour fonctionner même dans les secteurs pirates.</t>
+		 <t id="55515">Le cuirassé de classe Thanatos est un cuirassé moyen armé de nombreuses tourelles et équipé de plaques d'armure épaisses.</t>
+		 <t id="55516">L'Excalibur est un grand destroyer armé de trois grandes tourelles. En raison du besoin d'un destroyer lourdement blindé, la Patrouille frontalière d'Antigone a conçu l'Excalibur comme le premier navire de classe destroyer capable de monter quatre grands boucliers au coût de la puissance pour le moteur, ce qui en fait l'un des destroyers les plus résistants mais aussi les plus lents disponible.</t>		 
+		 <t id="55517">Le cuirassé de patrouille frontalière Vengeur MK1 a été conçu pour sécuriser la frontière Argonne. En raison de sa petite taille pour un cuirassé, il est assez rapide et agile.</t>
+		 <t id="55518">La flotte terran compte de plus en plus sur la version améliorée du Centurion, le Klendathu. Il dispose de deux baies d'armes supplémentaires et de trois tourelles moyennes supplémentaires. En raison de sa masse légèrement plus importante, il est légèrement plus lent, mais il se classe toujours parmi les destroyers d'attaque les plus rapides.</t>
+		 <t id="55519">L'Eratos était la réponse directe au super porteur argon Arawn. Après plusieurs années de développement le Saint Ordre paranide a surpris les argons et les teladis avec la construction du premier Eratos. Des emplacements supplémentaires pour les navires de taille M et une plus grande maniabilité ainsi qu'une puissance de feu comparable à celle de l'Arawn font de ce super porteur un adversaire redouté sur le champ de bataille, même s'il est légèrement moins blindé.</t>
+		 <t id="55520">Le Vengeur MK2 est le successeur direct du cuirassé Vengeur MK1. Une partie centrale supplémentaire avec des tourelles et des quais supplémentaires rend le MK2 plus fort, mais aussi moins agile que le MK1. En raison de sa lenteur et de sa maniabilité, le Vengeur MK2 est principalement utilisé pour les opérations de siège.</t>
+		 <t id="55521">Le Marteau-du-Destin paranide est un destroyer rapide et agile avec une bonne puissance de feu, mais offre seulement des emplacements pour trois générateurs de bouclier. Le destroyer est souvent utilisé comme force de frappe rapide jusqu'à l'arrivée de véritables navires capitaux.</t>
+		 <t id="55522">Le Kraken teladi est une version plus avancée du cuirassé Scylla avec plus de puissance de feu et d'armure au prix de l'agilité et de la vitesse.</t>
+		 <t id="55523">Grâce à ses 6 gros moteurs, le Comète teladi est l'un des destroyers les plus rapides et les plus agiles. Il est armé de 3 grandes tourelles, 9 tourelles moyennes et une grande arme. Son but principal est de chasser et de détruire les navires ennemis entrant dans l'espace teladi. Il est également souvent utilisé pour chasser les pirates attaquant des commerçants ou pour escorter des cargos à travers des territoires dangereux.</t>
+		 <t id="55524">Le Méga Transport Millennium a été fondé par la Compagnie Teladi. Il est à ce jour le plus grand et le plus avancé des cargos qui n'a jamais été mis en production. Il a été conçu pour transporter d'énormes quantités de marchandises à destination et en provenance de planètes éloignées. Par conséquent, il a trois cales de cargaison énormes et six baies d'atterrissage.</t>
+		 <t id="55525">Le cuirassé de classe Bourreau a été conçu comme un navire d'attaque blindé et lourdement armé. Il n'a qu'un petit hangar et deux baies d'atterrissage, ce qui le rend vulnérable aux chasseurs agiles. Ils sont souvent utilisés par les forces de défense teladi avec une escorte de chasseurs et de destroyers afin que les Bourreaux puissent concentrer leur puissance de feu dévastatrice sur les cibles les plus importantes, qu'il s'agisse de stations spatiales ou d'autres cuirassés.</t>
+		 <t id="55526">Dans le besoin d'un destroyer rapide les forces de défense spatiale d'Antigone ont redessiné le châssis de l'Excalibur avec un moteur supplémentaire mais moins d'espace pour l'armure et les boucliers. Alors que l'Excalibur a obtenu un peu plus de tourelles M et L, le Merlin est équipé de deux armes avant.</t>	 
+		 <t id="55527">Le Astronome du Saint Ordre paranide est un destroyer polyvalent conçu pour soutenir et défendre les plus gros vaisseaux. Bien qu'il n'ait pas de forces réelles, il n'a pas non plus de faiblesses réelles.</t>
+		 <t id="55528">Le Sanahar est le plus grand cargo de la République d'Antigone, conçu comme un navire de transport géant bon marché. Trois principaux secteurs de stockage peuvent contenir d'énormes quantités de marchandises, mais ses moteurs sont faibles pour un navire aussi massif. L'énorme navire de transport n'est conçu que pour livrer des marchandises dans des secteurs sûrs, il n'est donc pas bien défendu et a besoin de support pour les livraisons dans des zones dangereuses de l'espace.</t>		 
+		 <t id="55529">Afin de répondre à la demande toujours croissante de marchandises dans les régions périphériques de l'empire paranide, la Chambre du Commerce Intergalactique a développé son premier méga transporteur, le Lyranea.</t>
+		 <t id="55530">Comme la plupart des vaisseaux militaires Split, le Cyclone est rapide et mortel. Le Split a conçu le Cyclone comme un destroyer de première ligne pour résister à l'ennemi le plus longtemps possible et les engager dans le combat jusqu'à l'arrivée des renforts.</t>
+		 <t id="55531">Après avoir observé les activités du xénon, le Xenon Q a été identifié comme un développement ultérieur du Xenon K.</t>
+		 <t id="55532">En raison de la demande toujours plus grande de capacités de transport et d'exploitation minière, le Split a développé l'Astral, un concept de navire modulaire et hautement polyvalent. Selon son utilisation, il peut être conçu comme un gros navire de transport ou un navire minier. Le navire minier Astral a une énorme capacité minière et peut résister aux menaces les moins importantes.</t>
+		 <t id="55533">En raison de la demande toujours plus grande de capacités de transport et d'exploitation minière, le Split a développé l'Astral, un concept de navire modulaire et hautement polyvalent. Selon son utilisation, il peut être conçu comme un gros navire de transport ou un navire minier. Le navire minier de gaz Astral est équipé d'un module de récolte extrêmement efficace et peut même résister à des menaces mineures.</t>
+		 <t id="55534">En raison de la demande toujours plus grande de capacités de transport et d'exploitation minière, le Split a développé l'Astral, un concept de navire modulaire et hautement polyvalent. Selon son utilisation, il peut être conçu comme un gros navire de transport ou un navire minier. Le Transport lourd Astral offre la plus grande capacité de transport de tous les navires Split.</t>
+		 <t id="55535">Le Braveheart est un destroyer lance-missile lourd de la flotte argonne. En plus de ses nombreux lance-missiles, il peut être équipé de diverses tourelles lourdes et d'armes. Il est relativement rapide et fait une excellente escorte pour les navires de combat lents ou les transporteurs.</t>
+		 <t id="55536">Le navire minier de gaz Polaris est une version plus petite du Rahanas, qui a été conçu comme un navire modulaire. Par rapport aux navires miniers de gaz classiques, le taux d'exploitation de celui-ci a augmenté, mais il sacrifie l'espace de cargaison. Il est bien armé pour un navire minier et peut fonctionner seul.</t>
+		 <t id="55537">Le Rahanas a été conçu comme un navire modulaire, ce qui le rend adapté à diverses missions. Cette variante est conçue comme un grand navire d'extraction de gaz. Il a deux fois plus d'espace de cargo que son petit frère, le Polaris, mais il est plus lent. Son taux d'extraction est légèrement supérieur à celui des navires d'extraction de gaz classique.</t>
+		 <t id="55538">Le cargo Polaris est une version plus petite du Rahanas, conçu comme un navire modulaire. Il est relativement rapide et dispose d'un armement décent, ce qui le rend approprié pour les opérations dans les secteurs précaires.</t>
+		 <t id="55539">Le Rahanas a été conçu comme un navire modulaire, ce qui le rend adapté à diverses missions. Cette variante est conçue comme un grand cargo. Une très grande soute et une vitesse acceptable font de ce cargo un bon investissement.</t>
+		 <t id="55540">Le Dreadnought est un navire de guerre massif, conçu pour détruire toute menace. Il a beaucoup de canons lourds, une excellente armure et des boucliers blindés. Sa seule faiblesse est sa vitesse. Partout où le Dreadnought apparaît, il répand la peur et la terreur.</t>
+		 <t id="55541">Khaak Queen On sait peu de choses sur ce navire car il n'a été vu que très rarement. Les rapports des pilotes sur ce navire étaient initialement difficiles à croire. Jusqu’au jour où ce seul navire a détruit toute une centrale solaire. </t>
+		 <t id="55542">Le Arrakis est un destroyer lourd avec une puissance de feu frontale importante. Il a une excellente armure et puissance de feu. Seule sa manoeuvrabilité rend son utilisation limitée pour un destroyer quand il s'agit de chasser les navires ennemis. Les Arrakis opèrent donc principalement avec des intercepteurs rapides, qui chassent les cibles jusqu'à ce que le destroyer arrive et puisse les éliminer.</t>
+		 <t id="55543">Les navires miniers de classe Moissonneur peuvent naviguer loin de chez eux. Ils peuvent transporter une énorme quantité de gaz liquide sous haute pression. Généralement, ils sont bien défendus pour des navires miniers.</t>
+		 <t id="55544">Les navires miniers de classe Moissonneur peuvent fonctionner loin de chez eux. Ils peuvent transporter une énorme quantité de ressources et, habituellement, ils sont bien défendus.</t>
+		 <t id="55545">Le Starlifter est un cargo avec d'immenses capacités de cargaison. Il n'est pas particulièrement rapide, mais dispose d'un armement décent pour un navire de transport.</t>
+		 <t id="55546">Le Ragnarok est un destroyer lourd, conçu par le forces de défense teladi. Il a été conçu pour assurer un bon équilibre entre la puissance de feu, le blindage et la maniabilité. Les rapports de diverses opérations militaires parlent d'eux-mêmes.</t>
+		 <t id="55547">La flotte spatiale paranide cherchait un cuirassé avec un armement exceptionnel pour détruire des installations hautement fortifiées dans les plus brefs délais. Après des années de développement, le Terreur a été créé. En tant que pur navire d'attaque, il a diverses armes frontales et des tourelles. Mieux vaut ne pas engager le front de la Terreur.</t>
+		 <t id="55548">Le Mirage est un excellent navire minier. Ses trois gros moteurs lui apportent une grande vitesse, malgré sa grande cale de cargaison. En raison des attaques de plus en plus fréquentes des Khaaks et des Xénons, le navire a été équipé de tourelles de défense et de boucliers supplémentaires, ce qui lui permet d'exercer ses fonctions même dans des zones menaçantes.</t>
+		 <t id="55549">Le Mirage est un excellent navire minier. Ses trois gros moteurs lui apportent une grande vitesse, malgré sa grande cale de cargaison. En raison des attaques de plus en plus fréquentes des Khaaks et des Xénons, le navire a été équipé de tourelles de défense et de boucliers supplémentaires, ce qui lui permet d'exercer ses fonctions même dans des zones menaçantes.</t>		 
+		 <t id="55550">L'Aurora est un grand navire de transport au service des Paranides. Il est assez rapide et maniable pour sa classe, mais ne dispose que d'un armement et d'une capacité de transport modérés.</t>
+		 <t id="55551">Équipé d'un module de chargement supplémentaire, le Calypso dispose d'un tiers d'espace de chargement supplémentaire par rapport à l'Aurora. En raison de sa maniabilité et de sa vitesse inférieures, et donc de sa vulnérabilité aux attaques de pirates, des tourelles à canon supplémentaires ont été installées.</t>
+
+	 </page> 
+	 <page id="87102" title="Variations" descr="Variations" voice="no">
+		 <t id="101">Linebreaker</t>
+		 <t id="201">Gardien</t>
+		 <t id="301">Ligne Alpha</t>
+		 <t id="401">Première Garde</t>
+		 <t id="501">Escorte</t>
+		 <t id="601">Transport blindé</t>
+		 <t id="701">Linebreaker</t>
+		 <t id="801">Sentinelle</t>
+		 <t id="901">Mégaliner</t>
+		 <t id="1001">Espace Lointain</t>
+		 <t id="1002">Garde Spatiale</t>
+		 <t id="1101">Interstellaire</t>
+		 <t id="1102">Vaisseau amiral</t>
+		 <t id="1201">Patrouille Frontalière</t>
+		 <t id="1301">Flotte Spatiale</t>
+		 <t id="1401">Défenseur</t>
+		 <t id="1501">Méga transporteur</t>
+		 <t id="1601">Forces Spatiales</t>
+		 <t id="1701">Géant</t>
+		 <t id="1801">Super</t>
+	</page> 
+	 <!--
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {87102,501} {20221,4001}</t>			 
+		 <t id="55502">Shark {87102,301} {20221,4001}</t>			 
+		 <t id="55503">Taranis {87102,101} {20221,5031}</t>			 
+		 <t id="55504">Arawn {87102,1102} {20221,5001}</t>			 
+		 <t id="55505">Sucellus {87102,301} {20221,5031}</t>			 
+		 <t id="55506">Sanglier {20221,5031}</t>			 
+		 <t id="55507">Titurel {87102,601} {20221,3031}</t>	
+		 <t id="55508">Scaldis {87102,101} {20221,5001}</t>	
+		 <t id="55509">Scylla {87102,801} {20221,5031}</t>	
+		 <t id="55510">Boann \(Gaz\) {87102,901} {20221,3041}</t>	
+		 <t id="55511">Event Horizon \(Gaz\) {87102,1001} {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Minéral\) {87102,1001} {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Minéral\) {87102,1101} {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gaz\) {87102,1101} {20221,3041}</t>	
+		 <t id="55515">Thanatos {87102,401} {20221,5031}</t>	
+		 <t id="55516">Excalibur {87102,1201} {20221,4001}</t>	
+		 <t id="55517">Vengeur MK1 {87102,1201} {20221,5031}</t>	
+		 <t id="55518">Baracuda {87102,301}</t>	
+		 <t id="55519">Erebos {87102,1102} {20221,5001}</t>	
+		 <t id="55520">Vengeur MK2 {87102,1201} {20221,5031}</t>	
+		 <t id="55521">Marteau-du-Destin {87102,1002} {20221,4001}</t>	
+		 <t id="55522">Kraken {87102,801} {20221,5031}</t>	
+		 <t id="55523">Comète {87102,1301} {20221,4001}</t>	
+		 <t id="55524">Millennium {87102,1501} {20221,3031}</t>	
+		 <t id="55525">Bourreau {87102,1601} {20221,5031}</t>	
+		 <t id="55526">Merlin {87102,1201} {20221,4001}</t>	
+		 <t id="55527">Astronome {87102,1002} {20221,4001}</t>	
+		 <t id="55528">Sanahar {87102,1701} {20221,3031}</t>	
+		 <t id="55529">Lyranea {87102,1801} {20221,3031}</t>	
+		 <t id="55530">Cyclone {20221,4001}</t>	
+	 </page> 	
+	 -->
+	 
+	 <page id="87103" title="Name" descr="Name and Variant" voice="no">
+		 <t id="55501">Balor {20221,4001}</t>			 
+		 <t id="55502">Centurion {20221,4001}</t>			 
+		 <t id="55503">Taranis {20221,5031}</t>			 
+		 <t id="55504">Arawn {20221,5001}</t>			 
+		 <t id="55505">Sucellus {20221,5031}</t>			 
+		 <t id="55506">Sanglier {20221,5031}</t>			 
+		 <t id="55507">Titurel {20221,3031}</t>	
+		 <t id="55508">Scaldis {20221,5001}</t>	
+		 <t id="55509">Scylla {20221,5031}</t>	
+		 <t id="55510">Boann \(Gaz\) {20221,3041}</t>	
+		 <t id="55511">Event Horizon \(Gaz\) {20221,3041}</t>	
+		 <t id="55512">Sulaco \(Minéral\) {20221,3041}</t>	
+		 <t id="55513">Fedhelm \(Minéral\) {20221,3041}</t>	
+		 <t id="55514">Hermod \(Gaz\) {20221,3041}</t>	
+		 <t id="55515">Thanatos {20221,5031}</t>	
+		 <t id="55516">Excalibur {20221,4001}</t>	
+		 <t id="55517">Vengeur MK1 {20221,5031}</t>	
+		 <t id="55518">Klendathu {20221,4001}</t>	
+		 <t id="55519">Erebos {20221,5001}</t>	
+		 <t id="55520">Vengeur MK2 {20221,5031}</t>	
+		 <t id="55521">Marteau-du-Destin {20221,4001}</t>	
+		 <t id="55522">Kraken {20221,5031}</t>	
+		 <t id="55523">Comète {20221,4001}</t>	
+		 <t id="55524">Millennium {20221,3031}</t>	
+		 <t id="55525">Bourreau {20221,5031}</t>	
+		 <t id="55526">Merlin {20221,4001}</t>	
+		 <t id="55527">Astronome {20221,4001}</t>	
+		 <t id="55528">Sanahar {20221,3031}</t>	
+		 <t id="55529">Lyranea {20221,3031}</t>	
+		 <t id="55530">Cyclone {20221,4001}</t>	
+		 <t id="55532">Astral \(Minéral\) {20221,3041}</t>	
+		 <t id="55533">Astral \(Gaz\) {20221,3041}</t>	
+		 <t id="55534">Astral {20221,3031}</t>	
+		 <t id="55535">Braveheart {20221,4001}</t>	
+		 <t id="55536">Polaris \(Gaz\) {20221,3041}</t>	
+		 <t id="55537">Rahanas \(Gaz\) {20221,3041}</t>	
+		 <t id="55538">Polaris {20221,3031}</t>	
+		 <t id="55539">Rahanas {20221,3031}</t>	
+		 <t id="55540">Dreadnought {20221,5031}</t>	
+		 <t id="55541">Reine {20221,4001}</t>	
+		 <t id="55542">Arrakis {20221,4001}</t>	
+		 <t id="55543">Moissonneur \(Gaz\) {20221,3041}</t>	
+		 <t id="55544">Moissonneur \(Minéral\) {20221,3041}</t>	
+		 <t id="55545">Starlifter {20221,3031}</t>	
+		 <t id="55546">Ragnarok {20221,4001}</t>	
+		 <t id="55547">Terreur {20221,5031}</t>	
+		 <t id="55548">Mirage \(Gaz\) {20221,3041}</t>		 
+		 <t id="55549">Mirage \(Minéral\) {20221,3041}</t>			 
+	 </page> 
+	 
+	 <page id="88001" title="Jobs" descr="Names and descriptions of ship jobs" voice="yes">
+		<t id="00001">Cuirassés de patrouille</t>	
+	 </page> 
+	 
+	 	 <page id="88002" title="Licences" descr="Licences" voice="no">
+			<t id="00001">Licence de navire de classe Super Capital</t>	
+			<t id="00002">Licence de navire de classe Destroyer</t>	
+	 </page> 
+
+	 <page id="21221" title="Ship classes" descr="classes" voice="yes">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>		
+	 </page> 
+	</add>
+
+	
+	<add sel="/language/page[@id='20221']">
+			 <t id="3501">t</t>			 
+			 <t id="3531">t</t>			 
+			 <t id="3541">t</t>			 
+			 <t id="4501">t</t>			 
+			 <t id="5501">t</t>			 
+			 <t id="5511">t</t>			 
+			 <t id="5531">t</t>	
+	</add>
+</diff>

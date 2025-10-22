@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<diff>
+	<add sel="/icons">
+		<icon name="module_*" texture="extensions\super_defense\assets\icons\*.tga" height="256" width="256"></icon>
+	 </add>
+</diff>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- german translations by Hermän2000 on Discord upto 689128 then deepl.com -->
+<language id="49">
+	<!-- "kuertee NPC reactions" = "npcr" = "14 16 3 18 " in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page descr="" id="1416318" title="">
+		<!-- mycu_verbose_transaction_log mod -->
+		<t id="101">Bankdarlehen</t>
+		<t id="102">Auszahlung eines Bankkredits</t>
+		<t id="103">Bauschiffsmiete</t>
+		<t id="104">Taxi-Miete</t>
+		<!-- rumours -->
+		<t id="688845">Über die Galaxie unterhalten.</t>
+		<t id="688846">Über verschlossene Container unterhalten.</t>
+		<t id="688847">Über Anomalien unterhalten.</t>
+		<t id="688848">Über Datentresore unterhalten.</t>
+		<t id="688849">Über Politik unterhalten.</t>
+		<t id="688850">Über die Kriege unterhalten.</t>
+		<t id="688851">Über das Leben im Weltraum unterhalten.</t>
+		<t id="688852">Über Wissenschaft unterhalten.</t>
+		<t id="688853">Chatten Sie über das Ziel: %s(knownname) %s(idcode).</t>
+		<!-- config -->
+		<t id="688900">kuertee: NPC Reaktionen</t>
+		<t id="688901">Keine direkter Abzug für Unterhaltungen</t>
+		<t id="688902">Die Grundchance für ein bedeutsames Gerücht; verringert sich mit jeder Stunde wenn man nicht mindestens ein persönliches Gespräch führt.</t>
+		<t id="688903">Bonus für gleiche Spezies</t>
+		<t id="688905">Bonus für freundliche Fraktion</t>
+		<t id="688907">Bonus für freundliche Fraktion in Feindgebiet</t>
+		<t id="688909">Anzahl an Unterhaltungen</t>
+		<t id="688910">Die Wahrscheinlichkeit, dass eine Unterhaltung ein bedeutsames Gerücht produzuert, erhöht sich nach jeder Unterhaltung um 1%. NICHT UNAUFGEFORDERT ÄNDERN.</t>
+		<t id="688911">Grundwahrscheinlichkeit für ein Gerücht</t>
+		<t id="688912">Wenn eine ein bedeutsames Gerücht produziert, wird die Grundwahrscheinlichkeit um 1% erhöht. Dies kann man als &quot;Unterhaltungs-Fähigkeit&quot; betrachten. NICHT UNAUFGEFORDERT ÄNDERN.</t>
+		<t id="688913">Debug Log</t>
+		<t id="688914">Maximale Grundwahrscheinlichkeit für ein Gerücht</t>
+		<t id="688915">Die Obergrenze für die Grundwahrscheinlichkeit für ein bedeutsames Gerücht. NICHT UNAUFGEFORDERT ÄNDERN.</t>
+		<t id="688916">Kneipenbonus</t>
+		<t id="688917">kuertee: NPC-Taxis</t>
+		<t id="688918">Zusätzliche Kosten pro Gate als Multiplikator</t>
+		<t id="688919">Do debug function</t>
+		<!-- bar patrons -->
+		<t id="688920">Sekundäre Fähigkeiten</t>
+		<!-- taxis -->
+		<t id="688921">(unused)Taxis zerstören</t>
+		<!-- crew alerts -->
+		<t id="688922">Besatzungswarnungen</t>
+		<t id="688923">Radarkontakthäufigkeit</t>
+		<t id="688924">Größer als oder gleich der Schiffsgröße</t>
+		<t id="688925">Kommunikation mit Zwischensequenz</t>
+		<!-- start: enable/disable features -->
+		<t id="688926">Gerüchte</t>
+		<t id="688927">Bankkredite von Stationsleitern</t>
+		<t id="688928">Barbesucher</t>
+		<t id="688929">Brückenpersonal</t>
+		<t id="688930">Bauschiffe fordern Ihre Aufträge an</t>
+		<t id="688931">NPCs bitten um Verstärkung per Comms</t>
+		<t id="688932">Taxis</t>
+		<!-- end: enable/disable features -->
+		<t id="688933">Videokommunikation mit generischem Hintergrund</t>
+		<t id="688934">Rennen auf Stationsbelegschaftsrennen beschränken</t>
+		<!-- bridge crew -->
+		<t id="688935">KI-Pilot verlässt die Steuerung automatisch</t>
+		<t id="688936">Kleine Schiffe</t>
+		<t id="688937">Mittelgroße Schiffe</t>
+		<t id="688938">Größere Schiffe</t>
+		<t id="688939">Halteposition zum letzten kontrollierten Schiff hinzufügen</t>
+		<t id="688940">Feinde melden</t>
+		<t id="688941">S-Klasse und M-Klasse Kontakte</t>
+		<t id="688942">Logbuch</t>
+		<t id="688943">Benachrichtigung</t>
+		<t id="688944">Sprachnachricht</t>
+		<t id="688945">Die Flotte des Spielers folgt dem Spieler</t>
+		<t id="688946">Kontakte der L-Klasse und XL-Klasse</t>
+		<t id="688947">Feindliche Meldefrequenz pro Sektor</t>
+		<!-- end: config -->
+		<!-- npc constructors -->
+		<t id="689000">Soll ich Ihnen etwas bauen?</t>
+		<t id="689001">Nein danke.</t>
+		<t id="689002">Nächste</t>
+		<t id="689003">Am nächsten zu mir</t>
+		<t id="689004">Ihr Mitarbeiter</t>
+		<t id="689005">Konstruktorzuweisung fehlgeschlagen.</t>
+		<!-- npc taxis -->
+		<t id="689100">NPC-Transport</t>
+		<t id="689101">Taxi-Service</t>
+		<t id="689102">Benötigen Sie eine Mitfahrgelegenheit?</t>
+		<t id="689103">Wie du willst, du Raumfliege!</t>
+		<t id="689104">Docke an ...</t>
+		<t id="689105">Ich brauche eine Fahrt nach ...</t>
+		<t id="689106">Dieses Schiff kann leider nicht an dieses Schiff andocken.</t>
+		<t id="689107">Dieses Schiff kann leider nicht an dieser Station andocken.</t>
+		<t id="689108">Ziel</t>
+		<t id="689109">Kosten</t>
+		<t id="689110">Sind Sie sicher?</t>
+		<t id="689111">Steigen Sie ein</t>
+		<t id="689112">Ziel</t>
+		<t id="689113">Transporter Anfordern</t>
+		<t id="689114">Derzeit sind keine Transporte verfügbar.</t>
+		<t id="689115">Wohin?</t>
+		<t id="689116">Ok, ich bin bald da.</t>
+		<t id="689117">Ich brauche keinen Transport mehr.</t>
+		<t id="689118">Ok, ich bin hier. Kommen Sie an Bord.</t>
+		<t id="689119">Ich brauche diesen Transport nicht mehr.</t>
+		<t id="689120">Ankunftszeit</t>
+		<t id="689121">Ich suche nach einer Mitfahrgelegenheit.</t>
+		<t id="689122">Lassen Sie mich den Piloten kontaktieren.</t>
+		<t id="689123">Warten Sie auf</t>
+		<t id="689124">Aussteigen</t>
+		<t id="689125">Ich habe die Entfernung zu den Kosten eingerechnet.</t>
+		<t id="689126">TAXI</t>
+		<t id="689127">Wiedereinstellung</t>
+		<t id="689128">Ich habe den Kontakt zu unserem Ziel verloren.</t>
+		<t id="689129">Ich brauche eine Fahrt zur nächsten Werft.</t>
+		<t id="689130">Ich brauche eine Fahrt zur nächstgelegenen Werft.</t>
+		<t id="689131">Zur nächsten Werft.</t>
+		<t id="689132">Docke an der nächsten Werft.</t>
+		<t id="689133">Leider können Sie sich das nicht leisten.</t>
+		<!-- npc bank loans convo -->
+		<t id="689200">Ich hätte gerne einen Bankkredit.</t>
+		<t id="689201">Bitte sehr.</t>
+		<t id="689202">Denken Sie daran, dass der Zinssatz 1% pro Stunde berechnet wird.</t>
+		<t id="689203">Ich möchte meinen Bankkredit \(%1(Cr)\) auszahlen.</t>
+		<t id="689204">(chc crime name)Unbezahlte Darlehen</t>
+		<!-- npc bankdarlehen ui -->
+		<t id="689300">Bankdarlehen</t>
+		<t id="689301">Station</t>
+		<t id="689302">Kreditgeber</t>
+		<t id="689303">Darlehen</t>
+		<t id="689304">Zinssatz</t>
+		<t id="689305">Darlehen auszahlen</t>
+		<t id="689306">%1(Zahl)%% pro Stunde</t>
+		<t id="689307">%s($STATION_NAME$) auf Karte anzeigen</t>
+		<t id="689308">Leitfaden auf %s($LENDER_NAME$)einstellen</t>
+		<!-- npc bridge crew -->
+		<t id="689401">Helm</t>
+		<t id="689402">Taktisch</t>
+		<t id="689403">Technik</t>
+		<t id="689404">Target %1(enemy)?</t>
+		<t id="689405">Bestellung geben.</t>
+		<t id="689406">Feindbericht</t>
+		<t id="689407">Gegner: %s(Gegner).\nSektor: %s(Sektor).\nGemeldet von: %s(Name) \(%s(Schiffsname)\).</t>
+		<t id="689408">Kehren Sie auf Ihren Posten zurück.</t>
+		<!-- orders: patrol -->
+		<t id="690001">Feindliche Jäger, Korvetten und Fregatten melden</t>
+		<t id="690002">Feindliche Zerstörer und Großkampfschiffe melden</t>
+		<t id="690003">Keine Feinde angreifen</t>
+	</page>
+</language>

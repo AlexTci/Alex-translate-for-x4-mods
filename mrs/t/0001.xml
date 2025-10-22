@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <page id="314152" voice="no">
+    <t id="1">..: Mobile Repair Service :..</t>
+    <t id="2">\033C%1\033X was repaired by \033C%2\033X for \033G%3 Cr\033X.\n\nList of repairs:\n\033YHull\033X - \033R%4 Hp\033X - \033G%5 Cr\033X\n%6</t>
+    <t id="3">Start Repair Service</t>
+    <t id="4">Stop Repair Service</t>
+    <t id="5">\033Y%1\033X - \033R%2 Hp\033X - \033G%3 Cr\033X\n</t>
+    <t id="6">\033C%1\033X is going home to \033Y%2\033X</t>
+    <t id="7">\033C%1\033X will be working in \033Y%2\033X</t>
+	<t id="8">Mobile Repair Service</t>
+	<t id="9">Mobile Repair Service</t>
+  </page>
+</language>

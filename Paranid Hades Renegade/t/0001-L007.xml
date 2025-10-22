@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="98311001" title="Hades Renegade" descr="Hades Renegade" voice="no">
+		<t id="11001">Гадес Ренегат</t>
+		<t id="11002">(Гадес Ренегат Агрессор){98311001,11001} {20111,1101}</t>
+		<t id="11003">(Гадес Ренегат Защитник){98311001,11001} {20111,1201}</t>
+	</page>
+</language>

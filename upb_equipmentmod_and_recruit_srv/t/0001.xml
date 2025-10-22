@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+    <page id="1134030" title="Text Page " descr="" voice="no" comment="1134 030">
+        <t id="1">Special Officer</t>
+        <t id="2">NURCAN ARIKAN HOS</t>
+
+        <!-- Player Menu text -->
+
+        <t id="30"> - </t>
+        <t id="50">Services</t>
+
+        <t id="81">Engineer</t>
+        <t id="82">Pilot</t>
+        <t id="83">Manager</t>
+        <t id="84">Marine</t>
+        
+        <t id="91">Recruit NPC to Ship</t>
+        <t id="92">Equipment Modification</t>
+        <t id="93">Other UPB Mods</t>
+        <t id="99">Why so expensive?</t>
+
+        <t id="110">I have to go. Bye.</t>
+        <t id="111">Where can I find you...?</t>
+        
+
+        <t id="115">Oh. Right.</t>
+        <t id="116">I want to hire more</t>
+        <t id="117">No. Thank you.</t>
+
+        <t id="120">Female</t>
+        <t id="121">Male</t>
+        <t id="122">Both..</t>
+
+        <t id="130">Install E.M. to Ship</t>
+        <t id="131">Options</t>
+        <t id="132">Dismantle E.M. from Ship</t>
+        <t id="133">Confirm %s %s</t>
+
+        <t id="150">Restock Fleet</t>
+        <t id="151">Player NPCs</t>
+        <t id="152">Bail</t>
+        <t id="153">Repair</t>
+        <t id="154">Ship Reverse Enginering</t>
+
+        <t id="300">Under Construction</t>
+        <t id="310">Previous page</t>
+        <t id="320">Next page</t>
+        <t id="330">Back</t>
+
+        <t id="360">More</t>
+
+        <t id="400">Bail Manager</t>
+        <t id="410">Manager</t>
+        <t id="420">RFM Fleets</t>
+        <t id="430">Produce for Lost Ships</t>
+        <t id="440">Restart All RFM Fleets</t>
+        <t id="441">All RFM Restarted...</t>
+        <t id="450">Disable All RFM Fleets</t>
+        <t id="460">Restart RFM_</t>
+        <t id="470">Disable RFM_</t>
+        <t id="480">Production signal sent..</t>
+        
+        <t id="500">Select On Map</t>
+        <t id="501">Docked Ships at this station</t>
+        <t id="502">Docked Ships in %s</t>
+        <t id="503">Flying Ships on %s</t>
+        <t id="504">ALL Ships in %s</t>
+        <t id="505">Docked Ships on this Station</t>
+        <t id="506">Docked Ships on this Zone</t>
+
+        <t id="1000">UPB MODs</t>
+        <t id="1001">Options</t>
+        <t id="1002">This category shows options.</t>
+
+        <!-- Lua Equipment Modifiktion Screen -->
+        <t id="2000">Equipment Modifications</t>
+        <t id="2010">Restore Default Settings</t>
+
+        <t id="3000">Role</t>
+        <t id="3010">Size</t>
+        <t id="3020">Activate</t>
+        <t id="3021">Enables or disables modifications to the specified role and size.</t>
+        <t id="3030">Modifications</t>
+        <t id="3040">Keep Previous Mod</t>
+        <t id="3041">If there is an existing modification on the component, the old modification will be preserved.</t>
+        <t id="3050">Modification</t>
+        <t id="3060">Modification</t>
+        
+        <t id="3100">Effectiveness</t>
+        <t id="3110">Valid for Ship Builts</t>
+        <t id="3111">When a new ship is built in shipyards, the specified changes will be applied.</t>
+        <t id="3120">Valid for Ship Upgrades</t>
+        <t id="3121">When a ship is updated in a shipyard or resupply ships, the specified modifications will be applied.</t>
+        <t id="3130">Player Shipyards</t>
+        <t id="3131">Valid at player shipyards.</t>
+        <t id="3140">Resupply/Repair Ships</t>
+        <t id="3141">Make it effective when equipment is replaced, resupplied or repaired on auxiliary or carrier ships.</t>
+        <t id="3150">Valid for Ship Upgrades</t>
+        <t id="3151">When a ship is updated in a shipyard or resupply ships, the specified modifications will be applied.</t>
+
+        <t id="3200">Debug</t>
+        <t id="3210">Debug Chance</t>
+        <t id="3211">Debug Mod. It is only effective when running the game with debug mod support.</t>
+        <t id="3220">Deep Debug</t>
+        <t id="3221">Deep Debug Mod. It is only effective when running the game with debug mod support.</t>
+
+        <!-- purposeOptions -->
+        <t id="5000">Fight</t>
+        <t id="5010">Auxiliary</t>
+        <t id="5020">Build</t>
+        <t id="5030">Mine</t>
+        <t id="5040">Trade</t>
+        <t id="5050">Salvage</t>
+        <t id="5060">Dismantling</t>
+        
+        <!-- sizeOptions -->
+        <t id="5100">XL Ship</t>
+        <t id="5110">L Ship</t>
+        <t id="5120">M Ship</t>
+        <t id="5130">S Ship</t>
+
+        <!-- equipmentModClasses -->
+        <t id="5200">Chassis</t>
+        <t id="5210">Weapons</t>
+        <t id="5220">Turrets</t>
+        <t id="5230">Shields</t>
+        <t id="5240">Engines</t>
+
+        <t id="6000">Up to random 1 more property</t>
+        <t id="6001">Up to random %d more properties</t>
+        <t id="6010">Effect</t>
+        <t id="6020">     N O N E     </t>
+
+        
+    </page>
+
+    <page id="1134031" title="NURCAN ARIKAN HOS" descr="Lines NURCAN ARIKAN HOS" voice="yes" comment="1134 031">
+        <t id="0">(Metadata, do not translate)[argon] [terran] female basic</t>
+
+        <!-- ROfficer Spoken - Greetings p 10109-->
+        <t id="2001">(Greeting - neutral)Hello there.</t>
+        <t id="2002">(Greeting - neutral)Hello.</t>
+        <t id="2012">(Greeting - welcome somewhere)Welcome.</t>
+        <t id="3003">Captain.</t>
+        <t id="3103">Captain!</t>
+        <t id="12102">(Friendly greeting)It's good to see you, friend.</t>
+        <t id="12103">(Allied greeting)It's an honour to see you here.</t>
+        <!--   p 10159 -->
+        <t id="30223004">(variant)Hi there.</t>
+        <!--   p 10161 -->
+        <t id="30226222">(very friendly)Yes? How can I help you?</t>
+
+        <!-- Officer Spoken - Bye p 10109-->
+        <t id="2007">(Goodbye - neutral)Good luck out there.</t>
+        <t id="2008">(Goodbye - neutral)Goodbye.</t>
+        <t id="2011">(Goodbye - staff)Glad to have been of assistance.</t>
+        <t id="2013">(goodbye - deal struck)Good doing business.</t>
+        <t id="1000207">(player accepts plea for help or emergency mission offer)Thank you! Good luck!</t>
+        <!--   p 10159-->
+        <t id="30223006">(variant)See you later.</t>
+        <t id="30223007">(variant)Bye.</t>
+   
+        <!-- Officer Spoken - Expensive p 10109 -->
+        <t id="5036">(variant)(refusal to surrender - finds it funny)You're joking, right?</t>
+        <t id="9004">(variant)(criminal cursing)You're a real nuisance!</t>
+        <t id="10201">(variant)(NPC hired)You won't regret this. I'll work hard for you.</t>
+        <!--   p 10106-->
+        <t id="10069">(variant)(response to taunt - small ship)Are you serious?</t>
+   
+
+        <!-- Officer Spoken - Menu responses  -->
+        <!--  p none -->
+        <t id="8503">(variant)You don't have enough money</t>
+        <t id="11803">You don't have enough room on your ship right now.</t>
+
+        <!-- Officer Spoken - Confirmed 10109  -->
+        <t id="2103">(formal acknowledgement)Affirmative.</t>
+        <t id="2104">(formal acknowledgement)Confirmed.</t>
+        <t id="2105">(formal acknowledgement)Acknowledged.</t>
+        <t id="2106">(casual acknowledgement)Sure.</t>
+        <t id="2107">(casual acknowledgement)Got it.</t>
+        <t id="2108">(casual acknowledgement)Okay.</t>
+
+        <!-- Officer Spoken - Transaction completed p 10109 -->
+        <t id="5003">Units are away.</t>
+        <t id="5005">All units retrieved.</t>
+        <t id="10302">Order completed.</t>
+        <t id="10306">Task complete.</t>
+        <t id="11006">(variant)(fluff - finishing up pt. II)What's next on the list?</t>
+        <!--   p none-->
+        <t id="8504">(variant)Anything else?</t>
+    
+    </page>
+</language>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="PurchasablePaintModifications"
+         name="Purchasable Paint Modifications by Mycu"
+         author="Mycu"
+         version="110"
+         date="2025-04-13"
+         save="false"
+         enabled="1"
+         description="Позволяет приобрести базовые и улучшенные модификации покраски">
+    <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD"/>
+
+    <dependency id="ws_2083714551" optional="true" name="Paintjobs Galore!"/>
+    <dependency id="ws_2599852537" optional="true" name="MWD's Paintmods for the Intrepid Explorer"/>
+    <dependency id="ws_2574633119" optional="true" name="Tech Paintjobs Collection"/>
+    <dependency id="ws_1666869624" optional="true" name="Freeq's Paintjobs"/>
+</content>

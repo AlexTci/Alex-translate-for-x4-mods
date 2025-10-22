@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- english -->
+<language>
+	<page id="3568921" voice="no">
+		<t id="1">Infrastructure Courier</t>
+		<t id="2">Courier which serves player infrastructure tasks</t>
+		<t id="3">Sales agent</t>
+		<t id="4">Courier which redistributes excess goods to other (trade) stations</t>
+		<t id="5">Supply Courier</t>
+		<t id="6">Courier which serves supply and demand between two chosen stations</t>
+		<t id="7">Supply Courier Multi</t>
+		<t id="8">Courier which serves supply and demand between warehouse and multiple stations</t>
+		<t id="9">Warehouse</t>
+		<t id="10">Factory</t>
+		<t id="11">Source station</t>
+		<t id="12">Destination station</t>
+		<t id="13">Group 1 station</t>
+		<t id="14">Group 2 station</t>
+		<t id="15">Group 3 station</t>
+		<t id="16">Serve build storage</t>
+		<t id="17">Serve station supply storage</t>
+		<t id="18">Serve fleet resupply ships</t>
+		<t id="19">Ship should be assigned directly to warehouse</t>
+		<t id="20">Source warehouse</t>
+		<t id="21">List of stations from group 1</t>
+		<t id="22">Warehouse level to transfer to group 1 stations</t>
+		<t id="23">List of stations from group 2</t>
+		<t id="24">Warehouse level to transfer to group 2 stations</t>
+		<t id="25">List of stations from group 3</t>
+		<t id="26">Warehouse level to transfer to group 3 station</t>
+		<t id="27">Ship should be assigned directly to source station</t>
+	</page>
+</language>

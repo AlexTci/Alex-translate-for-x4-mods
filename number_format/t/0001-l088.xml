@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="88">
+    <page id="1001" title="Interface" voice="no">
+        <t id="105">(decimal point).</t>
+        <t id="106">(thousands separator) </t>
+	</page>
+</language>

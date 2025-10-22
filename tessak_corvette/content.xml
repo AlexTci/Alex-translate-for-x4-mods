@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3424955901" name="Terran Tessak Corvette" description="Terran Tessak Corvette&#13;&#10;&#13;&#10;7.5 compatible&#13;&#10;&#13;&#10;Not VRO compatible&#13;&#10;&#13;&#10;Adds a new corvette to the game, the Tessak. The ship can be purchased from the Segaris Pioneers.&#13;&#10;&#13;&#10;The ship has 5 weapon mounts, including one mount for a missile launcher. It can be equipped with two shield generators and two turrets.&#13;&#10;&#13;&#10;" author="SirFrancisDrake" version="103" date="2025-03-18" save="0" lastupdate="1742331403">
+  <text language="7" name="Terran Tessak Corvette" description="Добавляет новый корвет Тессак. Корабль можно приобрести у Пионеров Сегариса."></text>
+</content>

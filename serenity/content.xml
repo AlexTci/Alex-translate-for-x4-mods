@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2082159969" name="Serenity Dreadnaught Carrier" description="Adds a Dreadnaught Carrier to the Free Split shipyard" author="Keeshah" version="300" date="2025-03-03" save="0" enabled="1" sync="false" lastupdate="1741025665">
+  <text language="7" name="Serenity Dreadnaught Carrier" description="Добавляет авианосец-дредноут на свободную верфь Сплита. Сверхтяжелый авианосец, от которого произошел Раптор." author="Keeshah"/>
+</content>

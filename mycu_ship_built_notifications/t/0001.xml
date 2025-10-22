@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="24627" voice="no">
+        <t id="100">Ship built notificatons</t>
+        <t id="150">All player built ships</t>
+        <t id="151">XL class ships</t>
+        <t id="152">L class ships</t>
+        <t id="153">M class ships</t>
+        <t id="154">S class ships</t>
+        <t id="155">Trade purpose ships</t>
+        <t id="156">Fight purpose ships</t>
+        <t id="157">Build purpose ships</t>
+        <t id="158">Mine purpose ships</t>
+        <t id="159">Auxiliary purpose ships</t>
+        <t id="160">Cancel notifications</t>
+
+        <t id="170">\033#FF00FF00#Active\033X</t>
+        <t id="171">\033#FF666666#Inactive\033X</t>
+        <t id="180">%s \(%s\) was built in %s \(%s sector\)</t>
+        <t id="181">Ship has been built</t>
+    </page>
+</language>

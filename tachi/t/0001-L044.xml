@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="999902" title="Tachi" descr="Tachi" voice="yes">
+			<t id="1">Tachi</t>
+			<t id="2">(Tachi) {999902,4}</t>
+			<t id="3">The Tachi is a Terran super heavy fighter</t>
+			<t id="4">Tachi</t>
+		</page>
+	</add>
+</diff>

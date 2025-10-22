@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- translations from translate.google.com -->
+<diff><add sel="/language">
+	<!-- german -->
+	<!-- "kuertee hacking outcomes" = "kho" = "11 8 15" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11815" voice="no">
+		<t id="688845">Dateien durchsuchen</t>
+		<t id="688846">Ausloggen</t>
+		<t id="688847">Beschlagnahmte Schiffe freigeben</t>
+	</page>
+</add></diff>

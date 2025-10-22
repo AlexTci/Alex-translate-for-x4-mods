@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diff><add sel="/language">
+	<!-- "kuertee: Waypoint fields for deployments" = "kWFFD" = "11 23 6 6 4" = "23664" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="23664" voice="no">
+		<t id="1">kuertee: 部署航线任务</t>
+		<!-- config -->
+		<t id="2">调试日志</t>
+		<t id="3">开启调试</t>
+		<t id="4">尺寸 / 半径系数</t>
+		<t id="5">自动补充可部署设备</t>
+		<!-- map ui text -->
+		<t id="1000">航线任务</t>
+		<t id="1001">形状</t>
+		<t id="1002">(shape)立方体</t>
+		<t id="1003">(shape)球体</t>
+		<t id="1004">(shape)墙</t>
+		<t id="1005">尺寸/半径</t>
+		<t id="1006">启动</t>
+		<t id="1007">显示预览</t>
+		<t id="1008">允许部署</t>
+		<t id="1009">暂停部署</t>
+		<t id="1010">隐藏预览</t>
+		<t id="1011">创建航线任务</t>
+		<t id="1012">密度(based on radar/weapon range)</t>
+		<t id="1013">区域系数</t>
+		<t id="1014">中止并取回</t>
+		<t id="1015">完成任务: %1(original mission name)</t>
+		<t id="1016">显示原始任务</t>
+		<t id="1017">显示航线任务</t>
+		<t id="1018">在地图上创建一个航线任务</t>
+		<t id="1019">部署: %1(deployable)</t>
+		<t id="1020">激活，然后在地图上创建一个航线任务</t>
+		<t id="1021">(Density)最优\(范围 x1\)</t>
+		<t id="1022">(Density)高\(范围 x2\)</t>
+		<t id="1023">(Density)稀疏\(范围 x3\)</t>
+		<t id="1024">(Density)低\(范围 x4\)</t>
+		<t id="1025">(shape)矩形平面</t>
+		<t id="1026">(shape)圆型平面</t>
+		<t id="1027">(set_objective text)%1(deploy name), %2(deployed) / %3(waypoints count)</t>
+		<t id="1028">(mission panel action)指派一艘船</t>
+		<t id="1029">(mission panel action)显示已分配的船舶 \(%s\)</t>
+		<t id="1030">(Density)不足\(范围 x5\)</t>
+		<t id="1031">(Density)有瑕疵\(范围 x10\)</t>
+		<t id="1032">激活并创建航线任务</t>
+		<t id="1033">替换航线任务</t>
+		<t id="1034">(Density)塞满\(范围 x2, 无缝隙\)</t>
+		<!-- orders -->
+		<t id="2000">收集范围内的可部署设备</t>
+		<t id="2001">收集司令官的可部署设备</t>
+		<!-- notification/log book -->
+		<t id="3000">补充可部署设备</t>
+		<t id="3001">你的飞船, %1(ship),\n在 %4(station) 补充 %2(count) x %3(deployable) 共花费 %5(credits).</t>
+	</page>
+</add></diff>

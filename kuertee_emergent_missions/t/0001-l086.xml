@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diff><add sel="/language">
+	<!-- "kuertee emergent missions" = "kem" = "11 5 13" = in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11513" voice="no">
+		<t id="1">kuertee: 紧急任务</t>
+		<!-- config -->
+		<t id="2">调试日志</t>
+		<t id="3">开启调试</t>
+		<!-- requirements -->
+		<t id="11">关系要求</t>
+		<t id="12">无</t>
+		<t id="13">中立</t>
+		<t id="14">友好</t>
+		<t id="15">订阅任何贸易或战争 </t>
+		<t id="16">声誉要求</t>
+		<t id="17">防御者</t>
+		<t id="18">防御者或雇佣兵</t>
+		<t id="19">防御者或义务警员</t>
+		<t id="20">防御者, 雇佣兵, 或义务警员</t>
+		<!-- other configs -->
+		<t id="31">奖励倍率</t>
+		<t id="32">星门 范围 巡逻/突袭 任务 提供</t>
+		<t id="33">始终在空间站生成任务NPC处理程序</t>
+		<t id="34">移除第三方模式强加的限制</t>
+		<!-- mission groups -->
+		<t id="101">求救! 求救!(missions)</t>
+		<t id="102">护送(missions)</t>
+		<t id="103">巡逻星区(missions)</t>
+		<t id="104">突袭星区(missions)</t>
+		<t id="105">护送海盗(missions)</t>
+		<t id="106">搜索和摧毁(missions)</t>
+		<!-- sector classifications -->
+		<t id="111">首都</t>
+		<t id="112">领土</t>
+		<t id="113">边疆</t>
+		<t id="114">外国 \(首都\)</t>
+		<t id="115">外国 \(领土\)</t>
+		<t id="116">敌人 \(首都\)</t>
+		<t id="117">敌人 \(领土\)</t>
+		<t id="118">自由</t>
+		<!-- mission maydays -->
+		<t id="201">(title)求救! 求救! \(%s(ship)\)</t>
+		<t id="202">(description)保护 %s(ship)，抵御袭击者。</t>
+		<t id="211">当你的目标计算机有空时，我们会给你分配目标。对不属于我们任务范围的势力的交战将被忽略。</t>
+		<t id="212">为了完成任务，请确保 %s(ship) 停靠，离开该区域，或者在雷达范围内没有发现敌人。</t>
+		<t id="213">对不属于我们任务范围的势力的交战将被忽略。</t>
+		<t id="221">你会因为 %s(ship) 在攻击中幸存下来而得到奖励，并根据他们的敌人数量进行调整，以及你的飞船与敌人交战的奖励。</t>
+		<t id="222">失败的条件是。%1(ship) 没有护卫超过5分钟；或 %1(ship) 被摧毁。</t>
+		<!-- mission maydays: short title for RAP -->
+		<t id="229">求救! 求救!</t>
+		<!-- mission maydays: mission log -->
+		<t id="231">%s 在你有机会与他们交战之前逃离了他们的攻击者.</t>
+		<!-- damage and kill list -->
+		<t id="242">你的交战: %s(engagement list).</t>
+		<t id="243">%1(count) x %2(class name) \(击杀: %3(kills)\)</t>
+		<t id="244">%1(count) x %2(class name) \(击杀: %3(kills), 损坏: %4 / %5(damage)\)</t>
+		<t id="245">%1(count) x %2(class name) \(损坏: %3 / %4(damage)\)</t>
+		<t id="246">%1(count) x %2(class name)</t>
+		<!-- class names -->
+		<t id="251">空间站</t>
+		<t id="252">XL 飞船</t>
+		<t id="253">L 飞船</t>
+		<t id="254">M 飞船</t>
+		<t id="255">S 飞船</t>
+		<t id="256">XS 飞船</t>
+		<!-- class names (plural) -->
+		<t id="261">空间站</t>
+		<t id="262">XL 飞船</t>
+		<t id="263">L 飞船</t>
+		<t id="264">M 飞船</t>
+		<t id="265">S 飞船</t>
+		<t id="266">XS 飞船</t>
+		<!-- mission maydays: failure -->
+		<t id="271">%s(ship) 被摧毁了.</t>
+		<t id="272">%s(ship) 超过5分钟没有护送人员.</t>
+		<!-- mission ui buttons -->
+		<t id="273">指派一艘飞船</t>
+		<t id="274">显示分配的飞船</t>
+		<t id="275">移除所有分配的飞船</t>
+		<!-- mission escorts -->
+		<t id="301">(title)护送 %s(ship)</t>
+		<t id="302">(description)护送 %s(ship) 完成他们的任务。</t>
+		<t id="303">(title)护卫突袭者 \(%s(ship)\)</t>
+		<t id="304">(description)在他们突袭和掠夺 %2(sector) 时，护卫 %1(ship)。</t>
+		<t id="311">当你的目标计算机有空时，我们会给你分配目标。对不属于我们任务范围的势力的交战将被忽略。</t>
+		<t id="312">为了完成任务，确保 %s(ship) 完成他们所有的贸易订单。他们在任务期间收到的新贸易订单可能会延长任务时间。</t>
+		<t id="313">当 %s(ship) 在没有护卫的情况下超过5分钟，任务将提前结束。</t>
+		<t id="321">他们每完成一笔交易，你都会得到奖励，奖励的标准是他们所穿越的区域，你的战舰在护航中的时间\(在100公里范围内\)，以及你的战舰与敌人交战的情况。</t>
+		<t id="322">失败条件是：当 %s(ship) 未能完成任何交易。</t>
+		<!-- mission escorts: short title for RAP -->
+		<t id="327">支援海盗</t>
+		<t id="328">护送矿船</t>
+		<t id="329">护送商船</t>
+		<!-- mission escorts: mission updates -->
+		<t id="331">当前的贸易任务: 销售 %1(wares) 到 %2(trading partner).</t>
+		<t id="332">当前的贸易任务: 从 %2(trading partner) 购买 %1(wares).</t>
+		<t id="333">当前的采矿任务: 递送 %1(wares) 到 %2(trading partner).</t>
+		<t id="334">\(%1(wares) 到 %2(trading partner)\)</t>
+		<t id="335">\(%1(wares) 来自 %2(trading partner)\)</t>
+		<t id="336">\(%1(wares) 到 %2(trading partner)\)</t>
+		<t id="337">(objective text)护送 %s(ship)。</t>
+		<t id="338">(objective text)等待 %s(ship)。</t>
+		<!-- mission escorts: mission log -->
+		<t id="341">%1(mission name): 交易完成: %2(number), 穿越星区: %3(number), 护送时间: %4 / %5 \(%6%%(time in escort in perc)\).</t>
+		<!-- mission escorts: convo -->
+		<t id="351">完成我的护送任务。</t>
+		<!-- mission escorts: failure -->
+		<t id="371">%s(ship) 没有完成交易。</t>
+		<!-- briefing notes -->
+		<t id="391">\(请注意，%s(ship) 可以行驶到 %s(speed) m/s。\)</t>
+		<!-- mission sector raids -->
+		<t id="401">(title)突袭星区: \(%s(faction), %s(sector)\)</t>
+		<t id="402">(description)支援 %1(ship) 对 %2(sector name) 的敌方目标进行突袭，至少20分钟。</t>
+		<t id="403">(title)巡逻星区: \(%s(faction), %s(sector)\)</t>
+		<t id="404">(description)支援 %1(ship) 在 %2(sector name) 的巡逻，至少20分钟。</t>
+		<!-- mission sector raids: mission updates -->
+		<t id="405">更新: 新的任务: %s(ship)</t>
+		<t id="406">更新: 新的星区: %s(sector name)</t>
+		<t id="407">更新: 新的联络人: %s(actor name)</t>
+		<t id="408">更新: 新的敌方目标: %s(faction name)</t>
+		<t id="409">护送时间 (minutes)</t>
+		<t id="410">巡逻时间 (minutes)</t>
+		<!-- mission sector raids: objectives -->
+		<t id="411">当你的目标计算机空闲时，我们会给你分配目标。这些都是可选的目标，你可以忽略它们或自行与其他目标交战。然而，除了对罪犯的攻击，对不是我们目标的势力的交战将被忽略。</t>
+		<t id="412">当 %s(ship) 完成他们的命令或20分钟后没有发现敌方目标时，任务就完成了。他们在任务期间收到的新战斗命令可能会延长任务。护送和击杀奖励会在20分钟后继续累积。你可以要求提前解除任务。</t>
+		<!-- mission defend pirate: objectives -->
+		<t id="413">当 %s(ship) 离开该区时，任务完成。</t>
+		<!-- mission sector raids: briefing -->
+		<t id="414">当 %s(ship) 完成他们的任务时，任务将提前结束。</t>
+		<t id="421">如果你的飞船与敌人交战，你将获得奖励，如果 %s(ship) 幸存下来，你将获得奖励。</t>
+		<t id="422">如果你在任务区域没有飞船超过5分钟，任务将提前结束。</t>
+		<t id="423">你的首要任务是在该地区进行巡逻 - 无论是在任务指导下还是你自由行动。</t>
+		<!-- mission sector raids: short title for RAP -->
+		<t id="427">支援巡逻</t>
+		<t id="428">支援突袭</t>
+		<!-- mission sector raids: mission log -->
+		<t id="441">没有与指定的敌人交战。</t>
+		<t id="442">%s 提前完成了他们的任务 \(在你收到简报和开始你的护送任务之前\).</t>
+		<!-- mission sector raids: convo -->
+		<t id="451">关于星区突袭的简报。</t>
+		<t id="452">请求解除突袭任务。</t>
+		<t id="453">汇报星区突袭情况。</t>
+		<t id="454">关于区域巡逻的简报。</t>
+		<t id="455">请求解除巡逻任务。</t>
+		<t id="456">汇报区域巡逻情况。</t>
+		<!-- mission sector raids: briefing -->
+		<t id="461">%s(sector name) 是我们的首都.</t>
+		<t id="462">%s(sector name) 是我们的领地.</t>
+		<t id="463">我们占据了 %2(factions) 的 %1(sector)。</t>
+		<t id="464">%1(sector name) 是 %2(other faction) 的首都.</t>
+		<t id="465">%1(sector name) 是 %2(other faction) 的领地.</t>
+		<t id="466">%1(sector name) 是未占领星区</t>
+		<t id="471">(patrol)我们在该星区有 %1(number) 个基地: %2(stations).</t>
+		<t id="472">我们的目标: %s(other faction).</t>
+		<t id="473">我们的目标: %s(other factions).</t>
+		<t id="474">我们的目标在该星区有 %1(number) 个基地: %2(stations).</t>
+		<t id="481">(enroute)我们目前在 %1(current sector)  ，正在前往 %2(target sector) 的途中。</t>
+		<t id="482">我们的舰队有: %s(L or XL ship list) 和我们的支援舰。</t>
+		<t id="483">情报显示，这些敌舰在我们的区域内: %s(L or XL ship list) 和他们的支援舰。</t>
+		<t id="484">(mission notification)更新: 继续巡逻或请求解除任务。</t>
+		<t id="485">(mission description)更新: 你的支援任务已经完成，但在该区还有更多的敌人目标。 继续你的巡逻，与敌人的目标交战。或者请求解除任务。</t>
+		<t id="486">(mission description)更新: %s(ship) 被摧毁了.</t>
+		<t id="487">(mission notification)更新: 你的支援任务已经完成.</t>
+		<t id="488">(mission notification)更新: %s(ship) 被摧毁了.</t>
+		<!-- mission sector raids: debriefing -->
+		<t id="491">行动结果：</t>
+		<t id="492">%1(number) 击杀 / %2(total) x %3(enemy macro).</t>
+		<t id="493">%1(number) 击杀 / %2(total) x %3(enemy macro): \033#FF00FF00#你的击杀: %4(number)\033X: %5(reward).</t>
+		<t id="494">%1(number) 击杀 / %2(total) x %3(enemy macro): \033#FF00FF00#你的伤害: %4(number)\033X / %5(total hull): %6(reward).</t>
+		<t id="495">%1(number) 击杀 / %2(total) x %3(enemy macro): \033#FF00FF00#你的击杀: %4(number), 你的伤害: %5(number)\033X / %6(total hull): %7(reward).</t>
+		<t id="496">报酬总额: %s.</t>
+		<t id="497">护送报酬: %s.</t>
+		<t id="498">参与报酬: %s.</t>
+		<t id="499">巡逻报酬: %s.</t>
+		<!-- mission hunts -->
+		<t id="501">(title)搜索和摧毁: \(%s(ship)\)</t>
+		<t id="502">(description)搜索和摧毁 %s(ship).</t>
+		<t id="503">(reward text)报酬: %s(base) + %s(bonus)</t>
+		<t id="511">为了完成任务，确保 %s(ship) 被摧毁。</t>
+		<t id="512">请注意，%s(faction) 不会报复你对 %s(ship) 的攻击。</t>
+		<t id="521">你将获得 %s(reward for kills of target)，根据你对 %s(ship) 造成的伤害量，你将获得约 %s(reward for target)。</t>
+		<!-- mission hunts: short title for RAP -->
+		<t id="529">搜索和摧毁</t>
+		<t id="531">%s(ship) 最后一次报告坐标是 %s(position) 在 %s(sector) 时间是 %s(time)  。我们将向您更新新的报告。</t>
+		<t id="532">击杀目标 %s(ship): %s(kill list)</t>
+		<t id="533">\(关于 %s(idcode) 的报告, 在 %s(time) 之前\)</t>
+		<t id="534">数分钟后</t>
+		<!-- mission hunts: mission updates -->
+		<t id="541">(mission description)更新: 新的位置: %s(position) 在 %s(sector), 在 %s(time) 之前.</t>
+		<t id="542">(mission notification)更新: 新的位置在 %s(sector), 在 %s(time) 之前.</t>
+		<t id="543">(Unacceptable mission reason 1)你一小时只允许执行 %s(counter) 次任务：冷却剩余 %s(time) 。</t>
+		<t id="544">(Unacceptable mission reason 2)你已经有一个关于这个目标的任务。</t>
+		<t id="545">(Unacceptable mission reason 3)你一小时只能完成 %s(counter) 个任务。</t>
+        <t id="546">本次任务的最新报告</t>
+        <!-- mission hunts: debriefing -->
+		<t id="571">你对 %s(ship) 的毁灭没有贡献。</t>
+		<t id="572">%s(ship) 仍在航行。</t>
+		<t id="573">摧毁 %s(ship) 的报酬：%s(reward)。</t>
+		<t id="574">摧毁 %s(ship) 的报酬：%s(reward)。</t>
+		<t id="575">你没能找到 %s(ship).</t>
+		<t id="576">你未能确认 %s(ship) 的身份。</t>
+		<t id="577">你未能对 %s(ship) 造成伤害.</t>
+		<!-- mission hunts: bounty hunter convo for missions -->
+		<t id="601">任务？</t>
+		<t id="602">%1(faction): %2(number) 个任务。</t>
+		<t id="603">中小型目标：%1(number) 个任务。</t>
+		<t id="604">大型和超大型目标：%1(number) 个任务。</t>
+	</page>
+</add></diff>
+<!-- <t id="18000">\033#FF00FF00#AARRGGBB(green)\033X</t> -->
+<!-- 2001, 2002, 2005, 2012, 3003 - hello there. hello. comms channel open. welcome. captain.
+3103 = captain!
+4002, 4005, 5030, 5031 - follow me. follow my lead. be prepared for combat encounters. keep an eye on sensors.
+4009, 4012, 10001, 10509 - open fire. engage. enemy spotted. you are free to engage.
+10055, 10056, 11506 - taking shield damage. shields hit. shields are down.
+10006 - we're taking hits.
+10007, 10008 - taking serious damage. damage is getting serious.
+10016, 5015 - help! get us out of here!
+10025, 10030, 10035 - nooo! abandon ship! aaargh!
+2110, 2111 = thank you. thanks for your help.
+ -->

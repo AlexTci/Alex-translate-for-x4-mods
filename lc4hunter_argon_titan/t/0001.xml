@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<page id="996001" title="Titan Title" descr="Titan Description" voice="yes">
+			<t id="1">{20005,7016}</t>
+			<t id="2">The Titan is the primary battleship of the Argon Federation. Following the Colossus, it is the second largest military ship in the Argon fleet. The Titan is a fast and well armed battleship, but lacks the survivability of other capital ships.</t>
+			<t id="3">{20005,7016} {20403,5}</t>
+		</page>
+	</add>
+</diff>

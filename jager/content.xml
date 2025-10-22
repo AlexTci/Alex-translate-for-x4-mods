@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3529946903" name="Jager" description="Adds the Jager to the vigor syndicate wharf" author="eva" version="100" date="2025-07-20" save="0" enabled="1" sync="false" lastupdate="1752975639">
+  <text language="7" name="Jager Gunboat Corvette" description="Добавляет корабля Jager(Егерь) на верфь Синдиката Силы" author="eva"/>
+</content>

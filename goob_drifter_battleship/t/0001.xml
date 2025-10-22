@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+        <page id="999834" title="GoobleSnorf's Drifter Battleship" descr="GoobleSnorf's Drifter Battleship" voice="yes">
+            <t id="1">Drifter Battleship</t> <!-- Ship Name -->
+            <t id="2">(Drifter Battleship) {999834,4}</t> <!-- Production Description -->
+            <t id="3">Drifter Battleship</t> <!-- Ware Description -->
+            <t id="4">Drifter Battleship</t>
+        </page>
+    </add>
+</diff>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--  translated into russian by Alex5Not   -->
+<language>
+	<!-- "kuertee station scanner" = "kss" = "11 19 19 " in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="111919" voice="no">
+		<!-- настройки -->
+		<t id="0">kuertee: Сканер станций</t>
+		<t id="1">Debug log</t>
+		<!-- миссия -->
+		<t id="1000">Сканировать станцию</t>
+		<!-- брифинг -->
+		<t id="1100">(objective 2)Выполнение миссии: %1(original mission name)</t>
+		<!-- панель миссии мода -->
+		<t id="1200">Показать оригинальную миссию</t>
+		<!-- панель миссии мода / панель уведомлений -->
+		<t id="1300">(set_objective text)%1(station)</t>
+		<t id="1301">(set_objective text)%1(station), %2(scan for module or percentage)</t>
+		<t id="1302">Сканировано: %1(progress)\%. Модулей: %2(scanned count)/%3(incomplete count).</t>
+		<t id="1303">%1(module) \(Уровень сканирования: %2. Требуется: %3.\)</t>
+		<!-- панель миссии x4 -->
+		<t id="1400">(x4 mission button)Включить и сканировать станцию</t>
+		<t id="1401">Сканер станции</t>
+		<t id="1402">Показать миссию сканирования станции</t>
+	</page>
+</language>

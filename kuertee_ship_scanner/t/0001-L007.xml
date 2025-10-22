@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--  translated into russian by Alex5Not   -->
+<language>
+	<!-- "kuertee ship scanner" = "kshs" = "11 19 8 19 " in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="19819" voice="no">
+		<!-- mission -->
+		<t id="1000">Сканер кораблей</t>
+		<t id="1001">Сканировать корабль</t>
+		<t id="1002">Сканер корабля: %1(ship)</t>
+		<t id="1003">Выполнить миссию: %1(original mission name)</t>
+		<t id="1004">Показать оригинальную миссию</t>
+		<t id="1005">Показать миссию сканирования корабля</t>
+		<t id="1006">Включить и сканировать корабль</t>
+		<t id="1007">(set_objective text)%1(ship)</t>
+		<t id="1008">(set_objective text)%1(ship), %2(scan for)</t>
+	</page>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="95211001" title="Kondor Renegade" descr="Kondor Renegade" voice="no">
+		<t id="11001">Кондор Ренегат</t>
+		<t id="11002">(Кондор Ренегат Агрессор){95211001,11001} {20111,1101}</t>
+		<t id="11003">(Кондор Ренегат Защитник){95211001,11001} {20111,1201}</t>
+	</page>
+</language>

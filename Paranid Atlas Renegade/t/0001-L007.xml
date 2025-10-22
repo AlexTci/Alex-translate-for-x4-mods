@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+	<page id="93311001" title="Atlas Renegade" descr="Atlas Renegade" voice="no">
+		<t id="11001">Атлас Ренегат</t>
+		<t id="11002">(Атлас Ренегат Агрессор){93311001,11001} {20111,1101}</t>
+		<t id="11003">(Атлас Ренегат Защитник){93311001,11001} {20111,1201}</t>
+	</page>
+</language>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3311590683" name="Terran kitbashed vanilla ships standalone version" description="Этот мод добавляет модифицированные варианты кораблей Земного Протектората. В настоящее время мод добавляет дополнительный вариант Альфа для кораблей: Токио, Хонсю, Осака.  &#13;&#10; Известные проблемы: На кораблях отсутствуют значки экипировки. Возможно, балансировку можно было бы улучшить." version="100" author="Lupercal" date="2025-10-19" save="0" lastupdate="1760876796">
+  <dependency id="ego_dlc_terran" version="100" name="Cradle of Humanity"></dependency>
+</content>

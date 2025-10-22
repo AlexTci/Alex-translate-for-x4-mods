@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3399660588" name="Supply chains" description="Коллекция торговых скриптов для станций игроков. Простое и эффективное перемещение товаров между станциями, принадлежащими игрокам (и не только им). Курьер по поставкам. Многоцелевая доставка. Агент по продажам. Инфраструктурный курьер." author="Erixon" version="13" save="0" date="2025-02-08" lastupdate="1739029881">
+  <text language="44" name="SupplyChains" description="Collection of trade scripts for player stations" author="Erixon"></text>
+</content>

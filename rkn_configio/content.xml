@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_3329937856" author="Runekn" name="Expanded Configuration Load" description="Заменяет выпадающий список строительства станции и кораблей многофункциональным диалоговым окном." version="158" date="2025-10-04" save="false" sync="false" lastupdate="1759294932">
+  <dependency name="SirNukes Mod Support APIs" id="ws_2042901274" version="100" optional="true"/>
+</content>

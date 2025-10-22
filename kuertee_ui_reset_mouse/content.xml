@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><content id="kuerteeUIResetMouseOnMenuClose"
+name="UI: Reset mouse by kuertee"
+author="kuertee, Mycu"
+version="800"
+date="2025-09-14"
+save="false"
+enabled="1">
+
+<text language=""
+description="UI: Reset mouse on menu and game controller&#13;&#10;
+https://www.nexusmods.com/x4foundations/mods/542&#13;&#10;
+by kuertee&#13;&#10;
+&#13;&#10;
+Mod effects:&#13;&#10;
+============&#13;&#10;
+1. отключение автопилота: курсор в центр экрана,&#13;&#10;
+2. закрыте меню: курсор в центр,&#13;&#10;
+3. открытие меню: курсор в предыдущее положение,&#13;&#10;
+4. движение контроллера: скрыть курсор,&#13;&#10;
+5. движение мыши После контроллера: показать курсор,&#13;&#10;
+6. меню взаимодействия или меню диалога: отключить курсор&#13;&#10;
+"/>
+
+</content>

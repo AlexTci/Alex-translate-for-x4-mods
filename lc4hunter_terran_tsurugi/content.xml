@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_terran_tsurugi" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" version="211" date="2025-10-13" save="0" enabled="1">
+	<text language="7" name="Terran Tsurugi" description="Добавляет сверхтяжелый истребитель Цуруги в порт Земного протектарата" author="Lc4Hunter" />
+	<text language="33" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="34" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="39" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="44" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="45" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="49" name="Terran Tsurugi" description="Fügt den superschweren Jäger Tsurugi zu den Terranischen Raumdocks hinzu" author="Lc4Hunter" />
+	<text language="81" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="82" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="86" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+	<text language="88" name="Terran Tsurugi" description="Adds the Terran Tsurugi Super Heavy Fighter to the Terran wharfs" author="Lc4Hunter" />
+</content>

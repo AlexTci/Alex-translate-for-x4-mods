@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="lc4hunter_split_viper" name="Split Viper" description="Adds the Viper to the Split wharf" author="BrummBear and Lc4Hunter" version="220" date="2025-03-15" save="0" enabled="1">
+	<text language="7" name="Split Viper Heavy Fighter" description="Добавляет корабль Гадюка на сплитские верфи" author="BrummBear and Lc4Hunter" />
+</content>

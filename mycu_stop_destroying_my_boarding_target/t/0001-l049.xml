@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language id="49">
+	<page id="14225" voice="no">
+		<t id="100">Schießen Sie nicht auf mein Enterziel!</t>
+		<t id="101">Entervorgang</t>
+		<t id="102">%s hat das Feuer auf %s eingestellt</t>
+		<t id="103">%s weigert sich den Angriff auf %s zu stoppen. Empfangene Nachricht: Das Schiff stellt wegen der aktiven Türme derzeit noch eine Bedrohung dar.</t>
+		<t id="104">%s weigert sich den Angriff auf %s zu stoppen. Empfangene Nachricht: Ich werde nicht aufhören!</t>
+	</page>
+</language>
